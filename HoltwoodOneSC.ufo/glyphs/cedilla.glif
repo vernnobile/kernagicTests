@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="cedilla" format="1">
+  <advance width="599"></advance>
+  <unicode hex="00B8"></unicode>
+  <outline>
+    <contour>
+      <point x="203" y="-573" type="curve" smooth="yes"></point>
+      <point x="292" y="-573"></point>
+      <point x="339" y="-532.694"></point>
+      <point x="339" y="-442" type="curve" smooth="yes"></point>
+      <point x="339" y="-367.9"></point>
+      <point x="292" y="-311"></point>
+      <point x="220" y="-311" type="curve" smooth="yes"></point>
+      <point x="174" y="-311"></point>
+      <point x="143" y="-337.214"></point>
+      <point x="122" y="-368" type="curve"></point>
+      <point x="0" y="-368" type="line"></point>
+      <point x="0" y="128" type="line"></point>
+      <point x="221" y="128" type="line"></point>
+      <point x="221" y="-129" type="line"></point>
+      <point x="232" y="-129" type="line" smooth="yes"></point>
+      <point x="238" y="-129"></point>
+      <point x="245" y="-128"></point>
+      <point x="252" y="-128" type="curve"></point>
+      <point x="240" y="-117.748"></point>
+      <point x="235" y="-110.751"></point>
+      <point x="235" y="-106.691" type="curve" smooth="yes"></point>
+      <point x="235" y="-103.771"></point>
+      <point x="238" y="-102.371"></point>
+      <point x="243" y="-102.371" type="curve" smooth="yes"></point>
+      <point x="294" y="-102.371"></point>
+      <point x="599" y="-265"></point>
+      <point x="599" y="-442" type="curve" smooth="yes"></point>
+      <point x="599" y="-657.302"></point>
+      <point x="462" y="-769"></point>
+      <point x="248" y="-769" type="curve" smooth="yes"></point>
+      <point x="156" y="-769"></point>
+      <point x="73" y="-750.423"></point>
+      <point x="0" y="-725" type="curve"></point>
+      <point x="0" y="-535" type="line"></point>
+      <point x="64" y="-554.557"></point>
+      <point x="133" y="-573"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-769</integer>
+	    <key>width</key>	    <integer>196</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>72</integer>
+	    <key>width</key>
+	    <integer>221</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>411</integer>
+	    <key>width</key>
+	    <integer>260</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

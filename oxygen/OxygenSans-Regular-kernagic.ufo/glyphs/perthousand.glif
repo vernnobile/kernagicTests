@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="perthousand" format="1">
+  <advance width="2043"></advance>
+  <unicode hex="2030"></unicode>
+  <outline>
+    <contour>
+      <point x="1721" y="-29" type="curve" smooth="yes"></point>
+      <point x="1509" y="-29"></point>
+      <point x="1404" y="125"></point>
+      <point x="1404" y="354" type="curve" smooth="yes"></point>
+      <point x="1404" y="572"></point>
+      <point x="1510" y="735"></point>
+      <point x="1727" y="735" type="curve" smooth="yes"></point>
+      <point x="1941" y="735"></point>
+      <point x="2043" y="587"></point>
+      <point x="2043" y="351" type="curve" smooth="yes"></point>
+      <point x="2043" y="135"></point>
+      <point x="1936" y="-29"></point>
+    </contour>
+    <contour>
+      <point x="1727" y="94" type="curve" smooth="yes"></point>
+      <point x="1856" y="94"></point>
+      <point x="1921" y="215"></point>
+      <point x="1921" y="354" type="curve" smooth="yes"></point>
+      <point x="1921" y="497"></point>
+      <point x="1852" y="610"></point>
+      <point x="1724" y="610" type="curve" smooth="yes"></point>
+      <point x="1591" y="610"></point>
+      <point x="1528" y="493"></point>
+      <point x="1528" y="354" type="curve" smooth="yes"></point>
+      <point x="1528" y="208"></point>
+      <point x="1593" y="94"></point>
+    </contour>
+    <contour>
+      <point x="970" y="-29" type="curve" smooth="yes"></point>
+      <point x="756" y="-29"></point>
+      <point x="651" y="125"></point>
+      <point x="651" y="354" type="curve" smooth="yes"></point>
+      <point x="651" y="572"></point>
+      <point x="754" y="735"></point>
+      <point x="972" y="735" type="curve" smooth="yes"></point>
+      <point x="1190" y="735"></point>
+      <point x="1291" y="583"></point>
+      <point x="1291" y="351" type="curve" smooth="yes"></point>
+      <point x="1291" y="135"></point>
+      <point x="1185" y="-29"></point>
+    </contour>
+    <contour>
+      <point x="972" y="94" type="curve" smooth="yes"></point>
+      <point x="1101" y="94"></point>
+      <point x="1166" y="217"></point>
+      <point x="1166" y="354" type="curve" smooth="yes"></point>
+      <point x="1166" y="500"></point>
+      <point x="1105" y="610"></point>
+      <point x="971" y="610" type="curve" smooth="yes"></point>
+      <point x="842" y="610"></point>
+      <point x="779" y="493"></point>
+      <point x="779" y="354" type="curve" smooth="yes"></point>
+      <point x="779" y="208"></point>
+      <point x="843" y="94"></point>
+    </contour>
+    <contour>
+      <point x="147" y="-21" type="line"></point>
+      <point x="981" y="1545" type="line"></point>
+      <point x="1134" y="1545" type="line"></point>
+      <point x="279" y="-21" type="line"></point>
+    </contour>
+    <contour>
+      <point x="288" y="795" type="curve" smooth="yes"></point>
+      <point x="103" y="795"></point>
+      <point x="0" y="949"></point>
+      <point x="0" y="1178" type="curve" smooth="yes"></point>
+      <point x="0" y="1397"></point>
+      <point x="103" y="1557"></point>
+      <point x="290" y="1557" type="curve" smooth="yes"></point>
+      <point x="479" y="1557"></point>
+      <point x="578" y="1408"></point>
+      <point x="578" y="1174" type="curve" smooth="yes"></point>
+      <point x="578" y="958"></point>
+      <point x="472" y="795"></point>
+    </contour>
+    <contour>
+      <point x="292" y="918" type="curve" smooth="yes"></point>
+      <point x="400" y="918"></point>
+      <point x="453" y="1038"></point>
+      <point x="453" y="1176" type="curve" smooth="yes"></point>
+      <point x="453" y="1323"></point>
+      <point x="400" y="1437"></point>
+      <point x="288" y="1437" type="curve" smooth="yes"></point>
+      <point x="178" y="1437"></point>
+      <point x="126" y="1317"></point>
+      <point x="126" y="1178" type="curve" smooth="yes"></point>
+      <point x="126" y="1032"></point>
+      <point x="179" y="918"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>perthousand</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2278</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

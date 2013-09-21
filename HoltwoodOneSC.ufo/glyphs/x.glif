@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="x" format="1">
+  <advance width="1916"></advance>
+  <unicode hex="0078"></unicode>
+  <outline>
+    <contour>
+      <point x="1729" y="421" type="line"></point>
+      <point x="1872" y="399" type="line"></point>
+      <point x="1872" y="0" type="line"></point>
+      <point x="919" y="0" type="line"></point>
+      <point x="919" y="399" type="line"></point>
+      <point x="1022" y="421" type="line"></point>
+      <point x="803" y="585" type="line"></point>
+      <point x="622" y="421" type="line"></point>
+      <point x="800" y="399" type="line"></point>
+      <point x="800" y="0" type="line"></point>
+      <point x="74" y="0" type="line"></point>
+      <point x="74" y="399" type="line"></point>
+      <point x="216" y="421" type="line"></point>
+      <point x="563" y="725" type="line"></point>
+      <point x="225" y="992" type="line"></point>
+      <point x="54" y="1014" type="line"></point>
+      <point x="54" y="1408" type="line"></point>
+      <point x="979" y="1408" type="line"></point>
+      <point x="979" y="1014" type="line"></point>
+      <point x="876" y="992" type="line"></point>
+      <point x="1113" y="819" type="line"></point>
+      <point x="1276" y="992" type="line"></point>
+      <point x="1097" y="1014" type="line"></point>
+      <point x="1097" y="1408" type="line"></point>
+      <point x="1824" y="1408" type="line"></point>
+      <point x="1824" y="1014" type="line"></point>
+      <point x="1654" y="992" type="line"></point>
+      <point x="1373" y="707" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>399</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1014</integer>
+	    <key>width</key>	    <integer>394</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

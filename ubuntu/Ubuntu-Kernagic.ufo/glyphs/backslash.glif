@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="backslash" format="1">
+  <advance width="443"></advance>
+  <unicode hex="005C"></unicode>
+  <outline>
+    <contour>
+      <point x="-1" y="783" type="line"></point>
+      <point x="91" y="783" type="line"></point>
+      <point x="430" y="-185" type="line"></point>
+      <point x="335" y="-185" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

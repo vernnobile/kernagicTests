@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="I" format="1">
+  <advance width="527"></advance>
+  <unicode hex="0049"></unicode>
+  <outline>
+    <contour>
+      <point x="329" y="1206" type="curve" smooth="yes"></point>
+      <point x="329" y="34" type="line" smooth="yes"></point>
+      <point x="329" y="12"></point>
+      <point x="317" y="0"></point>
+      <point x="295" y="0" type="curve" smooth="yes"></point>
+      <point x="235" y="0" type="line" smooth="yes"></point>
+      <point x="213" y="0"></point>
+      <point x="201" y="12"></point>
+      <point x="201" y="34" type="curve" smooth="yes"></point>
+      <point x="201" y="1206" type="line" smooth="yes"></point>
+      <point x="201" y="1228"></point>
+      <point x="213" y="1240"></point>
+      <point x="235" y="1240" type="curve" smooth="yes"></point>
+      <point x="295" y="1240" type="line" smooth="yes"></point>
+      <point x="317" y="1240"></point>
+      <point x="329" y="1228"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1220</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>175</integer>
+	    <key>width</key>
+	    <integer>128</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

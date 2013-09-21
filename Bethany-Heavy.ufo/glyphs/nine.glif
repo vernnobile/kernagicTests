@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="nine" format="1">
+  <advance width="704"></advance>
+  <unicode hex="0039"></unicode>
+  <outline>
+    <contour>
+      <point x="374" y="0" type="curve" smooth="yes"></point>
+      <point x="159" y="0" type="line" smooth="yes"></point>
+      <point x="153" y="0"></point>
+      <point x="148" y="4"></point>
+      <point x="148" y="11" type="curve" smooth="yes"></point>
+      <point x="148" y="15"></point>
+      <point x="150" y="20"></point>
+      <point x="155" y="25" type="curve" smooth="yes"></point>
+      <point x="226" y="92" type="line" smooth="yes"></point>
+      <point x="253" y="117"></point>
+      <point x="271" y="140"></point>
+      <point x="284" y="157" type="curve"></point>
+      <point x="150" y="157"></point>
+      <point x="47" y="253"></point>
+      <point x="47" y="381" type="curve" smooth="yes"></point>
+      <point x="47" y="547"></point>
+      <point x="176" y="667"></point>
+      <point x="360" y="667" type="curve" smooth="yes"></point>
+      <point x="528" y="667"></point>
+      <point x="658" y="549"></point>
+      <point x="658" y="396" type="curve" smooth="yes"></point>
+      <point x="658" y="263"></point>
+      <point x="545" y="147"></point>
+      <point x="415" y="17" type="curve" smooth="yes"></point>
+      <point x="405" y="7"></point>
+      <point x="389" y="0"></point>
+    </contour>
+    <contour>
+      <point x="356" y="493" type="curve" smooth="yes"></point>
+      <point x="320" y="493"></point>
+      <point x="302" y="456"></point>
+      <point x="302" y="381" type="curve" smooth="yes"></point>
+      <point x="302" y="313"></point>
+      <point x="319" y="279"></point>
+      <point x="355" y="279" type="curve" smooth="yes"></point>
+      <point x="387" y="279"></point>
+      <point x="403" y="314"></point>
+      <point x="403" y="385" type="curve" smooth="yes"></point>
+      <point x="403" y="421"></point>
+      <point x="396" y="493"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

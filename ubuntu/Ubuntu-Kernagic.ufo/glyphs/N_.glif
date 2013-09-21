@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="N" format="1">
+  <advance width="696"></advance>
+  <unicode hex="004E"></unicode>
+  <outline>
+    <contour>
+      <point x="546" y="0" type="line"></point>
+      <point x="450" y="160.564"></point>
+      <point x="340" y="323.072"></point>
+      <point x="227" y="467" type="curve" smooth="yes"></point>
+      <point x="205" y="495"></point>
+      <point x="184" y="519.667"></point>
+      <point x="166" y="541" type="curve"></point>
+      <point x="166" y="0" type="line"></point>
+      <point x="71" y="0" type="line"></point>
+      <point x="71" y="693" type="line"></point>
+      <point x="148" y="693" type="line"></point>
+      <point x="216" y="620.129"></point>
+      <point x="291" y="524.495"></point>
+      <point x="354" y="439.5" type="curve" smooth="yes"></point>
+      <point x="415" y="357.921"></point>
+      <point x="482" y="262.414"></point>
+      <point x="532" y="180" type="curve"></point>
+      <point x="532" y="693" type="line"></point>
+      <point x="627" y="693" type="line"></point>
+      <point x="627" y="0" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

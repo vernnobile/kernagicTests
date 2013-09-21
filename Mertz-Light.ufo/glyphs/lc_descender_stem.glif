@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="lc_descender_stem" format="1">
+  <advance width="128"></advance>
+  <outline>
+    <contour>
+      <point x="34" y="-435" type="line" smooth="yes"></point>
+      <point x="31" y="-435.546"></point>
+      <point x="28" y="-435.812"></point>
+      <point x="25" y="-435.812" type="curve" smooth="yes"></point>
+      <point x="9" y="-435.812"></point>
+      <point x="0" y="-425.135"></point>
+      <point x="0" y="-407" type="curve" smooth="yes"></point>
+      <point x="0" y="790" type="line" smooth="yes"></point>
+      <point x="0" y="812"></point>
+      <point x="12" y="824"></point>
+      <point x="34" y="824" type="curve" smooth="yes"></point>
+      <point x="94" y="824" type="line" smooth="yes"></point>
+      <point x="116" y="824"></point>
+      <point x="128" y="812"></point>
+      <point x="128" y="790" type="curve" smooth="yes"></point>
+      <point x="128" y="-386" type="line" smooth="yes"></point>
+      <point x="128" y="-408"></point>
+      <point x="116" y="-422"></point>
+      <point x="94" y="-426" type="curve" smooth="yes"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

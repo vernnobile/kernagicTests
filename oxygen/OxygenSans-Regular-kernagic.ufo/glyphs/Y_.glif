@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Y" format="1">
+  <advance width="1023"></advance>
+  <unicode hex="0059"></unicode>
+  <outline>
+    <contour>
+      <point x="432" y="0" type="line"></point>
+      <point x="608" y="0" type="line"></point>
+      <point x="608" y="510" type="line"></point>
+      <point x="1117" y="1456" type="line"></point>
+      <point x="943" y="1456" type="line"></point>
+      <point x="520" y="659" type="line"></point>
+      <point x="81" y="1456" type="line"></point>
+      <point x="-91" y="1456" type="line"></point>
+      <point x="432" y="508" type="line"></point>
+    </contour>
+    <contour>
+      <point x="519" y="1496.5" type="move" name="top"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Y</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1250</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

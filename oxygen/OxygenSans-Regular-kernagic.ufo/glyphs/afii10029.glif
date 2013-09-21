@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="afii10029" format="1">
+  <advance width="1377"></advance>
+  <unicode hex="041B"></unicode>
+  <outline>
+    <contour>
+      <point x="0" y="-23" type="line"></point>
+      <point x="77" y="-23" type="line" smooth="yes"></point>
+      <point x="394" y="-23"></point>
+      <point x="482" y="130"></point>
+      <point x="482" y="437" type="curve" smooth="yes"></point>
+      <point x="482" y="1339" type="line"></point>
+      <point x="1201" y="1339" type="line"></point>
+      <point x="1201" y="0" type="line"></point>
+      <point x="1376" y="0" type="line"></point>
+      <point x="1377" y="1470" type="line"></point>
+      <point x="306" y="1471" type="line"></point>
+      <point x="306" y="412" type="line" smooth="yes"></point>
+      <point x="306" y="214"></point>
+      <point x="268" y="123"></point>
+      <point x="65" y="123" type="curve" smooth="yes"></point>
+      <point x="0" y="123" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10029</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1555</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

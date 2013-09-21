@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="lc_xheight_curved_stem" format="1">
+  <advance width="780"></advance>
+  <outline>
+    <contour>
+      <point x="0" y="434" type="curve"></point>
+      <point x="0" y="606" type="line"></point>
+      <point x="117" y="802"></point>
+      <point x="266" y="900"></point>
+      <point x="443" y="900" type="curve" smooth="yes"></point>
+      <point x="630" y="900"></point>
+      <point x="780" y="771"></point>
+      <point x="780" y="580" type="curve" smooth="yes"></point>
+      <point x="780" y="44" type="line" smooth="yes"></point>
+      <point x="780" y="16"></point>
+      <point x="764" y="0"></point>
+      <point x="736" y="0" type="curve" smooth="yes"></point>
+      <point x="544" y="0" type="line" smooth="yes"></point>
+      <point x="516" y="0"></point>
+      <point x="500" y="16"></point>
+      <point x="500" y="44" type="curve" smooth="yes"></point>
+      <point x="500" y="559" type="line" smooth="yes"></point>
+      <point x="500" y="647"></point>
+      <point x="447" y="695"></point>
+      <point x="378" y="695" type="curve" smooth="yes"></point>
+      <point x="311" y="695"></point>
+      <point x="177" y="688"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>695</integer>
+	    <key>width</key>	    <integer>205</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>764</integer>
+	    <key>width</key>
+	    <integer>280</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

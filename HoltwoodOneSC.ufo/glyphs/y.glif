@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="y" format="1">
+  <advance width="1800"></advance>
+  <unicode hex="0079"></unicode>
+  <outline>
+    <contour>
+      <point x="441" y="0" type="line"></point>
+      <point x="441" y="397" type="line"></point>
+      <point x="561" y="427" type="line"></point>
+      <point x="148" y="992" type="line"></point>
+      <point x="-3" y="1014" type="line"></point>
+      <point x="-3" y="1408" type="line"></point>
+      <point x="799" y="1408" type="line"></point>
+      <point x="799" y="1014" type="line"></point>
+      <point x="705" y="992" type="line"></point>
+      <point x="896" y="703" type="line"></point>
+      <point x="1086" y="992" type="line"></point>
+      <point x="992" y="1014" type="line"></point>
+      <point x="992" y="1408" type="line"></point>
+      <point x="1794" y="1408" type="line"></point>
+      <point x="1794" y="1014" type="line"></point>
+      <point x="1643" y="992" type="line"></point>
+      <point x="1230" y="427" type="line"></point>
+      <point x="1351" y="397" type="line"></point>
+      <point x="1351" y="0" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1014</integer>
+	    <key>width</key>	    <integer>394</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

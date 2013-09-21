@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="ogonek" format="1">
+  <advance width="195"></advance>
+  <unicode hex="02DB"></unicode>
+  <outline>
+    <contour>
+      <point x="108" y="-362.731" type="curve" smooth="yes"></point>
+      <point x="47" y="-333.52"></point>
+      <point x="0" y="-288.449"></point>
+      <point x="0" y="-225" type="curve" smooth="yes"></point>
+      <point x="0" y="-170.048"></point>
+      <point x="35" y="-102.083"></point>
+      <point x="128" y="-18.6816" type="curve" smooth="yes"></point>
+      <point x="142" y="-6.45312"></point>
+      <point x="159" y="0"></point>
+      <point x="177" y="0" type="curve" smooth="yes"></point>
+      <point x="180" y="0" type="line" smooth="yes"></point>
+      <point x="190" y="-0"></point>
+      <point x="195" y="-4.85156"></point>
+      <point x="195" y="-11.4854" type="curve" smooth="yes"></point>
+      <point x="195" y="-14.8115"></point>
+      <point x="194" y="-18.5869"></point>
+      <point x="191" y="-22.4229" type="curve" smooth="yes"></point>
+      <point x="153" y="-70.3779"></point>
+      <point x="120" y="-117.191"></point>
+      <point x="120" y="-170" type="curve" smooth="yes"></point>
+      <point x="120" y="-207.791"></point>
+      <point x="137" y="-249.271"></point>
+      <point x="183" y="-295.072" type="curve" smooth="yes"></point>
+      <point x="191" y="-302.533"></point>
+      <point x="195" y="-310.081"></point>
+      <point x="195" y="-317.484" type="curve" smooth="yes"></point>
+      <point x="195" y="-325.487"></point>
+      <point x="190" y="-333.32"></point>
+      <point x="182" y="-340.69" type="curve" smooth="yes"></point>
+      <point x="164" y="-355.715" type="line" smooth="yes"></point>
+      <point x="154" y="-363.941"></point>
+      <point x="143" y="-368.127"></point>
+      <point x="131" y="-368.127" type="curve" smooth="yes"></point>
+      <point x="123" y="-368.127"></point>
+      <point x="116" y="-366.342"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

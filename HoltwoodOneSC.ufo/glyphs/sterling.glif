@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="sterling" format="1">
+  <advance width="1280"></advance>
+  <unicode hex="00A3"></unicode>
+  <outline>
+    <contour>
+      <point x="638" y="344" type="line"></point>
+      <point x="830" y="344"></point>
+      <point x="995" y="397.011"></point>
+      <point x="1113" y="472" type="curve"></point>
+      <point x="1280" y="472" type="line"></point>
+      <point x="1280" y="0" type="line"></point>
+      <point x="0" y="0" type="line"></point>
+      <point x="0" y="434" type="line"></point>
+      <point x="37" y="493.529"></point>
+      <point x="92" y="551.473"></point>
+      <point x="139" y="606" type="curve"></point>
+      <point x="0" y="606" type="line"></point>
+      <point x="0" y="832" type="line"></point>
+      <point x="147" y="832" type="line"></point>
+      <point x="53" y="949.333"></point>
+      <point x="7" y="1060"></point>
+      <point x="7" y="1164" type="curve" smooth="yes"></point>
+      <point x="7" y="1499.6"></point>
+      <point x="419" y="1576"></point>
+      <point x="769" y="1576" type="curve" smooth="yes"></point>
+      <point x="982" y="1576"></point>
+      <point x="1150" y="1527.95"></point>
+      <point x="1280" y="1450" type="curve"></point>
+      <point x="1280" y="973" type="line"></point>
+      <point x="980" y="973" type="line"></point>
+      <point x="959" y="1058.58"></point>
+      <point x="895" y="1113"></point>
+      <point x="792" y="1113" type="curve" smooth="yes"></point>
+      <point x="716" y="1113"></point>
+      <point x="643" y="1055.55"></point>
+      <point x="643" y="980" type="curve" smooth="yes"></point>
+      <point x="643" y="920.753"></point>
+      <point x="671" y="872.131"></point>
+      <point x="700" y="832" type="curve"></point>
+      <point x="1024" y="832" type="line"></point>
+      <point x="1024" y="606" type="line"></point>
+      <point x="698" y="606" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>344</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>606</integer>
+	    <key>width</key>	    <integer>226</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1113</integer>
+	    <key>width</key>	    <integer>463</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>77</integer>
+	    <key>width</key>
+	    <integer>636</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

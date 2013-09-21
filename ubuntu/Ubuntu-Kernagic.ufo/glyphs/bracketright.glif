@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="bracketright" format="1">
+  <advance width="427"></advance>
+  <unicode hex="005D"></unicode>
+  <outline>
+    <contour>
+      <point x="345" y="-185" type="line"></point>
+      <point x="120" y="-185" type="line"></point>
+      <point x="120" y="-112" type="line"></point>
+      <point x="258" y="-112" type="line"></point>
+      <point x="258" y="710" type="line"></point>
+      <point x="120" y="710" type="line"></point>
+      <point x="120" y="783" type="line"></point>
+      <point x="345" y="783" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

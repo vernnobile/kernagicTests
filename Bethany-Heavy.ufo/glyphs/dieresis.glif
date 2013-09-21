@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="dieresis" format="1">
+  <advance width="521"></advance>
+  <unicode hex="00A8"></unicode>
+  <outline>
+    <contour>
+      <point x="521" y="709" type="curve" smooth="yes"></point>
+      <point x="521" y="646"></point>
+      <point x="476" y="596"></point>
+      <point x="412" y="596" type="curve" smooth="yes"></point>
+      <point x="346" y="596"></point>
+      <point x="301" y="645"></point>
+      <point x="301" y="710" type="curve" smooth="yes"></point>
+      <point x="301" y="774"></point>
+      <point x="347" y="821"></point>
+      <point x="411" y="821" type="curve" smooth="yes"></point>
+      <point x="476" y="821"></point>
+      <point x="521" y="774"></point>
+    </contour>
+    <contour>
+      <point x="221" y="709" type="curve" smooth="yes"></point>
+      <point x="221" y="646"></point>
+      <point x="175" y="597"></point>
+      <point x="111" y="597" type="curve" smooth="yes"></point>
+      <point x="45" y="597"></point>
+      <point x="0" y="645"></point>
+      <point x="0" y="710" type="curve" smooth="yes"></point>
+      <point x="0" y="774"></point>
+      <point x="47" y="821"></point>
+      <point x="111" y="821" type="curve" smooth="yes"></point>
+      <point x="176" y="821"></point>
+      <point x="221" y="774"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

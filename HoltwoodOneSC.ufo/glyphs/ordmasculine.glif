@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="ordmasculine" format="1">
+  <advance width="1241"></advance>
+  <unicode hex="00BA"></unicode>
+  <outline>
+    <contour>
+      <point x="1241" y="1039" type="curve" smooth="yes"></point>
+      <point x="1241" y="659.629"></point>
+      <point x="996" y="479"></point>
+      <point x="620" y="479" type="curve" smooth="yes"></point>
+      <point x="243" y="479"></point>
+      <point x="0" y="659.132"></point>
+      <point x="0" y="1039" type="curve" smooth="yes"></point>
+      <point x="0" y="1411.06"></point>
+      <point x="250" y="1575"></point>
+      <point x="620" y="1575" type="curve" smooth="yes"></point>
+      <point x="989" y="1575"></point>
+      <point x="1241" y="1410.6"></point>
+    </contour>
+    <contour>
+      <point x="798" y="1039" type="curve" smooth="yes"></point>
+      <point x="798" y="1172.4"></point>
+      <point x="755" y="1254"></point>
+      <point x="620" y="1254" type="curve" smooth="yes"></point>
+      <point x="485" y="1254"></point>
+      <point x="443" y="1171.79"></point>
+      <point x="443" y="1039" type="curve" smooth="yes"></point>
+      <point x="443" y="908.165"></point>
+      <point x="484" y="822"></point>
+      <point x="620" y="822" type="curve" smooth="yes"></point>
+      <point x="756" y="822"></point>
+      <point x="798" y="907.646"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>479</integer>
+	    <key>width</key>	    <integer>343</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1254</integer>
+	    <key>width</key>	    <integer>321</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>56</integer>
+	    <key>width</key>
+	    <integer>443</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>854</integer>
+	    <key>width</key>
+	    <integer>443</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

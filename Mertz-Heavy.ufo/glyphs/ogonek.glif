@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="ogonek" format="1">
+  <advance width="196"></advance>
+  <unicode hex="02DB"></unicode>
+  <outline>
+    <contour>
+      <point x="100" y="-358" type="curve" smooth="yes"></point>
+      <point x="43" y="-329"></point>
+      <point x="0" y="-285"></point>
+      <point x="0" y="-225" type="curve" smooth="yes"></point>
+      <point x="0" y="-170"></point>
+      <point x="36" y="-102"></point>
+      <point x="129" y="-19" type="curve" smooth="yes"></point>
+      <point x="143" y="-7"></point>
+      <point x="159" y="0"></point>
+      <point x="177" y="0" type="curve" smooth="yes"></point>
+      <point x="180" y="0" type="line" smooth="yes"></point>
+      <point x="190" y="0"></point>
+      <point x="196" y="-4"></point>
+      <point x="196" y="-11" type="curve" smooth="yes"></point>
+      <point x="196" y="-14"></point>
+      <point x="194" y="-18"></point>
+      <point x="191" y="-22" type="curve" smooth="yes"></point>
+      <point x="153" y="-70"></point>
+      <point x="120" y="-117"></point>
+      <point x="120" y="-170" type="curve" smooth="yes"></point>
+      <point x="120" y="-206"></point>
+      <point x="136" y="-245"></point>
+      <point x="177" y="-288" type="curve" smooth="yes"></point>
+      <point x="187" y="-298"></point>
+      <point x="191" y="-308"></point>
+      <point x="191" y="-317" type="curve" smooth="yes"></point>
+      <point x="191" y="-344"></point>
+      <point x="156" y="-364"></point>
+      <point x="125" y="-364" type="curve" smooth="yes"></point>
+      <point x="116" y="-364"></point>
+      <point x="108" y="-362"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-364</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>110</integer>
+	    <key>width</key>
+	    <integer>120</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

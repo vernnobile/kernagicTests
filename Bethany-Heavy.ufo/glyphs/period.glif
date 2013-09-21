@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="period" format="1">
+  <advance width="496"></advance>
+  <unicode hex="002E"></unicode>
+  <outline>
+    <contour>
+      <point x="385" y="111" type="curve" smooth="yes"></point>
+      <point x="385" y="35"></point>
+      <point x="326" y="-11"></point>
+      <point x="244" y="-11" type="curve" smooth="yes"></point>
+      <point x="169" y="-11"></point>
+      <point x="109" y="35"></point>
+      <point x="109" y="111" type="curve" smooth="yes"></point>
+      <point x="109" y="185"></point>
+      <point x="164" y="231"></point>
+      <point x="244" y="231" type="curve" smooth="yes"></point>
+      <point x="328" y="231"></point>
+      <point x="385" y="185"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

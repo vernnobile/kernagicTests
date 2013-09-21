@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="logicalnot" format="1">
+  <advance width="494"></advance>
+  <unicode hex="00AC"></unicode>
+  <outline>
+    <contour>
+      <point x="461" y="265" type="curve" smooth="yes"></point>
+      <point x="414" y="265" type="line" smooth="yes"></point>
+      <point x="396" y="265"></point>
+      <point x="381" y="280"></point>
+      <point x="381" y="298" type="curve" smooth="yes"></point>
+      <point x="381" y="372" type="line"></point>
+      <point x="34" y="372" type="line" smooth="yes"></point>
+      <point x="16" y="372"></point>
+      <point x="1" y="387"></point>
+      <point x="1" y="405" type="curve" smooth="yes"></point>
+      <point x="0" y="500" type="line" smooth="yes"></point>
+      <point x="0" y="518"></point>
+      <point x="15" y="533"></point>
+      <point x="33" y="533" type="curve" smooth="yes"></point>
+      <point x="461" y="533" type="line" smooth="yes"></point>
+      <point x="479" y="533"></point>
+      <point x="494" y="518"></point>
+      <point x="494" y="500" type="curve" smooth="yes"></point>
+      <point x="494" y="298" type="line" smooth="yes"></point>
+      <point x="494" y="280"></point>
+      <point x="479" y="265"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

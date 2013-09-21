@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="macron" format="1">
+  <advance width="602"></advance>
+  <unicode hex="00AF"></unicode>
+  <outline>
+    <contour>
+      <point x="602" y="1302" type="line"></point>
+      <point x="0" y="1302" type="line"></point>
+      <point x="0" y="1430" type="line"></point>
+      <point x="602" y="1430" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1302</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1410</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

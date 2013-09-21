@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni2074" format="1">
+  <advance width="506"></advance>
+  <unicode hex="2074"></unicode>
+  <outline>
+    <contour>
+      <point x="94" y="958" type="line"></point>
+      <point x="319" y="1344" type="line"></point>
+      <point x="318" y="958" type="line"></point>
+    </contour>
+    <contour>
+      <point x="318" y="649" type="line"></point>
+      <point x="406" y="649" type="line"></point>
+      <point x="405" y="856" type="line"></point>
+      <point x="506" y="856" type="line"></point>
+      <point x="498" y="958" type="line"></point>
+      <point x="408" y="958" type="line"></point>
+      <point x="408" y="1503" type="line"></point>
+      <point x="305" y="1503" type="line"></point>
+      <point x="0" y="948" type="line"></point>
+      <point x="0" y="856" type="line"></point>
+      <point x="318" y="856" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni2074</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>734</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="cedilla" format="1">
+  <advance width="221"></advance>
+  <unicode hex="00B8"></unicode>
+  <outline>
+    <contour>
+      <point x="221" y="-324.206" type="curve" smooth="yes"></point>
+      <point x="221" y="-342.336"></point>
+      <point x="211" y="-354.943"></point>
+      <point x="195" y="-354.943" type="curve" smooth="yes"></point>
+      <point x="194" y="-354.943"></point>
+      <point x="193" y="-354.885"></point>
+      <point x="192" y="-354.766" type="curve" smooth="yes"></point>
+      <point x="91" y="-344.182"></point>
+      <point x="0" y="-267.297"></point>
+      <point x="0" y="-193" type="curve" smooth="yes"></point>
+      <point x="0" y="-145"></point>
+      <point x="38" y="-98"></point>
+      <point x="136" y="-70" type="curve"></point>
+      <point x="136" y="-27.5" type="line" smooth="yes"></point>
+      <point x="136" y="-9.2793"></point>
+      <point x="146" y="1"></point>
+      <point x="164" y="1" type="curve" smooth="yes"></point>
+      <point x="166" y="1" type="line" smooth="yes"></point>
+      <point x="184" y="1"></point>
+      <point x="195" y="-9.2793"></point>
+      <point x="195" y="-27.5" type="curve" smooth="yes"></point>
+      <point x="195" y="-72.7666" type="line" smooth="yes"></point>
+      <point x="195" y="-97.6621"></point>
+      <point x="185" y="-109.886"></point>
+      <point x="161" y="-116.409" type="curve" smooth="yes"></point>
+      <point x="115" y="-128.971"></point>
+      <point x="97" y="-152.785"></point>
+      <point x="97" y="-180" type="curve" smooth="yes"></point>
+      <point x="97" y="-223.568"></point>
+      <point x="145" y="-275.043"></point>
+      <point x="203" y="-299.979" type="curve" smooth="yes"></point>
+      <point x="215" y="-305.384"></point>
+      <point x="221" y="-312.75"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

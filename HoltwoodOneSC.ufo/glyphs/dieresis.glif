@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="dieresis" format="1">
+  <advance width="1169"></advance>
+  <unicode hex="00A8"></unicode>
+  <outline>
+    <contour>
+      <point x="744" y="2048" type="line"></point>
+      <point x="1169" y="2048" type="line"></point>
+      <point x="1169" y="1664" type="line"></point>
+      <point x="744" y="1664" type="line"></point>
+    </contour>
+    <contour>
+      <point x="425" y="2048" type="line"></point>
+      <point x="425" y="1664" type="line"></point>
+      <point x="0" y="1664" type="line"></point>
+      <point x="0" y="2048" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1664</integer>
+	    <key>width</key>	    <integer>384</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>89</integer>
+	    <key>width</key>
+	    <integer>425</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>833</integer>
+	    <key>width</key>
+	    <integer>425</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

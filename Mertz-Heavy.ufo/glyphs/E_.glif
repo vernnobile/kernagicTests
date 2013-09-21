@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="E" format="1">
+  <advance width="952"></advance>
+  <unicode hex="0045"></unicode>
+  <outline>
+    <contour>
+      <point x="422" y="996" type="line"></point>
+      <point x="422" y="754" type="line"></point>
+      <point x="733" y="754" type="line" smooth="yes"></point>
+      <point x="761" y="754"></point>
+      <point x="777" y="738"></point>
+      <point x="777" y="710" type="curve" smooth="yes"></point>
+      <point x="777" y="564" type="line" smooth="yes"></point>
+      <point x="777" y="536"></point>
+      <point x="761" y="520"></point>
+      <point x="733" y="520" type="curve" smooth="yes"></point>
+      <point x="422" y="520" type="line"></point>
+      <point x="422" y="244" type="line"></point>
+      <point x="813" y="244" type="line" smooth="yes"></point>
+      <point x="841" y="244"></point>
+      <point x="857" y="228"></point>
+      <point x="857" y="200" type="curve" smooth="yes"></point>
+      <point x="857" y="44" type="line" smooth="yes"></point>
+      <point x="857" y="16"></point>
+      <point x="841" y="0"></point>
+      <point x="813" y="0" type="curve" smooth="yes"></point>
+      <point x="158" y="0" type="line" smooth="yes"></point>
+      <point x="130" y="0"></point>
+      <point x="114" y="16"></point>
+      <point x="114" y="44" type="curve" smooth="yes"></point>
+      <point x="114" y="1196" type="line" smooth="yes"></point>
+      <point x="114" y="1224"></point>
+      <point x="130" y="1240"></point>
+      <point x="158" y="1240" type="curve" smooth="yes"></point>
+      <point x="799" y="1240" type="line" smooth="yes"></point>
+      <point x="827" y="1240"></point>
+      <point x="843" y="1224"></point>
+      <point x="843" y="1196" type="curve" smooth="yes"></point>
+      <point x="843" y="1040" type="line" smooth="yes"></point>
+      <point x="843" y="1012"></point>
+      <point x="827" y="996"></point>
+      <point x="799" y="996" type="curve" smooth="yes"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>244</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>520</integer>
+	    <key>width</key>	    <integer>234</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>996</integer>
+	    <key>width</key>	    <integer>244</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>140</integer>
+	    <key>width</key>
+	    <integer>308</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

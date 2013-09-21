@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="period" format="1">
+  <advance width="599"></advance>
+  <unicode hex="002E"></unicode>
+  <outline>
+    <contour>
+      <point x="303" y="-11" type="curve" smooth="yes"></point>
+      <point x="381" y="-11"></point>
+      <point x="415" y="47"></point>
+      <point x="415" y="106" type="curve" smooth="yes"></point>
+      <point x="415" y="163"></point>
+      <point x="381" y="223"></point>
+      <point x="303" y="223" type="curve" smooth="yes"></point>
+      <point x="224" y="223"></point>
+      <point x="188" y="163"></point>
+      <point x="188" y="106" type="curve" smooth="yes"></point>
+      <point x="188" y="47"></point>
+      <point x="225" y="-11"></point>
+    </contour>
+    <contour>
+      <point x="296" y="102.775" type="move" name="_mid"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>period</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>548</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

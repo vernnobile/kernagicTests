@@ -1,0 +1,20 @@
+
+
+@GDEF_Simple = [\space \exclam \quotedbl \parenleft \parenright \plus \comma 
+	\hyphen \period \slash \zero \one \two \three \four \five \six \seven \eight \nine 
+	\colon \semicolon \less \equal \greater \question \A \B \C \D \E \F \G \H \I \J \K \L \M \N 
+	\O \P \Q \R \S \T \U \V \W \X \Y \Z \bracketleft \bracketright \underscore \grave \a \b \c 
+	\d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z \sterling \yen \dieresis 
+	\guillemotleft \acute \cedilla \guillemotright \questiondown \Agrave \Aacute 
+	\Ccedilla \Egrave \Eacute \Oslash \Thorn \ccedilla \egrave \eacute \ntilde 
+	\ograve \oacute \odieresis \oslash \ugrave \uacute \thorn \Aogonek \aogonek 
+	\Eogonek \eogonek \circumflex \caron \dotaccent \ring \ogonek \tilde 
+	\hungarumlaut \quoteleft \quoteright \M.alt \lc_ascender_stem 
+	\lc_descender_stem \lc_left_bowl \lc_right_bowl \lc_xheight_curved_stem 
+	\lc_xheight_stem \uc_main_stem ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

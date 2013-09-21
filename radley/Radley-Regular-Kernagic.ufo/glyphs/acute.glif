@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="acute" format="1">
+  <advance width="440"></advance>
+  <unicode hex="00B4"></unicode>
+  <outline>
+    <contour>
+      <point x="419" y="1442" type="curve" smooth="yes"></point>
+      <point x="317" y="1349"></point>
+      <point x="132" y="1177"></point>
+      <point x="63" y="1116" type="curve" smooth="yes"></point>
+      <point x="47" y="1102"></point>
+      <point x="33" y="1096"></point>
+      <point x="23" y="1096" type="curve" smooth="yes"></point>
+      <point x="8" y="1096"></point>
+      <point x="0" y="1107"></point>
+      <point x="0" y="1122" type="curve" smooth="yes"></point>
+      <point x="0" y="1131"></point>
+      <point x="4" y="1142"></point>
+      <point x="11" y="1152" type="curve" smooth="yes"></point>
+      <point x="94" y="1262"></point>
+      <point x="233" y="1449"></point>
+      <point x="298" y="1536" type="curve" smooth="yes"></point>
+      <point x="316" y="1560"></point>
+      <point x="338" y="1570"></point>
+      <point x="359" y="1570" type="curve" smooth="yes"></point>
+      <point x="401" y="1570"></point>
+      <point x="440" y="1528"></point>
+      <point x="440" y="1488" type="curve" smooth="yes"></point>
+      <point x="440" y="1471"></point>
+      <point x="434" y="1455"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1096</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1550</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

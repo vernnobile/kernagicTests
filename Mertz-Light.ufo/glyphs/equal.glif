@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="equal" format="1">
+  <advance width="867"></advance>
+  <unicode hex="003D"></unicode>
+  <outline>
+    <contour>
+      <point x="162" y="410" type="line" smooth="yes"></point>
+      <point x="140" y="410"></point>
+      <point x="128" y="422.264"></point>
+      <point x="128" y="444" type="curve" smooth="yes"></point>
+      <point x="128" y="469" type="line" smooth="yes"></point>
+      <point x="128" y="490.736"></point>
+      <point x="140" y="503"></point>
+      <point x="162" y="503" type="curve" smooth="yes"></point>
+      <point x="704" y="503" type="line" smooth="yes"></point>
+      <point x="725" y="503"></point>
+      <point x="738" y="490.736"></point>
+      <point x="738" y="469" type="curve" smooth="yes"></point>
+      <point x="738" y="444" type="line" smooth="yes"></point>
+      <point x="738" y="422.264"></point>
+      <point x="725" y="410"></point>
+      <point x="704" y="410" type="curve" smooth="yes"></point>
+    </contour>
+    <contour>
+      <point x="162" y="647" type="line" smooth="yes"></point>
+      <point x="140" y="647"></point>
+      <point x="128" y="659.264"></point>
+      <point x="128" y="681" type="curve" smooth="yes"></point>
+      <point x="128" y="706" type="line" smooth="yes"></point>
+      <point x="128" y="727.736"></point>
+      <point x="140" y="740"></point>
+      <point x="162" y="740" type="curve" smooth="yes"></point>
+      <point x="704" y="740" type="line" smooth="yes"></point>
+      <point x="725" y="740"></point>
+      <point x="738" y="727.736"></point>
+      <point x="738" y="706" type="curve" smooth="yes"></point>
+      <point x="738" y="681" type="line" smooth="yes"></point>
+      <point x="738" y="659.264"></point>
+      <point x="725" y="647"></point>
+      <point x="704" y="647" type="curve" smooth="yes"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

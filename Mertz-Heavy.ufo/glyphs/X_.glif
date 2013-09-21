@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="X" format="1">
+  <advance width="1207"></advance>
+  <unicode hex="0058"></unicode>
+  <outline>
+    <contour>
+      <point x="984" y="0" type="line" smooth="yes"></point>
+      <point x="954" y="0"></point>
+      <point x="931" y="11"></point>
+      <point x="912" y="34" type="curve" smooth="yes"></point>
+      <point x="595" y="412" type="line"></point>
+      <point x="296" y="35" type="line" smooth="yes"></point>
+      <point x="278" y="11"></point>
+      <point x="255" y="0"></point>
+      <point x="225" y="0" type="curve" smooth="yes"></point>
+      <point x="-58" y="0" type="line" smooth="yes"></point>
+      <point x="-73" y="0"></point>
+      <point x="-81" y="7"></point>
+      <point x="-81" y="17" type="curve" smooth="yes"></point>
+      <point x="-81" y="22"></point>
+      <point x="-79" y="28"></point>
+      <point x="-74" y="34" type="curve" smooth="yes"></point>
+      <point x="405" y="638" type="line"></point>
+      <point x="-70" y="1206" type="line" smooth="yes"></point>
+      <point x="-75" y="1212"></point>
+      <point x="-77" y="1218"></point>
+      <point x="-77" y="1223" type="curve" smooth="yes"></point>
+      <point x="-77" y="1233"></point>
+      <point x="-69" y="1240"></point>
+      <point x="-54" y="1240" type="curve" smooth="yes"></point>
+      <point x="210" y="1240" type="line" smooth="yes"></point>
+      <point x="240" y="1240"></point>
+      <point x="263" y="1229"></point>
+      <point x="283" y="1206" type="curve" smooth="yes"></point>
+      <point x="578" y="857" type="line"></point>
+      <point x="856" y="1206" type="line" smooth="yes"></point>
+      <point x="874" y="1229"></point>
+      <point x="897" y="1240"></point>
+      <point x="927" y="1240" type="curve" smooth="yes"></point>
+      <point x="1206" y="1240" type="line" smooth="yes"></point>
+      <point x="1229" y="1240"></point>
+      <point x="1237" y="1223"></point>
+      <point x="1223" y="1205" type="curve" smooth="yes"></point>
+      <point x="769" y="632" type="line"></point>
+      <point x="1274" y="34" type="line" smooth="yes"></point>
+      <point x="1279" y="28"></point>
+      <point x="1281" y="22"></point>
+      <point x="1281" y="17" type="curve" smooth="yes"></point>
+      <point x="1281" y="7"></point>
+      <point x="1273" y="0"></point>
+      <point x="1258" y="0" type="curve" smooth="yes"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1220</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>46</integer>
+	    <key>width</key>
+	    <integer>1363</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
