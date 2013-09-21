@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="period" format="1">
+  <advance width="643"></advance>
+  <unicode hex="002E"></unicode>
+  <outline>
+    <contour>
+      <point x="329" y="-6" type="curve" smooth="yes"></point>
+      <point x="246" y="-6"></point>
+      <point x="191" y="59"></point>
+      <point x="191" y="133" type="curve" smooth="yes"></point>
+      <point x="191" y="207"></point>
+      <point x="245" y="274"></point>
+      <point x="329" y="274" type="curve" smooth="yes"></point>
+      <point x="412" y="274"></point>
+      <point x="465" y="207"></point>
+      <point x="465" y="133" type="curve" smooth="yes"></point>
+      <point x="465" y="60"></point>
+      <point x="412" y="-6"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-6</integer>
+	    <key>width</key>	    <integer>280</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>149</integer>
+	    <key>width</key>
+	    <integer>274</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

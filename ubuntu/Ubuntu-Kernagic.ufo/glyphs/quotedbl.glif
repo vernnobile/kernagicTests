@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="quotedbl" format="1">
-  <advance width="-11214"></advance>
+  <advance width="-11206"></advance>
   <unicode hex="0022"></unicode>
   <outline>
     <component base="quotesingle"></component>
     <component base="quotesingle" xOffset="177"></component>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="greater" format="1">
+  <advance width="1059"></advance>
+  <unicode hex="003E"></unicode>
+  <outline>
+    <contour>
+      <point x="70" y="141" type="line"></point>
+      <point x="1000" y="589" type="line"></point>
+      <point x="1000" y="679" type="line"></point>
+      <point x="72" y="1175" type="line"></point>
+      <point x="72" y="1032" type="line"></point>
+      <point x="807" y="640" type="line"></point>
+      <point x="70" y="286" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+    <key>com.typemytype.robofont.layerData</key>
+    <key>b</key>
+    <key>name</key>
+      <string>greater</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1204</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

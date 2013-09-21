@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="period" format="1">
-  <advance width="599"></advance>
+  <advance width="693"></advance>
   <unicode hex="002E"></unicode>
   <outline>
     <contour>
-      <point x="303" y="-11" type="curve" smooth="yes"></point>
-      <point x="381" y="-11"></point>
-      <point x="415" y="47"></point>
-      <point x="415" y="106" type="curve" smooth="yes"></point>
-      <point x="415" y="163"></point>
-      <point x="381" y="223"></point>
-      <point x="303" y="223" type="curve" smooth="yes"></point>
-      <point x="224" y="223"></point>
-      <point x="188" y="163"></point>
-      <point x="188" y="106" type="curve" smooth="yes"></point>
-      <point x="188" y="47"></point>
-      <point x="225" y="-11"></point>
+      <point x="338" y="-11" type="curve" smooth="yes"></point>
+      <point x="416" y="-11"></point>
+      <point x="450" y="47"></point>
+      <point x="450" y="106" type="curve" smooth="yes"></point>
+      <point x="450" y="163"></point>
+      <point x="416" y="223"></point>
+      <point x="338" y="223" type="curve" smooth="yes"></point>
+      <point x="259" y="223"></point>
+      <point x="223" y="163"></point>
+      <point x="223" y="106" type="curve" smooth="yes"></point>
+      <point x="223" y="47"></point>
+      <point x="260" y="-11"></point>
     </contour>
     <contour>
-      <point x="296" y="102.775" type="move" name="_mid"></point>
+      <point x="331" y="102.775" type="move" name="_mid"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 

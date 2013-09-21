@@ -1,0 +1,20 @@
+
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \a \acute 
+	\ampersand \asciicircum \asciitilde \asterisk \at \b \backslash \bar \braceleft 
+	\braceright \bracketleft \bracketright \brokenbar \c \cedilla \cent \colon 
+	\comma \copyright \currency \d \degree \dieresis \dollar \e \eight \equal \exclam 
+	\exclamdown \f \five \four \g \grave \greater \guillemotleft \guillemotright \h 
+	\hyphen \i \j \k \l \less \logicalnot \m \macron \n \nine \numbersign \o \one \onehalf 
+	\onequarter \ordfeminine \ordmasculine \p \paragraph \parenleft \parenright 
+	\percent \period \periodcentered \plus \plusminus \q \question \quotedbl 
+	\quotesingle \r \registered \s \section \semicolon \seven \six \slash \space 
+	\sterling \t \three \threequarters \two \u \underscore \uni000D \uni00A0 \uni00AD 
+	\uni00B2 \uni00B3 \uni00B5 \uni00B9 \v \w \x \y \yen \z \zero ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

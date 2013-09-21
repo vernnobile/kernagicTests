@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="exclamdown" format="1">
+  <advance width="279"></advance>
+  <unicode hex="00A1"></unicode>
+  <outline>
+    <contour>
+      <point x="139" y="1200" type="curve" smooth="yes"></point>
+      <point x="225" y="1200"></point>
+      <point x="279" y="1131"></point>
+      <point x="279" y="1057" type="curve" smooth="yes"></point>
+      <point x="279" y="982"></point>
+      <point x="225" y="915"></point>
+      <point x="139" y="915" type="curve" smooth="yes"></point>
+      <point x="53" y="915"></point>
+      <point x="0" y="982"></point>
+      <point x="0" y="1057" type="curve" smooth="yes"></point>
+      <point x="0" y="1132"></point>
+      <point x="53" y="1200"></point>
+    </contour>
+    <contour>
+      <point x="184" y="741" type="line"></point>
+      <point x="249" y="-137" type="line"></point>
+      <point x="249" y="-323" type="line"></point>
+      <point x="28" y="-323" type="line"></point>
+      <point x="28" y="-137" type="line"></point>
+      <point x="86" y="741" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>915</integer>
+	    <key>width</key>	    <integer>285</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>178</integer>
+	    <key>width</key>
+	    <integer>279</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>206</integer>
+	    <key>width</key>
+	    <integer>221</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

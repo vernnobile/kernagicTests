@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="slash" format="1">
-  <advance width="427"></advance>
+  <advance width="443"></advance>
   <unicode hex="002F"></unicode>
   <outline>
     <contour>
-      <point x="99" y="-185" type="line"></point>
-      <point x="4" y="-185" type="line"></point>
-      <point x="343" y="783" type="line"></point>
-      <point x="436" y="783" type="line"></point>
+      <point x="97" y="-185" type="line"></point>
+      <point x="2" y="-185" type="line"></point>
+      <point x="341" y="783" type="line"></point>
+      <point x="434" y="783" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

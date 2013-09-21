@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="890"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="249" y="22.7656" type="curve"/>
+      <point x="183" y="-74" type="line"/>
+      <point x="133" y="-39" type="line"/>
+      <point x="195" y="50.793" type="line"/>
+      <point x="79" y="120.338"/>
+      <point x="0" y="242.333"/>
+      <point x="0" y="408" type="curve" smooth="yes"/>
+      <point x="0" y="682"/>
+      <point x="213" y="840"/>
+      <point x="446" y="840" type="curve" smooth="yes"/>
+      <point x="531" y="840"/>
+      <point x="618" y="815.742"/>
+      <point x="692" y="769.595" type="curve"/>
+      <point x="783" y="901" type="line"/>
+      <point x="833" y="866" type="line"/>
+      <point x="741" y="733.8" type="line"/>
+      <point x="829" y="660.095"/>
+      <point x="890" y="549.716"/>
+      <point x="890" y="408" type="curve" smooth="yes"/>
+      <point x="890" y="139"/>
+      <point x="677" y="-16"/>
+      <point x="444" y="-16" type="curve" smooth="yes"/>
+      <point x="375" y="-16"/>
+      <point x="309" y="-2.75879"/>
+    </contour>
+    <contour>
+      <point x="307" y="105.748" type="line"/>
+      <point x="346" y="89.8154"/>
+      <point x="392" y="81"/>
+      <point x="445" y="81" type="curve" smooth="yes"/>
+      <point x="661" y="81"/>
+      <point x="764" y="244"/>
+      <point x="764" y="409" type="curve" smooth="yes"/>
+      <point x="764" y="494.523"/>
+      <point x="735" y="580.312"/>
+      <point x="679" y="643.393" type="curve"/>
+    </contour>
+    <contour>
+      <point x="126" y="410" type="curve" smooth="yes"/>
+      <point x="126" y="295.69"/>
+      <point x="167" y="193.882"/>
+      <point x="253" y="134.798" type="curve"/>
+      <point x="633" y="684.651" type="line"/>
+      <point x="584" y="720.252"/>
+      <point x="521" y="742"/>
+      <point x="445" y="742" type="curve" smooth="yes"/>
+      <point x="233" y="742"/>
+      <point x="126" y="576"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

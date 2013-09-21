@@ -1,48 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="plus" format="1">
-  <advance width="918"></advance>
+  <advance width="914"></advance>
   <unicode hex="002B"></unicode>
   <outline>
     <contour>
-      <point x="552" y="103" type="line" smooth="yes"></point>
-      <point x="530" y="103"></point>
-      <point x="518" y="115"></point>
-      <point x="518" y="137" type="curve" smooth="yes"></point>
-      <point x="518" y="449" type="line"></point>
-      <point x="254" y="449" type="line" smooth="yes"></point>
-      <point x="232" y="449"></point>
-      <point x="220" y="461"></point>
-      <point x="220" y="483" type="curve" smooth="yes"></point>
-      <point x="220" y="498" type="line" smooth="yes"></point>
-      <point x="220" y="520"></point>
-      <point x="232" y="532"></point>
-      <point x="254" y="532" type="curve" smooth="yes"></point>
-      <point x="518" y="532" type="line"></point>
-      <point x="518" y="860" type="line" smooth="yes"></point>
-      <point x="518" y="882"></point>
-      <point x="530" y="894"></point>
-      <point x="552" y="894" type="curve" smooth="yes"></point>
-      <point x="577" y="894" type="line" smooth="yes"></point>
-      <point x="599" y="894"></point>
-      <point x="611" y="882"></point>
-      <point x="611" y="860" type="curve" smooth="yes"></point>
-      <point x="611" y="532" type="line"></point>
-      <point x="875" y="532" type="line" smooth="yes"></point>
-      <point x="897" y="532"></point>
-      <point x="909" y="520"></point>
-      <point x="909" y="498" type="curve" smooth="yes"></point>
-      <point x="909" y="483" type="line" smooth="yes"></point>
-      <point x="909" y="461"></point>
-      <point x="897" y="449"></point>
-      <point x="875" y="449" type="curve" smooth="yes"></point>
-      <point x="611" y="449" type="line"></point>
-      <point x="611" y="137" type="line" smooth="yes"></point>
-      <point x="611" y="115"></point>
-      <point x="599" y="103"></point>
-      <point x="577" y="103" type="curve" smooth="yes"></point>
+      <point x="430" y="103" type="line" smooth="yes"></point>
+      <point x="408" y="103"></point>
+      <point x="396" y="115"></point>
+      <point x="396" y="137" type="curve" smooth="yes"></point>
+      <point x="396" y="449" type="line"></point>
+      <point x="132" y="449" type="line" smooth="yes"></point>
+      <point x="110" y="449"></point>
+      <point x="98" y="461"></point>
+      <point x="98" y="483" type="curve" smooth="yes"></point>
+      <point x="98" y="498" type="line" smooth="yes"></point>
+      <point x="98" y="520"></point>
+      <point x="110" y="532"></point>
+      <point x="132" y="532" type="curve" smooth="yes"></point>
+      <point x="396" y="532" type="line"></point>
+      <point x="396" y="860" type="line" smooth="yes"></point>
+      <point x="396" y="882"></point>
+      <point x="408" y="894"></point>
+      <point x="430" y="894" type="curve" smooth="yes"></point>
+      <point x="455" y="894" type="line" smooth="yes"></point>
+      <point x="477" y="894"></point>
+      <point x="489" y="882"></point>
+      <point x="489" y="860" type="curve" smooth="yes"></point>
+      <point x="489" y="532" type="line"></point>
+      <point x="753" y="532" type="line" smooth="yes"></point>
+      <point x="775" y="532"></point>
+      <point x="787" y="520"></point>
+      <point x="787" y="498" type="curve" smooth="yes"></point>
+      <point x="787" y="483" type="line" smooth="yes"></point>
+      <point x="787" y="461"></point>
+      <point x="775" y="449"></point>
+      <point x="753" y="449" type="curve" smooth="yes"></point>
+      <point x="489" y="449" type="line"></point>
+      <point x="489" y="137" type="line" smooth="yes"></point>
+      <point x="489" y="115"></point>
+      <point x="477" y="103"></point>
+      <point x="455" y="103" type="curve" smooth="yes"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
       <key>com.fontlab.hintData</key>
       <dict>

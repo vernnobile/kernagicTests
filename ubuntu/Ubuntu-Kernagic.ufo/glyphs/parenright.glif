@@ -3,23 +3,24 @@
   <unicode hex="0029"></unicode>
   <outline>
     <contour>
-      <point x="120" y="-140" type="line"></point>
-      <point x="207" y="-27.3055"></point>
-      <point x="266" y="110.475"></point>
-      <point x="266" y="299" type="curve" smooth="yes"></point>
-      <point x="266" y="487.38"></point>
-      <point x="207" y="625.408"></point>
-      <point x="120" y="738" type="curve"></point>
-      <point x="186" y="783" type="line"></point>
-      <point x="281" y="666.889"></point>
-      <point x="359" y="501.951"></point>
-      <point x="359" y="299" type="curve" smooth="yes"></point>
-      <point x="359" y="96.1609"></point>
-      <point x="281" y="-68.9924"></point>
-      <point x="186" y="-185" type="curve"></point>
+      <point x="115" y="-140" type="line"></point>
+      <point x="202" y="-27.3055"></point>
+      <point x="261" y="110.475"></point>
+      <point x="261" y="299" type="curve" smooth="yes"></point>
+      <point x="261" y="487.38"></point>
+      <point x="202" y="625.408"></point>
+      <point x="115" y="738" type="curve"></point>
+      <point x="181" y="783" type="line"></point>
+      <point x="276" y="666.889"></point>
+      <point x="354" y="501.951"></point>
+      <point x="354" y="299" type="curve" smooth="yes"></point>
+      <point x="354" y="96.1609"></point>
+      <point x="276" y="-68.9924"></point>
+      <point x="181" y="-185" type="curve"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

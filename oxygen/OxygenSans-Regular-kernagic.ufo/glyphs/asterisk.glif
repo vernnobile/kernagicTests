@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="asterisk" format="1">
-  <advance width="882"></advance>
+  <advance width="925"></advance>
   <unicode hex="002A"></unicode>
   <outline>
     <contour>
-      <point x="250" y="599" type="line"></point>
-      <point x="120" y="681" type="line"></point>
-      <point x="351" y="991" type="line"></point>
-      <point x="10" y="1068" type="line"></point>
-      <point x="52" y="1215" type="line"></point>
-      <point x="388" y="1075" type="line"></point>
-      <point x="354" y="1456" type="line"></point>
-      <point x="514" y="1456" type="line"></point>
-      <point x="478" y="1075" type="line"></point>
-      <point x="816" y="1215" type="line"></point>
-      <point x="858" y="1068" type="line"></point>
-      <point x="513" y="991" type="line"></point>
-      <point x="551" y="940"></point>
-      <point x="657" y="798"></point>
-      <point x="750" y="681" type="curve"></point>
-      <point x="693" y="645"></point>
-      <point x="678" y="635"></point>
-      <point x="621" y="599" type="curve"></point>
-      <point x="429" y="937" type="line"></point>
+      <point x="304" y="599" type="line"></point>
+      <point x="174" y="681" type="line"></point>
+      <point x="405" y="991" type="line"></point>
+      <point x="64" y="1068" type="line"></point>
+      <point x="106" y="1215" type="line"></point>
+      <point x="442" y="1075" type="line"></point>
+      <point x="408" y="1456" type="line"></point>
+      <point x="568" y="1456" type="line"></point>
+      <point x="532" y="1075" type="line"></point>
+      <point x="870" y="1215" type="line"></point>
+      <point x="912" y="1068" type="line"></point>
+      <point x="567" y="991" type="line"></point>
+      <point x="605" y="940"></point>
+      <point x="711" y="798"></point>
+      <point x="804" y="681" type="curve"></point>
+      <point x="747" y="645"></point>
+      <point x="732" y="635"></point>
+      <point x="675" y="599" type="curve"></point>
+      <point x="483" y="937" type="line"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 

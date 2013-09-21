@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="asciitilde" format="1">
+  <advance width="1206"></advance>
+  <unicode hex="007E"></unicode>
+  <outline>
+    <contour>
+      <point x="151" y="480" type="curve"></point>
+      <point x="82" y="609" type="line"></point>
+      <point x="130" y="717"></point>
+      <point x="216" y="806"></point>
+      <point x="356" y="806" type="curve" smooth="yes"></point>
+      <point x="438" y="806"></point>
+      <point x="512" y="780"></point>
+      <point x="602" y="740" type="curve" smooth="yes"></point>
+      <point x="692" y="700"></point>
+      <point x="764" y="669"></point>
+      <point x="820" y="669" type="curve" smooth="yes"></point>
+      <point x="897" y="669"></point>
+      <point x="968" y="723"></point>
+      <point x="1030" y="812" type="curve"></point>
+      <point x="1099" y="691" type="line"></point>
+      <point x="1049" y="580"></point>
+      <point x="945" y="492"></point>
+      <point x="810" y="492" type="curve" smooth="yes"></point>
+      <point x="727" y="492"></point>
+      <point x="655" y="521"></point>
+      <point x="568" y="561" type="curve" smooth="yes"></point>
+      <point x="483" y="601"></point>
+      <point x="419" y="630"></point>
+      <point x="349" y="630" type="curve" smooth="yes"></point>
+      <point x="263" y="630"></point>
+      <point x="193" y="560"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>492</integer>
+	    <key>width</key>	    <integer>177</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>630</integer>
+	    <key>width</key>	    <integer>176</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

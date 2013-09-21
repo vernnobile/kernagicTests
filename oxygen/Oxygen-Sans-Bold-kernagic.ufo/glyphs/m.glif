@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="m" format="1">
+  <advance width="1768"></advance>
+  <unicode hex="006D"></unicode>
+  <outline>
+    <contour>
+      <point x="108" y="0" type="line"></point>
+      <point x="108" y="1082" type="line"></point>
+      <point x="290" y="1082" type="line"></point>
+      <point x="314" y="892" type="line"></point>
+      <point x="374" y="1023"></point>
+      <point x="486" y="1101"></point>
+      <point x="633" y="1101" type="curve" smooth="yes"></point>
+      <point x="787" y="1101"></point>
+      <point x="888" y="1015"></point>
+      <point x="933" y="872" type="curve"></point>
+      <point x="1008" y="1035"></point>
+      <point x="1150" y="1101"></point>
+      <point x="1288" y="1101" type="curve" smooth="yes"></point>
+      <point x="1519" y="1101"></point>
+      <point x="1633" y="958"></point>
+      <point x="1633" y="692" type="curve" smooth="yes"></point>
+      <point x="1633" y="0" type="line"></point>
+      <point x="1412" y="0" type="line"></point>
+      <point x="1412" y="617" type="line" smooth="yes"></point>
+      <point x="1412" y="797"></point>
+      <point x="1390" y="927"></point>
+      <point x="1242" y="927" type="curve" smooth="yes"></point>
+      <point x="1103" y="927"></point>
+      <point x="981" y="782"></point>
+      <point x="981" y="573" type="curve" smooth="yes"></point>
+      <point x="981" y="0" type="line"></point>
+      <point x="760" y="0" type="line"></point>
+      <point x="760" y="619" type="line" smooth="yes"></point>
+      <point x="760" y="828"></point>
+      <point x="712" y="927"></point>
+      <point x="579" y="927" type="curve" smooth="yes"></point>
+      <point x="427" y="927"></point>
+      <point x="329" y="782"></point>
+      <point x="329" y="572" type="curve" smooth="yes"></point>
+      <point x="329" y="0" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>927</integer>
+	    <key>width</key>	    <integer>174</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>128</integer>
+	    <key>width</key>
+	    <integer>221</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>128</integer>
+	    <key>width</key>
+	    <integer>182</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>780</integer>
+	    <key>width</key>
+	    <integer>221</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1432</integer>
+	    <key>width</key>
+	    <integer>221</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

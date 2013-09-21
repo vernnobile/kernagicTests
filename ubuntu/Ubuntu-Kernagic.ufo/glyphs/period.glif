@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="period" format="1">
-  <advance width="316"></advance>
+  <advance width="322"></advance>
   <unicode hex="002E"></unicode>
   <outline>
     <contour>
-      <point x="160" y="121" type="curve" smooth="yes"></point>
-      <point x="199" y="121"></point>
-      <point x="227" y="91.8126"></point>
-      <point x="227" y="54" type="curve" smooth="yes"></point>
-      <point x="227" y="16.1958"></point>
-      <point x="199" y="-13"></point>
-      <point x="160" y="-13" type="curve" smooth="yes"></point>
-      <point x="120" y="-13"></point>
-      <point x="93" y="16.1874"></point>
-      <point x="93" y="54" type="curve" smooth="yes"></point>
-      <point x="93" y="91.8042"></point>
-      <point x="120" y="121"></point>
+      <point x="154" y="121" type="curve" smooth="yes"></point>
+      <point x="193" y="121"></point>
+      <point x="221" y="91.8126"></point>
+      <point x="221" y="54" type="curve" smooth="yes"></point>
+      <point x="221" y="16.1958"></point>
+      <point x="193" y="-13"></point>
+      <point x="154" y="-13" type="curve" smooth="yes"></point>
+      <point x="114" y="-13"></point>
+      <point x="87" y="16.1874"></point>
+      <point x="87" y="54" type="curve" smooth="yes"></point>
+      <point x="87" y="91.8042"></point>
+      <point x="114" y="121"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

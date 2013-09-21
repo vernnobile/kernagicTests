@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="question" format="1">
+  <advance width="794"></advance>
+  <unicode hex="003F"></unicode>
+  <outline>
+    <contour>
+      <point x="318" y="-13" type="curve" smooth="yes"></point>
+      <point x="397" y="-13"></point>
+      <point x="432" y="41"></point>
+      <point x="432" y="101" type="curve" smooth="yes"></point>
+      <point x="432" y="158"></point>
+      <point x="397" y="214"></point>
+      <point x="318" y="214" type="curve" smooth="yes"></point>
+      <point x="239" y="214"></point>
+      <point x="203" y="158"></point>
+      <point x="203" y="101" type="curve" smooth="yes"></point>
+      <point x="203" y="43"></point>
+      <point x="239" y="-13"></point>
+    </contour>
+    <contour>
+      <point x="320" y="1343" type="curve" smooth="yes"></point>
+      <point x="445" y="1343"></point>
+      <point x="518" y="1273"></point>
+      <point x="518" y="1127" type="curve" smooth="yes"></point>
+      <point x="518" y="908"></point>
+      <point x="269" y="731"></point>
+      <point x="260" y="424" type="curve"></point>
+      <point x="343" y="424" type="line"></point>
+      <point x="442" y="788"></point>
+      <point x="677" y="836"></point>
+      <point x="677" y="1132" type="curve" smooth="yes"></point>
+      <point x="677" y="1380"></point>
+      <point x="517" y="1477"></point>
+      <point x="338" y="1477" type="curve" smooth="yes"></point>
+      <point x="214" y="1477"></point>
+      <point x="117" y="1437"></point>
+      <point x="44" y="1382" type="curve"></point>
+      <point x="77" y="1256" type="line"></point>
+      <point x="119" y="1285"></point>
+      <point x="214" y="1343"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+    <key>com.typemytype.robofont.layerData</key>
+    <key>b</key>
+    <key>name</key>
+      <string>question</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>974</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

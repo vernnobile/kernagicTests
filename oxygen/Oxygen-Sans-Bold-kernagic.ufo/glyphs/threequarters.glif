@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="threequarters" format="1">
+  <advance width="1513"></advance>
+  <unicode hex="00BE"></unicode>
+  <outline>
+    <contour>
+      <point x="1248" y="0" type="line"></point>
+      <point x="1248" y="184" type="line"></point>
+      <point x="864" y="184" type="line"></point>
+      <point x="864" y="309" type="line"></point>
+      <point x="1238" y="867" type="line"></point>
+      <point x="1400" y="867" type="line"></point>
+      <point x="1400" y="312" type="line"></point>
+      <point x="1513" y="312" type="line"></point>
+      <point x="1508" y="184" type="line"></point>
+      <point x="1400" y="184" type="line"></point>
+      <point x="1400" y="0" type="line"></point>
+    </contour>
+    <contour>
+      <point x="1031" y="312" type="line"></point>
+      <point x="1248" y="312" type="line"></point>
+      <point x="1248" y="665" type="line"></point>
+    </contour>
+    <contour>
+      <point x="14" y="597" type="line"></point>
+      <point x="14" y="741" type="line"></point>
+      <point x="160" y="741" type="line"></point>
+      <point x="160" y="1312" type="line"></point>
+      <point x="123" y="1292"></point>
+      <point x="15" y="1243"></point>
+      <point x="0" y="1238" type="curve"></point>
+      <point x="0" y="1383" type="line"></point>
+      <point x="46" y="1402"></point>
+      <point x="166" y="1467"></point>
+      <point x="200" y="1492" type="curve"></point>
+      <point x="335" y="1492" type="line"></point>
+      <point x="335" y="741" type="line"></point>
+      <point x="472" y="741" type="line"></point>
+      <point x="472" y="597" type="line"></point>
+    </contour>
+    <contour>
+      <point x="226" y="0" type="line"></point>
+      <point x="1184" y="1492" type="line"></point>
+      <point x="1360" y="1492" type="line"></point>
+      <point x="407" y="0" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>184</integer>
+	    <key>width</key>	    <integer>128</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>597</integer>
+	    <key>width</key>	    <integer>144</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>223</integer>
+	    <key>width</key>
+	    <integer>175</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1311</integer>
+	    <key>width</key>
+	    <integer>152</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

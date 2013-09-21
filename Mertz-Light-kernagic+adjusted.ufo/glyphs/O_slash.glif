@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="1">
+  <advance width="1506"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <contour>
+      <point x="1022" y="1096.2" type="line"/>
+      <point x="938" y="1144.53"/>
+      <point x="839" y="1168"/>
+      <point x="735" y="1168" type="curve" smooth="yes"/>
+      <point x="452" y="1168"/>
+      <point x="206" y="994.001"/>
+      <point x="206" y="619.001" type="curve" smooth="yes"/>
+      <point x="206" y="398.353"/>
+      <point x="297" y="247.665"/>
+      <point x="426" y="161.188" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1268" y="618" type="curve" smooth="yes"/>
+      <point x="1268" y="819.009"/>
+      <point x="1196" y="962.288"/>
+      <point x="1086" y="1052.11" type="curve"/>
+      <point x="494" y="123.185" type="line"/>
+      <point x="568" y="88.7793"/>
+      <point x="651" y="72"/>
+      <point x="735" y="72" type="curve" smooth="yes"/>
+      <point x="990" y="72"/>
+      <point x="1268" y="246"/>
+    </contour>
+    <contour>
+      <point x="354" y="-71.5596" type="curve" smooth="yes"/>
+      <point x="331" y="-71.5596"/>
+      <point x="309" y="-52.8789"/>
+      <point x="309" y="-31.5898" type="curve" smooth="yes"/>
+      <point x="309" y="-25.5898"/>
+      <point x="311" y="-19.3828"/>
+      <point x="315" y="-13.3281" type="curve" smooth="yes"/>
+      <point x="366" y="66.4062" type="line"/>
+      <point x="197" y="169.933"/>
+      <point x="78" y="353.758"/>
+      <point x="78" y="619.001" type="curve" smooth="yes"/>
+      <point x="78" y="1058"/>
+      <point x="401" y="1274"/>
+      <point x="735" y="1274" type="curve" smooth="yes"/>
+      <point x="857" y="1274"/>
+      <point x="977" y="1245.7"/>
+      <point x="1081" y="1188.96" type="curve"/>
+      <point x="1143" y="1286.33" type="line" smooth="yes"/>
+      <point x="1151" y="1297.75"/>
+      <point x="1160" y="1303.56"/>
+      <point x="1170" y="1303.56" type="curve" smooth="yes"/>
+      <point x="1193" y="1303.56"/>
+      <point x="1215" y="1284.88"/>
+      <point x="1215" y="1263.59" type="curve" smooth="yes"/>
+      <point x="1215" y="1257.59"/>
+      <point x="1213" y="1251.38"/>
+      <point x="1209" y="1245.33" type="curve" smooth="yes"/>
+      <point x="1147" y="1147.56" type="line"/>
+      <point x="1295" y="1040.72"/>
+      <point x="1397" y="866.044"/>
+      <point x="1397" y="623.001" type="curve" smooth="yes"/>
+      <point x="1397" y="182.001"/>
+      <point x="1072" y="-33.999"/>
+      <point x="737" y="-33.999" type="curve" smooth="yes"/>
+      <point x="632" y="-33.999"/>
+      <point x="528" y="-12.7832"/>
+      <point x="434" y="29.8027" type="curve"/>
+      <point x="381" y="-54.3291" type="line" smooth="yes"/>
+      <point x="373" y="-65.749"/>
+      <point x="364" y="-71.5596"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

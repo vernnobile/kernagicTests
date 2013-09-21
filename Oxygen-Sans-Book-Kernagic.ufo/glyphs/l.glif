@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="l" format="1">
+  <advance width="617"></advance>
+  <unicode hex="006C"></unicode>
+  <outline>
+    <contour>
+      <point x="484" y="-8" type="curve" smooth="yes"></point>
+      <point x="543" y="-8" type="line"></point>
+      <point x="552" y="114" type="line"></point>
+      <point x="523" y="116" type="line"></point>
+      <point x="350" y="123"></point>
+      <point x="317" y="138"></point>
+      <point x="317" y="310" type="curve" smooth="yes"></point>
+      <point x="317" y="1560" type="line"></point>
+      <point x="153" y="1548" type="line"></point>
+      <point x="153" y="311" type="line" smooth="yes"></point>
+      <point x="153" y="45"></point>
+      <point x="268" y="-8"></point>
+    </contour>
+    <contour>
+      <point x="319" y="0.2" type="move" smooth="yes"></point>
+    </contour>
+    <contour>
+      <point x="613" y="1083.62" type="move" smooth="yes"></point>
+    </contour>
+    <contour>
+      <point x="327" y="1496.7" type="move" smooth="yes"></point>
+    </contour>
+    <contour>
+      <point x="233" y="918.6" type="move" smooth="yes"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>273</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>273</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-12</integer>
+	    <key>width</key>	    <integer>122</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>172</integer>
+	    <key>width</key>
+	    <integer>166</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>b</key>
+    <key>name</key>
+      <string>l</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>633</integer>
+    <key>contours</key>
+      <array>
+      <key>points</key>
+      <array>
+      <key>segmentType</key>
+      <string>curve</string>
+    <key>x</key>
+    <key>smooth</key>
+      <true></true>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false></false>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false></false>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <true></true>
+    <key>y</key>
+      <key>y</key>
+    <key>x</key>
+    <key>smooth</key>
+      <false></false>
+      <key>y</key>
+    <key>x</key>
+    <key>smooth</key>
+      <false></false>
+      <key>segmentType</key>
+      <string>curve</string>
+    <key>x</key>
+    <key>smooth</key>
+      <true></true>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false></false>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false></false>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <true></true>
+    <key>y</key>
+      <key>y</key>
+    <key>x</key>
+    <key>smooth</key>
+      <false></false>
+      <key>y</key>
+    <key>x</key>
+    <key>smooth</key>
+      <false></false>
+      </array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

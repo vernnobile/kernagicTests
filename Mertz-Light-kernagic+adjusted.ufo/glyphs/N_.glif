@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="1280"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="245.5" y="34" type="line" smooth="yes"/>
+      <point x="245.5" y="12.2637"/>
+      <point x="232.5" y="0"/>
+      <point x="211.5" y="0" type="curve" smooth="yes"/>
+      <point x="151.5" y="0" type="line" smooth="yes"/>
+      <point x="129.5" y="0"/>
+      <point x="117.5" y="12.2637"/>
+      <point x="117.5" y="34" type="curve" smooth="yes"/>
+      <point x="117.5" y="1229" type="line" smooth="yes"/>
+      <point x="117.5" y="1239.04"/>
+      <point x="121.5" y="1244.67"/>
+      <point x="127.5" y="1244.67" type="curve" smooth="yes"/>
+      <point x="131.5" y="1244.67"/>
+      <point x="135.5" y="1242.55"/>
+      <point x="140.5" y="1238.02" type="curve" smooth="yes"/>
+      <point x="1034.5" y="270" type="line"/>
+      <point x="1034.5" y="1206" type="line" smooth="yes"/>
+      <point x="1034.5" y="1228"/>
+      <point x="1046.5" y="1240"/>
+      <point x="1068.5" y="1240" type="curve" smooth="yes"/>
+      <point x="1128.5" y="1240" type="line" smooth="yes"/>
+      <point x="1150.5" y="1240"/>
+      <point x="1162.5" y="1228"/>
+      <point x="1162.5" y="1206" type="curve" smooth="yes"/>
+      <point x="1162.5" y="3" type="line" smooth="yes"/>
+      <point x="1162.5" y="-7.06641"/>
+      <point x="1157.5" y="-12.7168"/>
+      <point x="1151.5" y="-12.7168" type="curve" smooth="yes"/>
+      <point x="1147.5" y="-12.7168"/>
+      <point x="1143.5" y="-10.6025"/>
+      <point x="1138.5" y="-6.0918" type="curve" smooth="yes"/>
+      <point x="245.5" y="956" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1225</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>118</integer>
+	    <key>width</key>
+	    <integer>128</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1034</integer>
+	    <key>width</key>
+	    <integer>128</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

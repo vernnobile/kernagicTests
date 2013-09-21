@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni00AD" format="1">
+  <advance width="659"></advance>
+  <unicode hex="00AD"></unicode>
+  <outline>
+    <contour>
+      <point x="0" y="303" type="line"></point>
+      <point x="0" y="489" type="line"></point>
+      <point x="659" y="489" type="line"></point>
+      <point x="659" y="303" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>303</integer>
+	    <key>width</key>	    <integer>186</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>87</integer>
+	    <key>width</key>
+	    <integer>659</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

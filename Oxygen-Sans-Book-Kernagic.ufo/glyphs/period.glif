@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="period" format="1">
+  <advance width="617"></advance>
+  <unicode hex="002E"></unicode>
+  <outline>
+    <contour>
+      <point x="299" y="-11" type="curve" smooth="yes"></point>
+      <point x="377" y="-11"></point>
+      <point x="411" y="47"></point>
+      <point x="411" y="106" type="curve" smooth="yes"></point>
+      <point x="411" y="163"></point>
+      <point x="377" y="223"></point>
+      <point x="299" y="223" type="curve" smooth="yes"></point>
+      <point x="220" y="223"></point>
+      <point x="184" y="163"></point>
+      <point x="184" y="106" type="curve" smooth="yes"></point>
+      <point x="184" y="47"></point>
+      <point x="221" y="-11"></point>
+    </contour>
+    <contour>
+      <point x="292" y="102.775" type="move" smooth="yes"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+    <key>com.typemytype.robofont.layerData</key>
+    <key>b</key>
+    <key>name</key>
+      <string>period</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>548</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="bar" format="1">
+  <advance width="643"></advance>
+  <unicode hex="007C"></unicode>
+  <outline>
+    <contour>
+      <point x="210" y="-317" type="line"></point>
+      <point x="210" y="1520" type="line"></point>
+      <point x="387" y="1520" type="line"></point>
+      <point x="387" y="-317" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>179</integer>
+	    <key>width</key>
+	    <integer>177</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="grave.cap" format="1">
+  <advance width="434"></advance>
+  <outline>
+    <contour>
+      <point x="300" y="1058" type="line"></point>
+      <point x="434" y="1058" type="line"></point>
+      <point x="188" y="1357" type="line"></point>
+      <point x="0" y="1357" type="line"></point>
+    </contour>
+    <contour>
+      <point x="360" y="945.25" type="move" smooth="yes"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+    <key>com.typemytype.robofont.layerData</key>
+    <key>b</key>
+    <key>name</key>
+      <string>grave.cap</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>650</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

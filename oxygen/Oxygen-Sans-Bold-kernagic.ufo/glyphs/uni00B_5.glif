@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni00B5" format="1">
+  <advance width="909"></advance>
+  <unicode hex="00B5"></unicode>
+  <outline>
+    <contour>
+      <point x="909" y="1076" type="line"></point>
+      <point x="909" y="-6" type="line"></point>
+      <point x="724" y="-6" type="line"></point>
+      <point x="701" y="198" type="line"></point>
+      <point x="647" y="72"></point>
+      <point x="556" y="-25"></point>
+      <point x="364" y="-25" type="curve" smooth="yes"></point>
+      <point x="137" y="-25"></point>
+      <point x="0" y="133"></point>
+      <point x="0" y="415" type="curve" smooth="yes"></point>
+      <point x="0" y="1076" type="line"></point>
+      <point x="224" y="1076" type="line"></point>
+      <point x="224" y="433" type="line" smooth="yes"></point>
+      <point x="224" y="250"></point>
+      <point x="270" y="149"></point>
+      <point x="417" y="149" type="curve" smooth="yes"></point>
+      <point x="599" y="149"></point>
+      <point x="685" y="314"></point>
+      <point x="685" y="504" type="curve" smooth="yes"></point>
+      <point x="685" y="1076" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-25</integer>
+	    <key>width</key>	    <integer>174</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1055</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>196</integer>
+	    <key>width</key>
+	    <integer>224</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>881</integer>
+	    <key>width</key>
+	    <integer>224</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>920</integer>
+	    <key>width</key>
+	    <integer>185</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

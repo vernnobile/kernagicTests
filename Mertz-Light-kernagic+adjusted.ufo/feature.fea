@@ -1,0 +1,22 @@
+
+
+@GDEF_Simple = [\space \exclam \quotedbl \dollar \percent \quotesingle \parenleft 
+	\parenright \asterisk \plus \comma \hyphen \period \slash \zero \one \two \three 
+	\four \five \six \seven \eight \nine \colon \semicolon \less \equal \greater 
+	\question \at \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z 
+	\bracketleft \backslash \bracketright \asciicircum \underscore \grave \a \b \c \d 
+	\e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z \bar \sterling \yen \dieresis 
+	\copyright \guillemotleft \registered \acute \cedilla \guillemotright 
+	\questiondown \Agrave \Aacute \Ccedilla \Egrave \Eacute \Oslash \Thorn \ccedilla 
+	\egrave \eacute \ntilde \ograve \oacute \ocircumflex \odieresis \oslash \ugrave 
+	\uacute \thorn \Aogonek \aogonek \Eogonek \eogonek \dotlessi \circumflex \caron 
+	\dotaccent \ring \ogonek \tilde \hungarumlaut \quoteleft \quoteright 
+	\lc_ascender_stem \lc_descender_stem \lc_left_bowl \lc_right_bowl 
+	\lc_xheight_curved_stem \lc_xheight_stem \uc_main_stem \braceleft 
+	\braceright \asciitilde ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

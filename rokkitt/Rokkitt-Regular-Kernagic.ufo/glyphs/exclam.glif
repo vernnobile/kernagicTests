@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="exclam" format="1">
+  <advance width="554"></advance>
+  <unicode hex="0021"></unicode>
+  <outline>
+    <contour>
+      <point x="188" y="1153" type="line"></point>
+      <point x="360" y="1153" type="line"></point>
+      <point x="360" y="821" type="line"></point>
+      <point x="308" y="324" type="line"></point>
+      <point x="240" y="324" type="line"></point>
+      <point x="188" y="821" type="line"></point>
+    </contour>
+    <contour>
+      <point x="168" y="212" type="line"></point>
+      <point x="380" y="212" type="line"></point>
+      <point x="380" y="0" type="line"></point>
+      <point x="168" y="0" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>
