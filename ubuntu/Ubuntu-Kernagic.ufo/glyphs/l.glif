@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="l" format="1">
-  <advance width="322"></advance>
+  <advance width="343"></advance>
   <unicode hex="006C"></unicode>
   <outline>
     <contour>
-      <point x="245" y="-10" type="line"></point>
-      <point x="137" y="-7.49316"></point>
-      <point x="87" y="30.4613"></point>
-      <point x="87" y="136" type="curve" smooth="yes"></point>
-      <point x="87" y="760" type="line"></point>
-      <point x="180" y="776" type="line"></point>
-      <point x="180" y="151" type="line" smooth="yes"></point>
-      <point x="180" y="109.052"></point>
-      <point x="189" y="85.0323"></point>
-      <point x="221" y="75.5" type="curve" smooth="yes"></point>
-      <point x="231" y="72.5"></point>
-      <point x="243" y="70"></point>
-      <point x="258" y="68" type="curve"></point>
+      <point x="260" y="-10" type="line"></point>
+      <point x="152" y="-7.49316"></point>
+      <point x="102" y="30.4613"></point>
+      <point x="102" y="136" type="curve" smooth="yes"></point>
+      <point x="102" y="760" type="line"></point>
+      <point x="195" y="776" type="line"></point>
+      <point x="195" y="151" type="line" smooth="yes"></point>
+      <point x="195" y="109.052"></point>
+      <point x="204" y="85.0323"></point>
+      <point x="236" y="75.5" type="curve" smooth="yes"></point>
+      <point x="246" y="72.5"></point>
+      <point x="258" y="70"></point>
+      <point x="273" y="68" type="curve"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>115</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>115</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>115</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>115</integer></dict>
 </dict></lib>

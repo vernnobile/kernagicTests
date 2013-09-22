@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="macron" format="1">
-  <advance width="284"></advance>
+  <advance width="457"></advance>
   <unicode hex="00AF"></unicode>
   <outline>
     <contour>
-      <point x="0" y="711" type="line"></point>
-      <point x="284" y="711" type="line"></point>
-      <point x="284" y="639" type="line"></point>
-      <point x="0" y="639" type="line"></point>
+      <point x="129" y="711" type="line"></point>
+      <point x="413" y="711" type="line"></point>
+      <point x="413" y="639" type="line"></point>
+      <point x="129" y="639" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
