@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="summation" format="1">
-  <advance width="962"></advance>
+  <advance width="877"></advance>
   <unicode hex="2211"></unicode>
   <outline>
     <contour>
-      <point x="0" y="-148" type="line"></point>
-      <point x="962" y="-148" type="line"></point>
-      <point x="962" y="4" type="line"></point>
-      <point x="231" y="4" type="line"></point>
-      <point x="703" y="664" type="line"></point>
-      <point x="248" y="1357" type="line"></point>
-      <point x="915" y="1357" type="line"></point>
-      <point x="915" y="1500" type="line"></point>
-      <point x="22" y="1500" type="line"></point>
-      <point x="22" y="1405" type="line"></point>
-      <point x="506" y="671" type="line"></point>
-      <point x="0" y="-57" type="line"></point>
+      <point x="-9" y="-148" type="line"></point>
+      <point x="952" y="-148" type="line"></point>
+      <point x="952" y="4" type="line"></point>
+      <point x="221" y="4" type="line"></point>
+      <point x="693" y="664" type="line"></point>
+      <point x="238" y="1357" type="line"></point>
+      <point x="905" y="1357" type="line"></point>
+      <point x="905" y="1500" type="line"></point>
+      <point x="12" y="1500" type="line"></point>
+      <point x="12" y="1405" type="line"></point>
+      <point x="496" y="671" type="line"></point>
+      <point x="-9" y="-57" type="line"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

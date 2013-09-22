@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="Euro" format="1">
-  <advance width="873"></advance>
+  <advance width="1036"></advance>
   <unicode hex="20AC"></unicode>
   <outline>
     <contour>
-      <point x="857" y="538" type="line"></point>
-      <point x="865" y="649" type="line"></point>
-      <point x="230" y="649" type="line"></point>
-      <point x="230" y="829" type="line"></point>
-      <point x="865" y="829" type="line"></point>
-      <point x="873" y="937" type="line"></point>
-      <point x="13" y="937" type="line"></point>
-      <point x="7" y="829" type="line"></point>
-      <point x="144" y="829" type="line"></point>
-      <point x="144" y="649" type="line"></point>
-      <point x="8" y="649" type="line"></point>
-      <point x="0" y="538" type="line"></point>
+      <point x="924" y="538" type="line"></point>
+      <point x="932" y="649" type="line"></point>
+      <point x="297" y="649" type="line"></point>
+      <point x="297" y="829" type="line"></point>
+      <point x="932" y="829" type="line"></point>
+      <point x="940" y="937" type="line"></point>
+      <point x="80" y="937" type="line"></point>
+      <point x="74" y="829" type="line"></point>
+      <point x="211" y="829" type="line"></point>
+      <point x="211" y="649" type="line"></point>
+      <point x="75" y="649" type="line"></point>
+      <point x="67" y="538" type="line"></point>
     </contour>
     <component base="C"></component>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
