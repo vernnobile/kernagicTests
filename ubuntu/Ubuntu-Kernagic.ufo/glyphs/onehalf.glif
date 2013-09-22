@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="onehalf" format="1">
-  <advance width="453"></advance>
+  <advance width="480"></advance>
   <unicode hex="00BD"></unicode>
   <outline>
     <component base="onesuperior"></component>
     <component base="twosuperior" xOffset="515" yOffset="-312"></component>
     <contour>
-      <point x="474" y="693" type="line"></point>
-      <point x="83" y="0" type="line"></point>
-      <point x="-3" y="0" type="line"></point>
-      <point x="387" y="693" type="line"></point>
+      <point x="484" y="693" type="line"></point>
+      <point x="93" y="0" type="line"></point>
+      <point x="6" y="0" type="line"></point>
+      <point x="397" y="693" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

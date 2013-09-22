@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="D" format="1">
-  <advance width="651"></advance>
+  <advance width="677"></advance>
   <unicode hex="0044"></unicode>
   <outline>
     <contour>
-      <point x="54" y="683" type="line"></point>
-      <point x="103" y="694.977"></point>
-      <point x="178" y="700"></point>
-      <point x="238" y="700" type="curve" smooth="yes"></point>
-      <point x="417" y="700"></point>
-      <point x="541" y="631.233"></point>
-      <point x="595" y="503.5" type="curve" smooth="yes"></point>
-      <point x="613" y="459.167"></point>
-      <point x="623" y="407"></point>
-      <point x="623" y="347" type="curve" smooth="yes"></point>
-      <point x="623" y="164.513"></point>
-      <point x="534" y="58.0016"></point>
-      <point x="394" y="15.5" type="curve" smooth="yes"></point>
-      <point x="346" y="1.16667"></point>
-      <point x="294" y="-6"></point>
-      <point x="238" y="-6" type="curve" smooth="yes"></point>
-      <point x="178" y="-6"></point>
-      <point x="103" y="-0.956785"></point>
-      <point x="54" y="11" type="curve"></point>
+      <point x="64" y="683" type="line"></point>
+      <point x="113" y="694.977"></point>
+      <point x="188" y="700"></point>
+      <point x="248" y="700" type="curve" smooth="yes"></point>
+      <point x="427" y="700"></point>
+      <point x="551" y="631.233"></point>
+      <point x="605" y="503.5" type="curve" smooth="yes"></point>
+      <point x="623" y="459.167"></point>
+      <point x="633" y="407"></point>
+      <point x="633" y="347" type="curve" smooth="yes"></point>
+      <point x="633" y="164.513"></point>
+      <point x="544" y="58.0016"></point>
+      <point x="404" y="15.5" type="curve" smooth="yes"></point>
+      <point x="356" y="1.16667"></point>
+      <point x="304" y="-6"></point>
+      <point x="248" y="-6" type="curve" smooth="yes"></point>
+      <point x="188" y="-6"></point>
+      <point x="113" y="-0.956785"></point>
+      <point x="64" y="11" type="curve"></point>
     </contour>
     <contour>
-      <point x="151" y="82" type="line"></point>
-      <point x="177" y="79.0943"></point>
-      <point x="202" y="78.9995"></point>
-      <point x="238" y="78.9995" type="curve" smooth="yes"></point>
-      <point x="240" y="78.9995"></point>
-      <point x="243" y="79"></point>
-      <point x="246" y="79" type="curve" smooth="yes"></point>
-      <point x="424" y="79"></point>
-      <point x="520" y="172.369"></point>
-      <point x="520" y="347" type="curve" smooth="yes"></point>
-      <point x="520" y="521.612"></point>
-      <point x="424" y="615"></point>
-      <point x="246" y="615" type="curve" smooth="yes"></point>
-      <point x="242" y="615"></point>
-      <point x="239" y="615.001"></point>
-      <point x="236" y="615.001" type="curve" smooth="yes"></point>
-      <point x="201" y="615.001"></point>
-      <point x="176" y="614.887"></point>
-      <point x="151" y="612" type="curve"></point>
+      <point x="161" y="82" type="line"></point>
+      <point x="187" y="79.0943"></point>
+      <point x="212" y="78.9995"></point>
+      <point x="248" y="78.9995" type="curve" smooth="yes"></point>
+      <point x="250" y="78.9995"></point>
+      <point x="253" y="79"></point>
+      <point x="256" y="79" type="curve" smooth="yes"></point>
+      <point x="434" y="79"></point>
+      <point x="530" y="172.369"></point>
+      <point x="530" y="347" type="curve" smooth="yes"></point>
+      <point x="530" y="521.612"></point>
+      <point x="434" y="615"></point>
+      <point x="256" y="615" type="curve" smooth="yes"></point>
+      <point x="252" y="615"></point>
+      <point x="249" y="615.001"></point>
+      <point x="246" y="615.001" type="curve" smooth="yes"></point>
+      <point x="211" y="615.001"></point>
+      <point x="186" y="614.887"></point>
+      <point x="161" y="612" type="curve"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

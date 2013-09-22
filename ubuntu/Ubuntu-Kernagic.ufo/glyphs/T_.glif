@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="T" format="1">
-  <advance width="591"></advance>
+  <advance width="611"></advance>
   <unicode hex="0054"></unicode>
   <outline>
     <contour>
-      <point x="642" y="693" type="line"></point>
-      <point x="642" y="609" type="line"></point>
-      <point x="424" y="609" type="line"></point>
-      <point x="424" y="0" type="line"></point>
-      <point x="327" y="0" type="line"></point>
-      <point x="327" y="609" type="line"></point>
-      <point x="109" y="609" type="line"></point>
-      <point x="109" y="693" type="line"></point>
+      <point x="652" y="693" type="line"></point>
+      <point x="652" y="609" type="line"></point>
+      <point x="434" y="609" type="line"></point>
+      <point x="434" y="0" type="line"></point>
+      <point x="337" y="0" type="line"></point>
+      <point x="337" y="609" type="line"></point>
+      <point x="119" y="609" type="line"></point>
+      <point x="119" y="693" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
