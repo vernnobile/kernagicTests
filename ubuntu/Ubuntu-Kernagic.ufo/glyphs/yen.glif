@@ -1,42 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="yen" format="1">
-  <advance width="549"></advance>
+  <advance width="493"></advance>
   <unicode hex="00A5"></unicode>
   <outline>
     <contour>
-      <point x="275" y="387" type="curve"></point>
-      <point x="333" y="482.211"></point>
-      <point x="387" y="589.138"></point>
-      <point x="437" y="693" type="curve"></point>
-      <point x="538" y="693" type="line"></point>
-      <point x="476" y="577.759"></point>
-      <point x="412" y="461.26"></point>
-      <point x="343" y="350" type="curve"></point>
-      <point x="480" y="350" type="line"></point>
-      <point x="480" y="279" type="line"></point>
-      <point x="318" y="279" type="line"></point>
-      <point x="318" y="177" type="line"></point>
-      <point x="480" y="177" type="line"></point>
-      <point x="480" y="106" type="line"></point>
-      <point x="318" y="106" type="line"></point>
-      <point x="318" y="0" type="line"></point>
-      <point x="227" y="0" type="line"></point>
-      <point x="227" y="106" type="line"></point>
-      <point x="65" y="106" type="line"></point>
-      <point x="65" y="177" type="line"></point>
-      <point x="227" y="177" type="line"></point>
-      <point x="227" y="279" type="line"></point>
-      <point x="65" y="279" type="line"></point>
-      <point x="65" y="350" type="line"></point>
-      <point x="201" y="350" type="line"></point>
-      <point x="132" y="461.628"></point>
-      <point x="67" y="578.017"></point>
-      <point x="7" y="693" type="curve"></point>
-      <point x="110" y="693" type="line"></point>
-      <point x="158" y="588.556"></point>
-      <point x="215" y="481.43"></point>
+      <point x="250" y="387" type="curve"></point>
+      <point x="308" y="482.211"></point>
+      <point x="362" y="589.138"></point>
+      <point x="412" y="693" type="curve"></point>
+      <point x="513" y="693" type="line"></point>
+      <point x="451" y="577.759"></point>
+      <point x="387" y="461.26"></point>
+      <point x="318" y="350" type="curve"></point>
+      <point x="455" y="350" type="line"></point>
+      <point x="455" y="279" type="line"></point>
+      <point x="293" y="279" type="line"></point>
+      <point x="293" y="177" type="line"></point>
+      <point x="455" y="177" type="line"></point>
+      <point x="455" y="106" type="line"></point>
+      <point x="293" y="106" type="line"></point>
+      <point x="293" y="0" type="line"></point>
+      <point x="202" y="0" type="line"></point>
+      <point x="202" y="106" type="line"></point>
+      <point x="40" y="106" type="line"></point>
+      <point x="40" y="177" type="line"></point>
+      <point x="202" y="177" type="line"></point>
+      <point x="202" y="279" type="line"></point>
+      <point x="40" y="279" type="line"></point>
+      <point x="40" y="350" type="line"></point>
+      <point x="176" y="350" type="line"></point>
+      <point x="107" y="461.628"></point>
+      <point x="42" y="578.017"></point>
+      <point x="-17" y="693" type="curve"></point>
+      <point x="85" y="693" type="line"></point>
+      <point x="133" y="588.556"></point>
+      <point x="190" y="481.43"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

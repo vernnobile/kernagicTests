@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="E" format="1">
-  <advance width="572"></advance>
+  <advance width="531"></advance>
   <unicode hex="0045"></unicode>
   <outline>
     <contour>
-      <point x="74" y="0" type="line"></point>
-      <point x="74" y="693" type="line"></point>
-      <point x="497" y="693" type="line"></point>
-      <point x="497" y="610" type="line"></point>
-      <point x="171" y="610" type="line"></point>
-      <point x="171" y="404" type="line"></point>
-      <point x="461" y="404" type="line"></point>
-      <point x="461" y="323" type="line"></point>
-      <point x="171" y="323" type="line"></point>
-      <point x="171" y="83" type="line"></point>
-      <point x="522" y="83" type="line"></point>
-      <point x="522" y="0" type="line"></point>
+      <point x="50" y="0" type="line"></point>
+      <point x="50" y="693" type="line"></point>
+      <point x="473" y="693" type="line"></point>
+      <point x="473" y="610" type="line"></point>
+      <point x="147" y="610" type="line"></point>
+      <point x="147" y="404" type="line"></point>
+      <point x="437" y="404" type="line"></point>
+      <point x="437" y="323" type="line"></point>
+      <point x="147" y="323" type="line"></point>
+      <point x="147" y="83" type="line"></point>
+      <point x="498" y="83" type="line"></point>
+      <point x="498" y="0" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
