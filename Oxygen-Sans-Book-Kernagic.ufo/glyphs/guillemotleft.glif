@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="guillemotleft" format="1">
-  <advance width="801"></advance>
+  <advance width="986"></advance>
   <unicode hex="00AB"></unicode>
   <outline>
     <contour>
-      <point x="284" y="148" type="line"></point>
-      <point x="441" y="148" type="line"></point>
-      <point x="165" y="552" type="line"></point>
-      <point x="449" y="953" type="line"></point>
-      <point x="288" y="953" type="line"></point>
-      <point x="0" y="549" type="line"></point>
+      <point x="379" y="148" type="line"></point>
+      <point x="536" y="148" type="line"></point>
+      <point x="260" y="552" type="line"></point>
+      <point x="544" y="953" type="line"></point>
+      <point x="383" y="953" type="line"></point>
+      <point x="95" y="549" type="line"></point>
     </contour>
     <contour>
-      <point x="637" y="148" type="line"></point>
-      <point x="794" y="148" type="line"></point>
-      <point x="517" y="552" type="line"></point>
-      <point x="801" y="953" type="line"></point>
-      <point x="640" y="953" type="line"></point>
-      <point x="353" y="549" type="line"></point>
+      <point x="732" y="148" type="line"></point>
+      <point x="889" y="148" type="line"></point>
+      <point x="612" y="552" type="line"></point>
+      <point x="896" y="953" type="line"></point>
+      <point x="735" y="953" type="line"></point>
+      <point x="448" y="549" type="line"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
     <key>com.typemytype.robofont.layerData</key>

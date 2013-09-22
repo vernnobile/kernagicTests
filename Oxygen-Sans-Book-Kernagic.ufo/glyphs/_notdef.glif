@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name=".notdef" format="1">
-  <advance width="775"></advance>
+  <advance width="1166"></advance>
   <outline>
     <contour>
-      <point x="0" y="89" type="line"></point>
-      <point x="0" y="989" type="line"></point>
-      <point x="775" y="989" type="line"></point>
-      <point x="775" y="89" type="line"></point>
+      <point x="197" y="89" type="line"></point>
+      <point x="197" y="989" type="line"></point>
+      <point x="972" y="989" type="line"></point>
+      <point x="972" y="89" type="line"></point>
     </contour>
     <contour>
-      <point x="97" y="188" type="line"></point>
-      <point x="679" y="188" type="line"></point>
-      <point x="679" y="890" type="line"></point>
-      <point x="97" y="890" type="line"></point>
+      <point x="294" y="188" type="line"></point>
+      <point x="876" y="188" type="line"></point>
+      <point x="876" y="890" type="line"></point>
+      <point x="294" y="890" type="line"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
       <key>com.fontlab.hintData</key>

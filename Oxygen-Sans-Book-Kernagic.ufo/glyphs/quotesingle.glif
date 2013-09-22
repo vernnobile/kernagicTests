@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="quotesingle" format="1">
-  <advance width="529"></advance>
+  <advance width="583"></advance>
   <unicode hex="0027"></unicode>
   <outline>
     <contour>
-      <point x="220" y="953" type="line"></point>
-      <point x="311" y="953" type="line"></point>
-      <point x="349" y="1473" type="line"></point>
-      <point x="184" y="1473" type="line"></point>
+      <point x="252" y="953" type="line"></point>
+      <point x="343" y="953" type="line"></point>
+      <point x="381" y="1473" type="line"></point>
+      <point x="216" y="1473" type="line"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
     <key>com.typemytype.robofont.layerData</key>

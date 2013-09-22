@@ -1,51 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="Q" format="1">
-  <advance width="1490"></advance>
+  <advance width="1614"></advance>
   <unicode hex="0051"></unicode>
   <outline>
     <contour>
-      <point x="278" y="729" type="curve" smooth="yes"></point>
-      <point x="278" y="314"></point>
-      <point x="498" y="51"></point>
-      <point x="767" y="51" type="curve" smooth="yes"></point>
-      <point x="996" y="51"></point>
-      <point x="1190" y="233"></point>
-      <point x="1190" y="587" type="curve" smooth="yes"></point>
-      <point x="1190" y="953"></point>
-      <point x="992" y="1250"></point>
-      <point x="702" y="1250" type="curve" smooth="yes"></point>
-      <point x="467" y="1250"></point>
-      <point x="278" y="1052"></point>
+      <point x="337" y="729" type="curve" smooth="yes"></point>
+      <point x="337" y="314"></point>
+      <point x="557" y="51"></point>
+      <point x="826" y="51" type="curve" smooth="yes"></point>
+      <point x="1055" y="51"></point>
+      <point x="1249" y="233"></point>
+      <point x="1249" y="587" type="curve" smooth="yes"></point>
+      <point x="1249" y="953"></point>
+      <point x="1051" y="1250"></point>
+      <point x="761" y="1250" type="curve" smooth="yes"></point>
+      <point x="526" y="1250"></point>
+      <point x="337" y="1052"></point>
     </contour>
     <contour>
-      <point x="1522" y="-213" type="curve"></point>
-      <point x="1534" y="-285" type="line"></point>
-      <point x="1483" y="-302"></point>
-      <point x="1405" y="-314"></point>
-      <point x="1330" y="-314" type="curve" smooth="yes"></point>
-      <point x="1194" y="-314"></point>
-      <point x="1112" y="-293"></point>
-      <point x="1010" y="-244" type="curve"></point>
-      <point x="905" y="-195"></point>
-      <point x="676" y="-73"></point>
-      <point x="582" y="-11" type="curve"></point>
-      <point x="270" y="71"></point>
-      <point x="44" y="286"></point>
-      <point x="44" y="641" type="curve" smooth="yes"></point>
-      <point x="44" y="1061"></point>
-      <point x="359" y="1327"></point>
-      <point x="736" y="1327" type="curve" smooth="yes"></point>
-      <point x="1110" y="1327"></point>
-      <point x="1423" y="1063"></point>
-      <point x="1423" y="651" type="curve" smooth="yes"></point>
-      <point x="1423" y="295"></point>
-      <point x="1173" y="51"></point>
-      <point x="856" y="-11" type="curve"></point>
-      <point x="1121" y="-138"></point>
-      <point x="1240" y="-188"></point>
+      <point x="1581" y="-213" type="curve"></point>
+      <point x="1593" y="-285" type="line"></point>
+      <point x="1542" y="-302"></point>
+      <point x="1464" y="-314"></point>
+      <point x="1389" y="-314" type="curve" smooth="yes"></point>
+      <point x="1253" y="-314"></point>
+      <point x="1171" y="-293"></point>
+      <point x="1069" y="-244" type="curve"></point>
+      <point x="964" y="-195"></point>
+      <point x="735" y="-73"></point>
+      <point x="641" y="-11" type="curve"></point>
+      <point x="329" y="71"></point>
+      <point x="103" y="286"></point>
+      <point x="103" y="641" type="curve" smooth="yes"></point>
+      <point x="103" y="1061"></point>
+      <point x="418" y="1327"></point>
+      <point x="795" y="1327" type="curve" smooth="yes"></point>
+      <point x="1169" y="1327"></point>
+      <point x="1482" y="1063"></point>
+      <point x="1482" y="651" type="curve" smooth="yes"></point>
+      <point x="1482" y="295"></point>
+      <point x="1232" y="51"></point>
+      <point x="915" y="-11" type="curve"></point>
+      <point x="1180" y="-138"></point>
+      <point x="1299" y="-188"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
       <key>com.fontlab.hintData</key>
       <dict>

@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="period" format="1">
-  <advance width="617"></advance>
+  <advance width="672"></advance>
   <unicode hex="002E"></unicode>
   <outline>
     <contour>
-      <point x="299" y="-11" type="curve" smooth="yes"></point>
-      <point x="377" y="-11"></point>
-      <point x="411" y="47"></point>
-      <point x="411" y="106" type="curve" smooth="yes"></point>
-      <point x="411" y="163"></point>
-      <point x="377" y="223"></point>
-      <point x="299" y="223" type="curve" smooth="yes"></point>
-      <point x="220" y="223"></point>
-      <point x="184" y="163"></point>
-      <point x="184" y="106" type="curve" smooth="yes"></point>
-      <point x="184" y="47"></point>
-      <point x="221" y="-11"></point>
+      <point x="331" y="-11" type="curve" smooth="yes"></point>
+      <point x="409" y="-11"></point>
+      <point x="443" y="47"></point>
+      <point x="443" y="106" type="curve" smooth="yes"></point>
+      <point x="443" y="163"></point>
+      <point x="409" y="223"></point>
+      <point x="331" y="223" type="curve" smooth="yes"></point>
+      <point x="252" y="223"></point>
+      <point x="216" y="163"></point>
+      <point x="216" y="106" type="curve" smooth="yes"></point>
+      <point x="216" y="47"></point>
+      <point x="253" y="-11"></point>
     </contour>
     <contour>
-      <point x="292" y="102.775" type="move" smooth="yes"></point>
+      <point x="324" y="102.775" type="move" smooth="yes"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
     <key>com.typemytype.robofont.layerData</key>

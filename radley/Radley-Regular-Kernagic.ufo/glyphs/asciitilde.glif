@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="asciitilde" format="1">
-  <advance width="1007"></advance>
+  <advance width="1160"></advance>
   <unicode hex="007E"></unicode>
   <outline>
     <contour>
-      <point x="832" y="846" type="curve"></point>
-      <point x="921" y="846" type="line"></point>
-      <point x="921" y="691"></point>
-      <point x="854" y="583"></point>
-      <point x="720" y="583" type="curve" smooth="yes"></point>
-      <point x="558" y="583"></point>
-      <point x="399" y="713"></point>
-      <point x="289" y="713" type="curve" smooth="yes"></point>
-      <point x="216" y="713"></point>
-      <point x="180" y="665"></point>
-      <point x="172" y="596" type="curve"></point>
-      <point x="81" y="596" type="line"></point>
-      <point x="93" y="731"></point>
-      <point x="145" y="851"></point>
-      <point x="298" y="851" type="curve" smooth="yes"></point>
-      <point x="440" y="851"></point>
-      <point x="613" y="718"></point>
-      <point x="717" y="718" type="curve" smooth="yes"></point>
-      <point x="799" y="718"></point>
-      <point x="829" y="770"></point>
+      <point x="912" y="846" type="curve"></point>
+      <point x="1001" y="846" type="line"></point>
+      <point x="1001" y="691"></point>
+      <point x="934" y="583"></point>
+      <point x="800" y="583" type="curve" smooth="yes"></point>
+      <point x="638" y="583"></point>
+      <point x="479" y="713"></point>
+      <point x="369" y="713" type="curve" smooth="yes"></point>
+      <point x="296" y="713"></point>
+      <point x="260" y="665"></point>
+      <point x="252" y="596" type="curve"></point>
+      <point x="161" y="596" type="line"></point>
+      <point x="173" y="731"></point>
+      <point x="225" y="851"></point>
+      <point x="378" y="851" type="curve" smooth="yes"></point>
+      <point x="520" y="851"></point>
+      <point x="693" y="718"></point>
+      <point x="797" y="718" type="curve" smooth="yes"></point>
+      <point x="879" y="718"></point>
+      <point x="909" y="770"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
       <key>com.fontlab.hintData</key>
       <dict>

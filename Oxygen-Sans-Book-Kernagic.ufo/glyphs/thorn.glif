@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="thorn" format="1">
-  <advance width="168"></advance>
+  <advance width="627"></advance>
   <unicode hex="00FE"></unicode>
   <outline>
     <component base="b"></component>
     <contour>
-      <point x="0" y="316" type="line"></point>
-      <point x="0" y="-464" type="line"></point>
-      <point x="168" y="-464" type="line"></point>
-      <point x="168" y="316" type="line"></point>
+      <point x="235" y="316" type="line"></point>
+      <point x="235" y="-464" type="line"></point>
+      <point x="403" y="-464" type="line"></point>
+      <point x="403" y="316" type="line"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
     <key>com.typemytype.robofont.layerData</key>

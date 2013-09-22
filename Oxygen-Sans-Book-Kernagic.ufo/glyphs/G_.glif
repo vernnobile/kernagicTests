@@ -1,50 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="G" format="1">
-  <advance width="1324"></advance>
+  <advance width="1390"></advance>
   <unicode hex="0047"></unicode>
   <outline>
     <contour>
-      <point x="753" y="-20" type="curve" smooth="yes"></point>
-      <point x="949" y="-20"></point>
-      <point x="1074" y="14"></point>
-      <point x="1221" y="72" type="curve"></point>
-      <point x="1221" y="764" type="line"></point>
-      <point x="770" y="764" type="line"></point>
-      <point x="763" y="621" type="line"></point>
-      <point x="1106" y="621" type="line"></point>
-      <point x="1058" y="676" type="line"></point>
-      <point x="1058" y="108" type="line"></point>
-      <point x="1118" y="183" type="line"></point>
-      <point x="1050" y="161"></point>
-      <point x="963" y="123"></point>
-      <point x="784" y="123" type="curve" smooth="yes"></point>
-      <point x="399" y="123"></point>
-      <point x="266" y="369"></point>
-      <point x="266" y="738" type="curve" smooth="yes"></point>
-      <point x="266" y="1091"></point>
-      <point x="443" y="1334"></point>
-      <point x="785" y="1334" type="curve" smooth="yes"></point>
-      <point x="975" y="1334"></point>
-      <point x="1056" y="1256"></point>
-      <point x="1120" y="1188" type="curve"></point>
-      <point x="1211" y="1294" type="line"></point>
-      <point x="1129" y="1400"></point>
-      <point x="993" y="1477"></point>
-      <point x="782" y="1477" type="curve" smooth="yes"></point>
-      <point x="343" y="1477"></point>
-      <point x="89" y="1176"></point>
-      <point x="89" y="737" type="curve" smooth="yes"></point>
-      <point x="89" y="303"></point>
-      <point x="304" y="-20"></point>
+      <point x="785" y="-20" type="curve" smooth="yes"></point>
+      <point x="981" y="-20"></point>
+      <point x="1106" y="14"></point>
+      <point x="1253" y="72" type="curve"></point>
+      <point x="1253" y="764" type="line"></point>
+      <point x="802" y="764" type="line"></point>
+      <point x="795" y="621" type="line"></point>
+      <point x="1138" y="621" type="line"></point>
+      <point x="1090" y="676" type="line"></point>
+      <point x="1090" y="108" type="line"></point>
+      <point x="1150" y="183" type="line"></point>
+      <point x="1082" y="161"></point>
+      <point x="995" y="123"></point>
+      <point x="816" y="123" type="curve" smooth="yes"></point>
+      <point x="431" y="123"></point>
+      <point x="298" y="369"></point>
+      <point x="298" y="738" type="curve" smooth="yes"></point>
+      <point x="298" y="1091"></point>
+      <point x="475" y="1334"></point>
+      <point x="817" y="1334" type="curve" smooth="yes"></point>
+      <point x="1007" y="1334"></point>
+      <point x="1088" y="1256"></point>
+      <point x="1152" y="1188" type="curve"></point>
+      <point x="1243" y="1294" type="line"></point>
+      <point x="1161" y="1400"></point>
+      <point x="1025" y="1477"></point>
+      <point x="814" y="1477" type="curve" smooth="yes"></point>
+      <point x="375" y="1477"></point>
+      <point x="121" y="1176"></point>
+      <point x="121" y="737" type="curve" smooth="yes"></point>
+      <point x="121" y="303"></point>
+      <point x="336" y="-20"></point>
     </contour>
     <contour>
-      <point x="792" y="0.5" type="move" smooth="yes"></point>
+      <point x="824" y="0.5" type="move" smooth="yes"></point>
     </contour>
     <contour>
-      <point x="797" y="1497" type="move" smooth="yes"></point>
+      <point x="829" y="1497" type="move" smooth="yes"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
     <key>com.typemytype.robofont.layerData</key>

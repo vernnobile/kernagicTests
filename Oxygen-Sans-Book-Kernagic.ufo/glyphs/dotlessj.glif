@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="dotlessj" format="1">
-  <advance width="378"></advance>
+  <advance width="852"></advance>
   <outline>
     <contour>
-      <point x="19" y="-378" type="line"></point>
-      <point x="78" y="-371" type="line" smooth="yes"></point>
-      <point x="298" y="-344"></point>
-      <point x="378" y="-269"></point>
-      <point x="378" y="-10" type="curve" smooth="yes"></point>
-      <point x="378" y="1094" type="line"></point>
-      <point x="214" y="1094" type="line"></point>
-      <point x="214" y="21" type="line" smooth="yes"></point>
-      <point x="214" y="-169"></point>
-      <point x="211" y="-205"></point>
-      <point x="62" y="-235" type="curve"></point>
-      <point x="0" y="-247" type="line"></point>
+      <point x="280" y="-378" type="line"></point>
+      <point x="339" y="-371" type="line" smooth="yes"></point>
+      <point x="559" y="-344"></point>
+      <point x="639" y="-269"></point>
+      <point x="639" y="-10" type="curve" smooth="yes"></point>
+      <point x="639" y="1094" type="line"></point>
+      <point x="475" y="1094" type="line"></point>
+      <point x="475" y="21" type="line" smooth="yes"></point>
+      <point x="475" y="-169"></point>
+      <point x="472" y="-205"></point>
+      <point x="323" y="-235" type="curve"></point>
+      <point x="261" y="-247" type="line"></point>
     </contour>
     <contour>
-      <point x="297" y="1093.9" type="move" smooth="yes"></point>
+      <point x="558" y="1093.9" type="move" smooth="yes"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
     <key>com.typemytype.robofont.layerData</key>

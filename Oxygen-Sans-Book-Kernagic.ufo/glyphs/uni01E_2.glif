@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="uni01E2" format="1">
-  <advance width="0"></advance>
+  <advance width="538"></advance>
   <unicode hex="01E2"></unicode>
   <outline>
     <component base="macron" xOffset="74" yOffset="-105"></component>
     <contour>
-      <point x="0" y="1005.05" type="move" smooth="yes"></point>
+      <point x="261" y="1005.05" type="move" smooth="yes"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
     <key>com.typemytype.robofont.layerData</key>
