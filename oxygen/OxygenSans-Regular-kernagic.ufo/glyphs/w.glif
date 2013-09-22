@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="w" format="1">
-  <advance width="1503"></advance>
+  <advance width="1435"></advance>
   <unicode hex="0077"></unicode>
   <outline>
     <contour>
-      <point x="334" y="0" type="line"></point>
-      <point x="481" y="0" type="line"></point>
-      <point x="782" y="989" type="line"></point>
-      <point x="750" y="989" type="line"></point>
-      <point x="1057" y="0" type="line"></point>
-      <point x="1204" y="0" type="line"></point>
-      <point x="1487" y="1082" type="line"></point>
-      <point x="1335" y="1082" type="line"></point>
-      <point x="1112" y="150" type="line"></point>
-      <point x="1146" y="150" type="line"></point>
-      <point x="850" y="1082" type="line"></point>
-      <point x="673" y="1082" type="line"></point>
-      <point x="397" y="149" type="line"></point>
-      <point x="433" y="149" type="line"></point>
-      <point x="189" y="1082" type="line"></point>
-      <point x="32" y="1082" type="line"></point>
+      <point x="280" y="0" type="line"></point>
+      <point x="427" y="0" type="line"></point>
+      <point x="728" y="989" type="line"></point>
+      <point x="696" y="989" type="line"></point>
+      <point x="1003" y="0" type="line"></point>
+      <point x="1150" y="0" type="line"></point>
+      <point x="1433" y="1082" type="line"></point>
+      <point x="1281" y="1082" type="line"></point>
+      <point x="1058" y="150" type="line"></point>
+      <point x="1092" y="150" type="line"></point>
+      <point x="796" y="1082" type="line"></point>
+      <point x="619" y="1082" type="line"></point>
+      <point x="343" y="149" type="line"></point>
+      <point x="379" y="149" type="line"></point>
+      <point x="135" y="1082" type="line"></point>
+      <point x="-21" y="1082" type="line"></point>
     </contour>
     <contour>
-      <point x="764" y="1082.4" type="move" name="top"></point>
+      <point x="710" y="1082.4" type="move" name="top"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
