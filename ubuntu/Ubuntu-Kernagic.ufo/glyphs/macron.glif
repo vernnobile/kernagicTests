@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="macron" format="1">
-  <advance width="398"></advance>
+  <advance width="414"></advance>
   <unicode hex="00AF"></unicode>
   <outline>
     <contour>
-      <point x="105" y="711" type="line"></point>
-      <point x="389" y="711" type="line"></point>
-      <point x="389" y="639" type="line"></point>
-      <point x="105" y="639" type="line"></point>
+      <point x="109" y="711" type="line"></point>
+      <point x="393" y="711" type="line"></point>
+      <point x="393" y="639" type="line"></point>
+      <point x="109" y="639" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

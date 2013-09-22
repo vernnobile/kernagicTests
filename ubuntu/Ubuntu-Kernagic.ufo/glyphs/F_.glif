@@ -3,16 +3,16 @@
   <unicode hex="0046"></unicode>
   <outline>
     <contour>
-      <point x="53" y="0" type="line"></point>
-      <point x="53" y="693" type="line"></point>
-      <point x="471" y="693" type="line"></point>
-      <point x="471" y="610" type="line"></point>
-      <point x="150" y="610" type="line"></point>
-      <point x="150" y="401" type="line"></point>
-      <point x="435" y="401" type="line"></point>
-      <point x="435" y="319" type="line"></point>
-      <point x="150" y="319" type="line"></point>
-      <point x="150" y="0" type="line"></point>
+      <point x="57" y="0" type="line"></point>
+      <point x="57" y="693" type="line"></point>
+      <point x="475" y="693" type="line"></point>
+      <point x="475" y="610" type="line"></point>
+      <point x="154" y="610" type="line"></point>
+      <point x="154" y="401" type="line"></point>
+      <point x="439" y="401" type="line"></point>
+      <point x="439" y="319" type="line"></point>
+      <point x="154" y="319" type="line"></point>
+      <point x="154" y="0" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

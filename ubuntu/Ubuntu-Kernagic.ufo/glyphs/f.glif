@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="f" format="1">
-  <advance width="360"></advance>
+  <advance width="374"></advance>
   <unicode hex="0066"></unicode>
   <outline>
     <contour>
-      <point x="56" y="567" type="line" smooth="yes"></point>
-      <point x="56" y="702.722"></point>
-      <point x="121" y="776"></point>
-      <point x="259" y="776" type="curve" smooth="yes"></point>
-      <point x="301" y="776"></point>
-      <point x="345" y="769.711"></point>
-      <point x="371" y="759" type="curve"></point>
-      <point x="354" y="679" type="line"></point>
-      <point x="332" y="689.577"></point>
-      <point x="301" y="696"></point>
-      <point x="266" y="696" type="curve" smooth="yes"></point>
-      <point x="181" y="696"></point>
-      <point x="149" y="647.483"></point>
-      <point x="149" y="565" type="curve" smooth="yes"></point>
-      <point x="149" y="520" type="line"></point>
-      <point x="349" y="520" type="line"></point>
-      <point x="349" y="442" type="line"></point>
-      <point x="149" y="442" type="line"></point>
-      <point x="149" y="0" type="line"></point>
-      <point x="56" y="0" type="line"></point>
+      <point x="60" y="567" type="line" smooth="yes"></point>
+      <point x="60" y="702.722"></point>
+      <point x="125" y="776"></point>
+      <point x="263" y="776" type="curve" smooth="yes"></point>
+      <point x="305" y="776"></point>
+      <point x="349" y="769.711"></point>
+      <point x="375" y="759" type="curve"></point>
+      <point x="358" y="679" type="line"></point>
+      <point x="336" y="689.577"></point>
+      <point x="305" y="696"></point>
+      <point x="270" y="696" type="curve" smooth="yes"></point>
+      <point x="185" y="696"></point>
+      <point x="153" y="647.483"></point>
+      <point x="153" y="565" type="curve" smooth="yes"></point>
+      <point x="153" y="520" type="line"></point>
+      <point x="353" y="520" type="line"></point>
+      <point x="353" y="442" type="line"></point>
+      <point x="153" y="442" type="line"></point>
+      <point x="153" y="0" type="line"></point>
+      <point x="60" y="0" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>204</integer></dict>
