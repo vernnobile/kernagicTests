@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="acute" format="1">
-  <advance width="306"></advance>
+  <advance width="639"></advance>
   <unicode hex="00B4"></unicode>
   <outline>
     <contour>
-      <point x="99" y="1171" type="line"></point>
-      <point x="306" y="1171" type="line"></point>
-      <point x="119" y="914" type="line"></point>
-      <point x="0" y="914" type="line"></point>
+      <point x="320" y="1171" type="line"></point>
+      <point x="527" y="1171" type="line"></point>
+      <point x="340" y="914" type="line"></point>
+      <point x="221" y="914" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

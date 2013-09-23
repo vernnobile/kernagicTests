@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="quotedbl" format="1">
-  <advance width="739"></advance>
+  <advance width="786"></advance>
   <unicode hex="0022"></unicode>
   <outline>
     <contour>
-      <point x="440" y="1171" type="line"></point>
-      <point x="636" y="1171" type="line"></point>
-      <point x="594" y="716" type="line"></point>
-      <point x="484" y="716" type="line"></point>
+      <point x="445" y="1171" type="line"></point>
+      <point x="641" y="1171" type="line"></point>
+      <point x="599" y="716" type="line"></point>
+      <point x="489" y="716" type="line"></point>
     </contour>
     <contour>
-      <point x="116" y="1171" type="line"></point>
-      <point x="314" y="1171" type="line"></point>
-      <point x="272" y="716" type="line"></point>
-      <point x="162" y="716" type="line"></point>
+      <point x="121" y="1171" type="line"></point>
+      <point x="319" y="1171" type="line"></point>
+      <point x="277" y="716" type="line"></point>
+      <point x="167" y="716" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

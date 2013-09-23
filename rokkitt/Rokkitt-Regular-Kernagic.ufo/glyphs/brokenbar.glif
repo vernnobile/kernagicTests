@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="brokenbar" format="1">
-  <advance width="122"></advance>
+  <advance width="540"></advance>
   <unicode hex="00A6"></unicode>
   <outline>
     <contour>
-      <point x="0" y="1153" type="line"></point>
-      <point x="122" y="1153" type="line"></point>
-      <point x="122" y="689" type="line"></point>
-      <point x="0" y="689" type="line"></point>
+      <point x="202" y="1153" type="line"></point>
+      <point x="324" y="1153" type="line"></point>
+      <point x="324" y="689" type="line"></point>
+      <point x="202" y="689" type="line"></point>
     </contour>
     <contour>
-      <point x="0" y="446" type="line"></point>
-      <point x="122" y="446" type="line"></point>
-      <point x="122" y="-18" type="line"></point>
-      <point x="0" y="-18" type="line"></point>
+      <point x="202" y="446" type="line"></point>
+      <point x="324" y="446" type="line"></point>
+      <point x="324" y="-18" type="line"></point>
+      <point x="202" y="-18" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="logicalnot" format="1">
-  <advance width="937"></advance>
+  <advance width="1180"></advance>
   <unicode hex="00AC"></unicode>
   <outline>
     <contour>
-      <point x="0" y="842" type="line"></point>
-      <point x="937" y="842" type="line"></point>
-      <point x="937" y="304" type="line"></point>
-      <point x="820" y="304" type="line"></point>
-      <point x="820" y="724" type="line"></point>
-      <point x="0" y="724" type="line"></point>
+      <point x="79" y="842" type="line"></point>
+      <point x="1016" y="842" type="line"></point>
+      <point x="1016" y="304" type="line"></point>
+      <point x="899" y="304" type="line"></point>
+      <point x="899" y="724" type="line"></point>
+      <point x="79" y="724" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

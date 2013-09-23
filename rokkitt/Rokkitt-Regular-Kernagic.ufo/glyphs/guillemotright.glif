@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="guillemotright" format="1">
-  <advance width="787"></advance>
+  <advance width="885"></advance>
   <unicode hex="00BB"></unicode>
   <outline>
     <contour>
-      <point x="371" y="942" type="line"></point>
-      <point x="473" y="942" type="line"></point>
-      <point x="787" y="586" type="line"></point>
-      <point x="787" y="520" type="line"></point>
-      <point x="473" y="164" type="line"></point>
-      <point x="371" y="164" type="line"></point>
-      <point x="578" y="553" type="line"></point>
+      <point x="421" y="942" type="line"></point>
+      <point x="523" y="942" type="line"></point>
+      <point x="837" y="586" type="line"></point>
+      <point x="837" y="520" type="line"></point>
+      <point x="523" y="164" type="line"></point>
+      <point x="421" y="164" type="line"></point>
+      <point x="628" y="553" type="line"></point>
     </contour>
     <contour>
-      <point x="0" y="942" type="line"></point>
-      <point x="103" y="942" type="line"></point>
-      <point x="416" y="586" type="line"></point>
-      <point x="416" y="520" type="line"></point>
-      <point x="103" y="164" type="line"></point>
-      <point x="0" y="164" type="line"></point>
-      <point x="207" y="553" type="line"></point>
+      <point x="50" y="942" type="line"></point>
+      <point x="153" y="942" type="line"></point>
+      <point x="466" y="586" type="line"></point>
+      <point x="466" y="520" type="line"></point>
+      <point x="153" y="164" type="line"></point>
+      <point x="50" y="164" type="line"></point>
+      <point x="257" y="553" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>
