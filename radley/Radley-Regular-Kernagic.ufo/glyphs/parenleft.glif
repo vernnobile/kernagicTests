@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="parenleft" format="1">
-  <advance width="857"></advance>
+  <advance width="762"></advance>
   <unicode hex="0028"></unicode>
   <outline>
     <contour>
-      <point x="712" y="-208" type="curve"></point>
-      <point x="659" y="-268" type="line"></point>
-      <point x="332" y="-119"></point>
-      <point x="193" y="229"></point>
-      <point x="193" y="571" type="curve" smooth="yes"></point>
-      <point x="193" y="913"></point>
-      <point x="331" y="1261"></point>
-      <point x="659" y="1409" type="curve"></point>
-      <point x="712" y="1350" type="line"></point>
-      <point x="435" y="1187"></point>
-      <point x="325" y="878"></point>
-      <point x="325" y="571" type="curve" smooth="yes"></point>
-      <point x="325" y="262"></point>
-      <point x="435" y="-41"></point>
+      <point x="686" y="-208" type="curve"></point>
+      <point x="633" y="-268" type="line"></point>
+      <point x="306" y="-119"></point>
+      <point x="167" y="229"></point>
+      <point x="167" y="571" type="curve" smooth="yes"></point>
+      <point x="167" y="913"></point>
+      <point x="305" y="1261"></point>
+      <point x="633" y="1409" type="curve"></point>
+      <point x="686" y="1350" type="line"></point>
+      <point x="409" y="1187"></point>
+      <point x="299" y="878"></point>
+      <point x="299" y="571" type="curve" smooth="yes"></point>
+      <point x="299" y="262"></point>
+      <point x="409" y="-41"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
       <key>com.fontlab.hintData</key>

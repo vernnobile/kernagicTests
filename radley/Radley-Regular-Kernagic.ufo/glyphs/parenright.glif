@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="parenright" format="1">
-  <advance width="1008"></advance>
+  <advance width="952"></advance>
   <unicode hex="0029"></unicode>
   <outline>
     <contour>
-      <point x="282" y="1350" type="curve"></point>
-      <point x="292" y="1376"></point>
-      <point x="314" y="1393"></point>
-      <point x="335" y="1409" type="curve"></point>
-      <point x="662" y="1261"></point>
-      <point x="801" y="913"></point>
-      <point x="801" y="571" type="curve" smooth="yes"></point>
-      <point x="801" y="229"></point>
-      <point x="662" y="-119"></point>
-      <point x="335" y="-268" type="curve"></point>
-      <point x="314" y="-252"></point>
-      <point x="292" y="-234"></point>
-      <point x="282" y="-208" type="curve"></point>
-      <point x="556" y="-35"></point>
-      <point x="669" y="258"></point>
-      <point x="669" y="571" type="curve" smooth="yes"></point>
-      <point x="669" y="881"></point>
-      <point x="557" y="1180"></point>
+      <point x="257" y="1350" type="curve"></point>
+      <point x="267" y="1376"></point>
+      <point x="289" y="1393"></point>
+      <point x="310" y="1409" type="curve"></point>
+      <point x="637" y="1261"></point>
+      <point x="776" y="913"></point>
+      <point x="776" y="571" type="curve" smooth="yes"></point>
+      <point x="776" y="229"></point>
+      <point x="637" y="-119"></point>
+      <point x="310" y="-268" type="curve"></point>
+      <point x="289" y="-252"></point>
+      <point x="267" y="-234"></point>
+      <point x="257" y="-208" type="curve"></point>
+      <point x="531" y="-35"></point>
+      <point x="644" y="258"></point>
+      <point x="644" y="571" type="curve" smooth="yes"></point>
+      <point x="644" y="881"></point>
+      <point x="532" y="1180"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
       <key>com.fontlab.hintData</key>

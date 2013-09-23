@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="uni0450" format="1">
-  <advance width="398"></advance>
+  <advance width="479"></advance>
   <unicode hex="0450"></unicode>
   <outline>
     <component base="grave" xOffset="210"></component>
     <contour>
-      <point x="213" y="1006.75" type="move" name="_top"></point>
+      <point x="230" y="1006.75" type="move" name="_top"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

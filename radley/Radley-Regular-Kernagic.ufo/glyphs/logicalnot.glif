@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="logicalnot" format="1">
-  <advance width="1361"></advance>
+  <advance width="1333"></advance>
   <unicode hex="00AC"></unicode>
   <outline>
     <contour>
-      <point x="140" y="893" type="curve"></point>
-      <point x="313" y="893" type="line" smooth="yes"></point>
-      <point x="558" y="893"></point>
-      <point x="803" y="894"></point>
-      <point x="1047" y="895" type="curve" smooth="yes"></point>
-      <point x="1092" y="895"></point>
-      <point x="1137" y="891"></point>
-      <point x="1182" y="885" type="curve"></point>
-      <point x="1195" y="799"></point>
-      <point x="1197" y="709"></point>
-      <point x="1197" y="620" type="curve" smooth="yes"></point>
-      <point x="1197" y="403" type="line" smooth="yes"></point>
-      <point x="1197" y="363"></point>
-      <point x="1196" y="316"></point>
-      <point x="1166" y="286" type="curve"></point>
-      <point x="1120" y="286"></point>
-      <point x="1085" y="306"></point>
-      <point x="1042" y="314" type="curve"></point>
-      <point x="1042" y="742" type="line"></point>
-      <point x="229" y="742" type="line" smooth="yes"></point>
-      <point x="188" y="742"></point>
-      <point x="140" y="743"></point>
-      <point x="108" y="773" type="curve"></point>
-      <point x="108" y="819"></point>
-      <point x="128" y="851"></point>
+      <point x="114" y="893" type="curve"></point>
+      <point x="287" y="893" type="line" smooth="yes"></point>
+      <point x="532" y="893"></point>
+      <point x="777" y="894"></point>
+      <point x="1021" y="895" type="curve" smooth="yes"></point>
+      <point x="1066" y="895"></point>
+      <point x="1111" y="891"></point>
+      <point x="1156" y="885" type="curve"></point>
+      <point x="1169" y="799"></point>
+      <point x="1171" y="709"></point>
+      <point x="1171" y="620" type="curve" smooth="yes"></point>
+      <point x="1171" y="403" type="line" smooth="yes"></point>
+      <point x="1171" y="363"></point>
+      <point x="1170" y="316"></point>
+      <point x="1140" y="286" type="curve"></point>
+      <point x="1094" y="286"></point>
+      <point x="1059" y="306"></point>
+      <point x="1016" y="314" type="curve"></point>
+      <point x="1016" y="742" type="line"></point>
+      <point x="203" y="742" type="line" smooth="yes"></point>
+      <point x="162" y="742"></point>
+      <point x="114" y="743"></point>
+      <point x="82" y="773" type="curve"></point>
+      <point x="82" y="819"></point>
+      <point x="102" y="851"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
       <key>com.fontlab.hintData</key>

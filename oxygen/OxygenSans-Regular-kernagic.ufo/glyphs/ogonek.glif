@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="ogonek" format="1">
-  <advance width="717"></advance>
+  <advance width="671"></advance>
   <unicode hex="02DB"></unicode>
   <outline>
     <contour>
-      <point x="546" y="-380" type="curve"></point>
-      <point x="544" y="-277" type="line"></point>
-      <point x="525" y="-285"></point>
-      <point x="478" y="-301"></point>
-      <point x="436" y="-301" type="curve" smooth="yes"></point>
-      <point x="391" y="-301"></point>
-      <point x="353" y="-278"></point>
-      <point x="353" y="-220" type="curve" smooth="yes"></point>
-      <point x="353" y="-142"></point>
-      <point x="440" y="-29"></point>
-      <point x="499" y="14" type="curve"></point>
-      <point x="419" y="14" type="line"></point>
-      <point x="315" y="-28"></point>
-      <point x="213" y="-146"></point>
-      <point x="213" y="-260" type="curve" smooth="yes"></point>
-      <point x="213" y="-351"></point>
-      <point x="277" y="-410"></point>
-      <point x="402" y="-410" type="curve" smooth="yes"></point>
-      <point x="451" y="-410"></point>
-      <point x="514" y="-396"></point>
+      <point x="563" y="-380" type="curve"></point>
+      <point x="561" y="-277" type="line"></point>
+      <point x="542" y="-285"></point>
+      <point x="495" y="-301"></point>
+      <point x="453" y="-301" type="curve" smooth="yes"></point>
+      <point x="408" y="-301"></point>
+      <point x="370" y="-278"></point>
+      <point x="370" y="-220" type="curve" smooth="yes"></point>
+      <point x="370" y="-142"></point>
+      <point x="457" y="-29"></point>
+      <point x="516" y="14" type="curve"></point>
+      <point x="436" y="14" type="line"></point>
+      <point x="332" y="-28"></point>
+      <point x="230" y="-146"></point>
+      <point x="230" y="-260" type="curve" smooth="yes"></point>
+      <point x="230" y="-351"></point>
+      <point x="294" y="-410"></point>
+      <point x="419" y="-410" type="curve" smooth="yes"></point>
+      <point x="468" y="-410"></point>
+      <point x="531" y="-396"></point>
     </contour>
     <contour>
-      <point x="454" y="10.25" type="move" name="_ogonek"></point>
+      <point x="471" y="10.25" type="move" name="_ogonek"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
