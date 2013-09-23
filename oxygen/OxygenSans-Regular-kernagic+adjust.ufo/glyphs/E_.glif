@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="1157"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="128" y="0" type="line"/>
+      <point x="1082" y="0" type="line"/>
+      <point x="1094" y="137" type="line"/>
+      <point x="245" y="137" type="line"/>
+      <point x="304" y="67" type="line"/>
+      <point x="304" y="741" type="line"/>
+      <point x="245" y="686" type="line"/>
+      <point x="1011" y="686" type="line"/>
+      <point x="1011" y="822" type="line"/>
+      <point x="245" y="822" type="line"/>
+      <point x="304" y="775" type="line"/>
+      <point x="304" y="1374" type="line"/>
+      <point x="245" y="1321" type="line"/>
+      <point x="1073" y="1321" type="line"/>
+      <point x="1079" y="1456" type="line"/>
+      <point x="128" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="805" y="0.0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="595" y="0.0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="573" y="1496.5" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1157</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

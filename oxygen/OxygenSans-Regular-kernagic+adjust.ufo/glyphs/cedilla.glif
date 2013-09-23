@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="671"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="230" y="-430" type="line"/>
+      <point x="394" y="-456" type="line"/>
+      <point x="462" y="22" type="line"/>
+      <point x="396" y="22" type="line"/>
+    </contour>
+    <contour>
+      <point x="425" y="11.4" type="move" name="_bot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>cedilla</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>671</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

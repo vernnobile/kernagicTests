@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="1">
+  <advance width="959"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="348" y="148" type="line"/>
+      <point x="505" y="148" type="line"/>
+      <point x="229" y="552" type="line"/>
+      <point x="513" y="953" type="line"/>
+      <point x="352" y="953" type="line"/>
+      <point x="64" y="549" type="line"/>
+    </contour>
+    <contour>
+      <point x="701" y="148" type="line"/>
+      <point x="858" y="148" type="line"/>
+      <point x="581" y="552" type="line"/>
+      <point x="865" y="953" type="line"/>
+      <point x="704" y="953" type="line"/>
+      <point x="417" y="549" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>guillemotleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>959</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="1055"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="481" y="-162" type="line"/>
+      <point x="157" y="745" type="line"/>
+      <point x="9" y="714" type="line"/>
+      <point x="-5" y="835" type="line"/>
+      <point x="247" y="892" type="line"/>
+      <point x="481" y="234" type="line"/>
+      <point x="539" y="48" type="line"/>
+      <point x="671" y="606"/>
+      <point x="802" y="1160"/>
+      <point x="935" y="1718" type="curve"/>
+      <point x="1045" y="1718" type="line"/>
+      <point x="616" y="-162" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>radical</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1055</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

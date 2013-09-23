@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="1439"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="964" y="297" type="line"/>
+      <point x="1202" y="690" type="line"/>
+      <point x="1202" y="297" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="0" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="1255" y="1517" type="line"/>
+      <point x="1124" y="1517" type="line"/>
+    </contour>
+    <contour>
+      <point x="1203" y="0" type="line"/>
+      <point x="1330" y="0" type="line"/>
+      <point x="1330" y="191" type="line"/>
+      <point x="1452" y="191" type="line"/>
+      <point x="1444" y="297" type="line"/>
+      <point x="1331" y="297" type="line"/>
+      <point x="1331" y="857" type="line"/>
+      <point x="1193" y="857" type="line"/>
+      <point x="825" y="284" type="line"/>
+      <point x="825" y="191" type="line"/>
+      <point x="1203" y="191" type="line"/>
+    </contour>
+    <contour>
+      <point x="-27" y="613" type="line"/>
+      <point x="402" y="613" type="line"/>
+      <point x="402" y="725" type="line"/>
+      <point x="263" y="725" type="line"/>
+      <point x="263" y="1496" type="line"/>
+      <point x="153" y="1496" type="line"/>
+      <point x="111" y="1457"/>
+      <point x="-1" y="1406"/>
+      <point x="-37" y="1393" type="curve"/>
+      <point x="-37" y="1279" type="line"/>
+      <point x="-3" y="1292"/>
+      <point x="88" y="1329"/>
+      <point x="125" y="1353" type="curve"/>
+      <point x="125" y="725" type="line"/>
+      <point x="-27" y="725" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>onequarter</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1439</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

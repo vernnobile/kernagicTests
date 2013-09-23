@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut.cap" format="1">
+  <advance width="863"/>
+  <outline>
+    <contour>
+      <point x="416" y="1058" type="line"/>
+      <point x="532" y="1058" type="line"/>
+      <point x="822" y="1388" type="line"/>
+      <point x="657" y="1388" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="1058" type="line"/>
+      <point x="274" y="1058" type="line"/>
+      <point x="546" y="1388" type="line"/>
+      <point x="390" y="1388" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="951.4" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hungarumlaut.cap</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>863</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
