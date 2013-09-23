@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="dotlessi" format="1">
-  <advance width="575"></advance>
+  <advance width="586"></advance>
   <unicode hex="0131"></unicode>
   <outline>
     <contour>
-      <point x="204" y="0" type="line"></point>
-      <point x="368" y="0" type="line"></point>
-      <point x="368" y="1084" type="line"></point>
-      <point x="204" y="1084" type="line"></point>
+      <point x="214" y="0" type="line"></point>
+      <point x="378" y="0" type="line"></point>
+      <point x="378" y="1084" type="line"></point>
+      <point x="214" y="1084" type="line"></point>
     </contour>
     <contour>
-      <point x="285" y="1084.45" type="move" name="top"></point>
+      <point x="295" y="1084.45" type="move" name="top"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

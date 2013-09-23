@@ -12,15 +12,15 @@
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
-	<integer>1</integer>
-	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/vern/gitHub/oxygenFont/Regular-400/src/OxygenSans-Regular.otf</string>
+	<string>/Users/vern/gitHub/kernagicTests/oxygen/OxygenSans-Regular-kernagic.ttf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>

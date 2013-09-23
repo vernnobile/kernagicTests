@@ -3,38 +3,40 @@
   <unicode hex="044B"></unicode>
   <outline>
     <contour>
-      <point x="1146" y="0" type="line"></point>
-      <point x="1146" y="1084" type="line"></point>
-      <point x="1268" y="1084" type="line"></point>
-      <point x="1268" y="0" type="line"></point>
+      <point x="1156" y="0" type="line"></point>
+      <point x="1156" y="1084" type="line"></point>
+      <point x="1278" y="1084" type="line"></point>
+      <point x="1278" y="0" type="line"></point>
     </contour>
     <contour>
-      <point x="268" y="87" type="line"></point>
-      <point x="528" y="87" type="line" smooth="yes"></point>
-      <point x="684" y="87"></point>
-      <point x="773" y="170"></point>
-      <point x="773" y="356" type="curve" smooth="yes"></point>
-      <point x="773" y="516"></point>
-      <point x="682" y="590"></point>
-      <point x="531" y="590" type="curve" smooth="yes"></point>
-      <point x="268" y="590" type="line"></point>
+      <point x="278" y="87" type="line"></point>
+      <point x="538" y="87" type="line" smooth="yes"></point>
+      <point x="694" y="87"></point>
+      <point x="783" y="170"></point>
+      <point x="783" y="356" type="curve" smooth="yes"></point>
+      <point x="783" y="516"></point>
+      <point x="692" y="590"></point>
+      <point x="541" y="590" type="curve" smooth="yes"></point>
+      <point x="278" y="590" type="line"></point>
     </contour>
     <contour>
-      <point x="147" y="0" type="line"></point>
-      <point x="147" y="1084" type="line"></point>
-      <point x="269" y="1084" type="line"></point>
-      <point x="269" y="685" type="line"></point>
-      <point x="522" y="685" type="line" smooth="yes"></point>
-      <point x="825" y="685"></point>
-      <point x="889" y="499"></point>
-      <point x="889" y="354" type="curve" smooth="yes"></point>
-      <point x="889" y="197"></point>
-      <point x="824" y="0"></point>
-      <point x="524" y="0" type="curve" smooth="yes"></point>
+      <point x="157" y="0" type="line"></point>
+      <point x="157" y="1084" type="line"></point>
+      <point x="279" y="1084" type="line"></point>
+      <point x="279" y="685" type="line"></point>
+      <point x="532" y="685" type="line" smooth="yes"></point>
+      <point x="835" y="685"></point>
+      <point x="899" y="499"></point>
+      <point x="899" y="354" type="curve" smooth="yes"></point>
+      <point x="899" y="197"></point>
+      <point x="834" y="0"></point>
+      <point x="534" y="0" type="curve" smooth="yes"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

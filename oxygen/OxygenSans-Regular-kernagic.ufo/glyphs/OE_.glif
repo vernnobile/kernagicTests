@@ -1,33 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="OE" format="1">
-  <advance width="1151"></advance>
+  <advance width="1173"></advance>
   <unicode hex="0152"></unicode>
   <outline>
     <contour>
-      <point x="986" y="1496" type="line"></point>
-      <point x="855" y="1496" type="line" smooth="yes"></point>
-      <point x="393" y="1496"></point>
-      <point x="102" y="1231"></point>
-      <point x="102" y="744" type="curve" smooth="yes"></point>
-      <point x="102" y="232"></point>
-      <point x="421" y="0"></point>
-      <point x="884" y="0" type="curve" smooth="yes"></point>
-      <point x="986" y="0" type="line"></point>
+      <point x="996" y="1496" type="line"></point>
+      <point x="865" y="1496" type="line" smooth="yes"></point>
+      <point x="403" y="1496"></point>
+      <point x="112" y="1231"></point>
+      <point x="112" y="744" type="curve" smooth="yes"></point>
+      <point x="112" y="232"></point>
+      <point x="431" y="0"></point>
+      <point x="894" y="0" type="curve" smooth="yes"></point>
+      <point x="996" y="0" type="line"></point>
     </contour>
     <contour>
-      <point x="912" y="135" type="line"></point>
-      <point x="892" y="135" type="line" smooth="yes"></point>
-      <point x="503" y="135"></point>
-      <point x="278" y="315"></point>
-      <point x="278" y="749" type="curve" smooth="yes"></point>
-      <point x="278" y="1146"></point>
-      <point x="474" y="1359"></point>
-      <point x="865" y="1359" type="curve" smooth="yes"></point>
-      <point x="912" y="1359" type="line"></point>
+      <point x="922" y="135" type="line"></point>
+      <point x="902" y="135" type="line" smooth="yes"></point>
+      <point x="513" y="135"></point>
+      <point x="288" y="315"></point>
+      <point x="288" y="749" type="curve" smooth="yes"></point>
+      <point x="288" y="1146"></point>
+      <point x="484" y="1359"></point>
+      <point x="875" y="1359" type="curve" smooth="yes"></point>
+      <point x="922" y="1359" type="line"></point>
     </contour>
     <component base="E" xOffset="748"></component>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

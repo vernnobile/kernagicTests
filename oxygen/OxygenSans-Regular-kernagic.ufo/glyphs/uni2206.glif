@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="uni2206" format="1">
-  <advance width="1151"></advance>
+  <advance width="1173"></advance>
   <unicode hex="2206"></unicode>
   <outline>
     <contour>
-      <point x="202" y="173" type="line"></point>
-      <point x="959" y="173" type="line"></point>
-      <point x="610" y="1192" type="line"></point>
-      <point x="576" y="1310" type="line"></point>
-      <point x="544" y="1192" type="line"></point>
+      <point x="212" y="173" type="line"></point>
+      <point x="969" y="173" type="line"></point>
+      <point x="620" y="1192" type="line"></point>
+      <point x="586" y="1310" type="line"></point>
+      <point x="554" y="1192" type="line"></point>
     </contour>
     <contour>
-      <point x="7" y="0" type="line"></point>
-      <point x="7" y="85" type="line"></point>
-      <point x="488" y="1537" type="line"></point>
-      <point x="674" y="1537" type="line"></point>
-      <point x="1155" y="85" type="line"></point>
-      <point x="1155" y="0" type="line"></point>
+      <point x="17" y="0" type="line"></point>
+      <point x="17" y="85" type="line"></point>
+      <point x="498" y="1537" type="line"></point>
+      <point x="684" y="1537" type="line"></point>
+      <point x="1165" y="85" type="line"></point>
+      <point x="1165" y="0" type="line"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
