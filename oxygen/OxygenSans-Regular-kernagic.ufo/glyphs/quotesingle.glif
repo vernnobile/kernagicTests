@@ -1,17 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotesingle" format="1">
-  <advance width="586"/>
-  <unicode hex="0027"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="quotesingle" format="1">
+  <advance width="515"></advance>
+  <unicode hex="0027"></unicode>
   <outline>
     <contour>
-      <point x="231" y="953" type="line"/>
-      <point x="322" y="953" type="line"/>
-      <point x="360" y="1473" type="line"/>
-      <point x="195" y="1473" type="line"/>
+      <point x="218" y="953" type="line"></point>
+      <point x="309" y="953" type="line"></point>
+      <point x="347" y="1473" type="line"></point>
+      <point x="182" y="1473" type="line"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -37,13 +42,7 @@
           <integer>586</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
-      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>
