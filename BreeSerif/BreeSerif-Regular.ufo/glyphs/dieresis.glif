@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="500"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="283" y="647" type="curve" smooth="yes"/>
+      <point x="283" y="609"/>
+      <point x="310" y="581"/>
+      <point x="352" y="581" type="curve" smooth="yes"/>
+      <point x="392" y="581"/>
+      <point x="421" y="609"/>
+      <point x="421" y="647" type="curve" smooth="yes"/>
+      <point x="421" y="684"/>
+      <point x="393" y="714"/>
+      <point x="352" y="714" type="curve" smooth="yes"/>
+      <point x="311" y="714"/>
+      <point x="283" y="684"/>
+    </contour>
+    <contour>
+      <point x="83" y="647" type="curve" smooth="yes"/>
+      <point x="83" y="609"/>
+      <point x="110" y="581"/>
+      <point x="152" y="581" type="curve" smooth="yes"/>
+      <point x="192" y="581"/>
+      <point x="221" y="609"/>
+      <point x="221" y="647" type="curve" smooth="yes"/>
+      <point x="221" y="684"/>
+      <point x="193" y="714"/>
+      <point x="152" y="714" type="curve" smooth="yes"/>
+      <point x="111" y="714"/>
+      <point x="83" y="684"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

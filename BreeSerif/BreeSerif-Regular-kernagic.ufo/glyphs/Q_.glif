@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Q" format="1">
+  <advance width="667"></advance>
+  <unicode hex="0051"></unicode>
+  <outline>
+    <contour>
+      <point x="617" y="331" type="curve" smooth="yes"></point>
+      <point x="617" y="585"></point>
+      <point x="483" y="677"></point>
+      <point x="334" y="677" type="curve" smooth="yes"></point>
+      <point x="194" y="677"></point>
+      <point x="33" y="587"></point>
+      <point x="33" y="331" type="curve" smooth="yes"></point>
+      <point x="33" y="127"></point>
+      <point x="117" y="19"></point>
+      <point x="271" y="-1" type="curve"></point>
+      <point x="257" y="-73" type="line"></point>
+      <point x="285" y="-67"></point>
+      <point x="311" y="-66"></point>
+      <point x="334" y="-68" type="curve" smooth="yes"></point>
+      <point x="448" y="-76"></point>
+      <point x="542" y="-180"></point>
+      <point x="688" y="-165" type="curve"></point>
+      <point x="700" y="-69" type="line"></point>
+      <point x="565" y="-85"></point>
+      <point x="537" y="-1"></point>
+      <point x="405" y="6" type="curve"></point>
+      <point x="405" y="9" type="line"></point>
+      <point x="543" y="45"></point>
+      <point x="617" y="159"></point>
+    </contour>
+    <contour>
+      <point x="158" y="336" type="curve" smooth="yes"></point>
+      <point x="158" y="455"></point>
+      <point x="200" y="574"></point>
+      <point x="328" y="574" type="curve" smooth="yes"></point>
+      <point x="466" y="574"></point>
+      <point x="493" y="430"></point>
+      <point x="493" y="328" type="curve" smooth="yes"></point>
+      <point x="493" y="208"></point>
+      <point x="457" y="88"></point>
+      <point x="330" y="88" type="curve" smooth="yes"></point>
+      <point x="186" y="88"></point>
+      <point x="158" y="222"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

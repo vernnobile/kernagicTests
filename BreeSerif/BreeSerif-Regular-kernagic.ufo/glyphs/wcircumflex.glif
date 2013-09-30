@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="wcircumflex" format="1">
+  <advance width="-11214"></advance>
+  <unicode hex="0175"></unicode>
+  <outline>
+    <component base="w"></component>
+    <component base="circumflex" xOffset="163"></component>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Oslashacute" format="1">
+  <advance width="655"></advance>
+  <unicode hex="01FE"></unicode>
+  <outline>
+    <contour>
+      <point x="617" y="331" type="curve" smooth="yes"></point>
+      <point x="617" y="585"></point>
+      <point x="483" y="677"></point>
+      <point x="334" y="677" type="curve" smooth="yes"></point>
+      <point x="194" y="677"></point>
+      <point x="33" y="587"></point>
+      <point x="33" y="331" type="curve" smooth="yes"></point>
+      <point x="33" y="103"></point>
+      <point x="145" y="-13"></point>
+      <point x="323" y="-13" type="curve" smooth="yes"></point>
+      <point x="498" y="-13"></point>
+      <point x="617" y="102"></point>
+    </contour>
+    <contour>
+      <point x="158" y="336" type="curve" smooth="yes"></point>
+      <point x="158" y="455"></point>
+      <point x="200" y="574"></point>
+      <point x="328" y="574" type="curve" smooth="yes"></point>
+      <point x="466" y="574"></point>
+      <point x="493" y="430"></point>
+      <point x="493" y="328" type="curve" smooth="yes"></point>
+      <point x="493" y="208"></point>
+      <point x="457" y="88"></point>
+      <point x="330" y="88" type="curve" smooth="yes"></point>
+      <point x="186" y="88"></point>
+      <point x="158" y="222"></point>
+    </contour>
+    <contour>
+      <point x="222" y="-110" type="line"></point>
+      <point x="530" y="718" type="line"></point>
+      <point x="426" y="755" type="line"></point>
+      <point x="120" y="-72" type="line"></point>
+    </contour>
+    <contour>
+      <point x="230" y="750" type="line"></point>
+      <point x="260" y="709" type="line"></point>
+      <point x="415" y="796" type="line" smooth="yes"></point>
+      <point x="451" y="816"></point>
+      <point x="464" y="847"></point>
+      <point x="432" y="874" type="curve" smooth="yes"></point>
+      <point x="392" y="907" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

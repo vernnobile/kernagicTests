@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="n" format="1">
+  <advance width="579"></advance>
+  <unicode hex="006E"></unicode>
+  <outline>
+    <contour>
+      <point x="15" y="423" type="line"></point>
+      <point x="57" y="420" type="line" smooth="yes"></point>
+      <point x="75" y="419"></point>
+      <point x="82" y="411"></point>
+      <point x="82" y="389" type="curve" smooth="yes"></point>
+      <point x="82" y="112" type="line" smooth="yes"></point>
+      <point x="82" y="87"></point>
+      <point x="72" y="81"></point>
+      <point x="53" y="79" type="curve" smooth="yes"></point>
+      <point x="20" y="76" type="line"></point>
+      <point x="20" y="0" type="line"></point>
+      <point x="258" y="0" type="line"></point>
+      <point x="258" y="80" type="line"></point>
+      <point x="201" y="83" type="line"></point>
+      <point x="201" y="325" type="line" smooth="yes"></point>
+      <point x="201" y="377"></point>
+      <point x="238" y="426"></point>
+      <point x="304" y="426" type="curve" smooth="yes"></point>
+      <point x="372" y="426"></point>
+      <point x="386" y="384"></point>
+      <point x="386" y="318" type="curve" smooth="yes"></point>
+      <point x="386" y="112" type="line" smooth="yes"></point>
+      <point x="386" y="87"></point>
+      <point x="376" y="81"></point>
+      <point x="357" y="79" type="curve" smooth="yes"></point>
+      <point x="324" y="76" type="line"></point>
+      <point x="324" y="0" type="line"></point>
+      <point x="562" y="0" type="line"></point>
+      <point x="562" y="80" type="line"></point>
+      <point x="505" y="83" type="line"></point>
+      <point x="505" y="344" type="line" smooth="yes"></point>
+      <point x="505" y="462"></point>
+      <point x="446" y="518"></point>
+      <point x="346" y="518" type="curve" smooth="yes"></point>
+      <point x="280" y="518"></point>
+      <point x="219" y="488"></point>
+      <point x="184" y="438" type="curve"></point>
+      <point x="184" y="503" type="line"></point>
+      <point x="15" y="503" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

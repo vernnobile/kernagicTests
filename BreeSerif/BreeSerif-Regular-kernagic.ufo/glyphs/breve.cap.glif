@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="breve.cap" format="1">
+  <advance width="478"></advance>
+  <outline>
+    <contour>
+      <point x="388" y="874" type="line"></point>
+      <point x="366" y="820"></point>
+      <point x="339" y="796"></point>
+      <point x="289" y="796" type="curve" smooth="yes"></point>
+      <point x="238" y="796"></point>
+      <point x="209" y="824"></point>
+      <point x="189" y="874" type="curve"></point>
+      <point x="122" y="846" type="line"></point>
+      <point x="140" y="781"></point>
+      <point x="185" y="720"></point>
+      <point x="285" y="720" type="curve" smooth="yes"></point>
+      <point x="388" y="720"></point>
+      <point x="432" y="780"></point>
+      <point x="454" y="847" type="curve"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

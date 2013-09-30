@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Lacute" format="1">
+  <advance width="554"></advance>
+  <unicode hex="0139"></unicode>
+  <outline>
+    <contour>
+      <point x="496" y="0" type="line"></point>
+      <point x="496" y="198" type="line"></point>
+      <point x="394" y="205" type="line"></point>
+      <point x="394" y="135" type="line" smooth="yes"></point>
+      <point x="394" y="116"></point>
+      <point x="392" y="103"></point>
+      <point x="371" y="103" type="curve" smooth="yes"></point>
+      <point x="205" y="103" type="line"></point>
+      <point x="205" y="549" type="line" smooth="yes"></point>
+      <point x="205" y="573"></point>
+      <point x="217" y="579"></point>
+      <point x="234" y="581" type="curve" smooth="yes"></point>
+      <point x="267" y="584" type="line"></point>
+      <point x="267" y="665" type="line"></point>
+      <point x="26" y="665" type="line"></point>
+      <point x="26" y="580" type="line"></point>
+      <point x="83" y="577" type="line"></point>
+      <point x="83" y="112" type="line" smooth="yes"></point>
+      <point x="83" y="92"></point>
+      <point x="71" y="86"></point>
+      <point x="54" y="84" type="curve" smooth="yes"></point>
+      <point x="21" y="81" type="line"></point>
+      <point x="21" y="0" type="line"></point>
+    </contour>
+    <contour>
+      <point x="47" y="750" type="line"></point>
+      <point x="77" y="709" type="line"></point>
+      <point x="232" y="796" type="line" smooth="yes"></point>
+      <point x="268" y="816"></point>
+      <point x="281" y="847"></point>
+      <point x="249" y="874" type="curve" smooth="yes"></point>
+      <point x="209" y="907" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

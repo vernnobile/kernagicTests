@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="logicalnot" format="1">
+  <advance width="554"></advance>
+  <unicode hex="00AC"></unicode>
+  <outline>
+    <contour>
+      <point x="390" y="171" type="line"></point>
+      <point x="486" y="171" type="line"></point>
+      <point x="486" y="412" type="line"></point>
+      <point x="57" y="412" type="line"></point>
+      <point x="57" y="315" type="line"></point>
+      <point x="390" y="315" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

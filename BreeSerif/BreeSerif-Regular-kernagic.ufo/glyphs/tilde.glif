@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="tilde" format="1">
+  <advance width="478"></advance>
+  <unicode hex="02DC"></unicode>
+  <outline>
+    <contour>
+      <point x="170" y="596" type="line"></point>
+      <point x="191" y="620"></point>
+      <point x="201" y="625"></point>
+      <point x="228" y="625" type="curve" smooth="yes"></point>
+      <point x="261" y="625"></point>
+      <point x="312" y="598"></point>
+      <point x="353" y="598" type="curve" smooth="yes"></point>
+      <point x="401" y="598"></point>
+      <point x="433" y="625"></point>
+      <point x="456" y="685" type="curve"></point>
+      <point x="402" y="714" type="line"></point>
+      <point x="390" y="694"></point>
+      <point x="373" y="682"></point>
+      <point x="358" y="682" type="curve" smooth="yes"></point>
+      <point x="320" y="682"></point>
+      <point x="270" y="710"></point>
+      <point x="224" y="710" type="curve" smooth="yes"></point>
+      <point x="185" y="710"></point>
+      <point x="147" y="686"></point>
+      <point x="122" y="631" type="curve"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

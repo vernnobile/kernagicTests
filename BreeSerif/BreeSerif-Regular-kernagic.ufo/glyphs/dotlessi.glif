@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="dotlessi" format="1">
+  <advance width="365"></advance>
+  <unicode hex="0131"></unicode>
+  <outline>
+    <contour>
+      <point x="249" y="503" type="line"></point>
+      <point x="70" y="503" type="line"></point>
+      <point x="70" y="420" type="line"></point>
+      <point x="105" y="418" type="line"></point>
+      <point x="124" y="418"></point>
+      <point x="130" y="411"></point>
+      <point x="130" y="389" type="curve" smooth="yes"></point>
+      <point x="130" y="111" type="line" smooth="yes"></point>
+      <point x="130" y="87"></point>
+      <point x="119" y="81"></point>
+      <point x="101" y="79" type="curve" smooth="yes"></point>
+      <point x="68" y="76" type="line"></point>
+      <point x="68" y="0" type="line"></point>
+      <point x="306" y="0" type="line"></point>
+      <point x="306" y="80" type="line"></point>
+      <point x="249" y="83" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

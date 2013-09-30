@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="hungarumlaut" format="1">
+  <advance width="504"></advance>
+  <unicode hex="02DD"></unicode>
+  <outline>
+    <contour>
+      <point x="122" y="597" type="line"></point>
+      <point x="161" y="564" type="line"></point>
+      <point x="285" y="690" type="line" smooth="yes"></point>
+      <point x="314" y="718"></point>
+      <point x="322" y="750"></point>
+      <point x="281" y="769" type="curve" smooth="yes"></point>
+      <point x="238" y="789" type="line"></point>
+    </contour>
+    <contour>
+      <point x="292" y="594" type="line"></point>
+      <point x="331" y="561" type="line"></point>
+      <point x="455" y="687" type="line" smooth="yes"></point>
+      <point x="484" y="715"></point>
+      <point x="492" y="747"></point>
+      <point x="451" y="766" type="curve" smooth="yes"></point>
+      <point x="408" y="786" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

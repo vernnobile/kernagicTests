@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="dotaccent" format="1">
+  <advance width="340"></advance>
+  <unicode hex="02D9"></unicode>
+  <outline>
+    <contour>
+      <point x="122" y="647" type="curve" smooth="yes"></point>
+      <point x="122" y="609"></point>
+      <point x="149" y="581"></point>
+      <point x="191" y="581" type="curve" smooth="yes"></point>
+      <point x="231" y="581"></point>
+      <point x="260" y="609"></point>
+      <point x="260" y="647" type="curve" smooth="yes"></point>
+      <point x="260" y="684"></point>
+      <point x="232" y="714"></point>
+      <point x="191" y="714" type="curve" smooth="yes"></point>
+      <point x="150" y="714"></point>
+      <point x="122" y="684"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

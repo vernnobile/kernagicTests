@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="asciitilde" format="1">
+  <advance width="579"></advance>
+  <unicode hex="007E"></unicode>
+  <outline>
+    <contour>
+      <point x="391" y="218" type="curve" smooth="yes"></point>
+      <point x="445" y="218"></point>
+      <point x="501" y="245"></point>
+      <point x="537" y="322" type="curve"></point>
+      <point x="464" y="376" type="line"></point>
+      <point x="439" y="331"></point>
+      <point x="414" y="312"></point>
+      <point x="383" y="312" type="curve" smooth="yes"></point>
+      <point x="319" y="312"></point>
+      <point x="260" y="388"></point>
+      <point x="179" y="388" type="curve" smooth="yes"></point>
+      <point x="116" y="388"></point>
+      <point x="71" y="346"></point>
+      <point x="33" y="282" type="curve"></point>
+      <point x="105" y="226" type="line"></point>
+      <point x="131" y="265"></point>
+      <point x="156" y="291"></point>
+      <point x="189" y="291" type="curve" smooth="yes"></point>
+      <point x="244" y="291"></point>
+      <point x="306" y="218"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
