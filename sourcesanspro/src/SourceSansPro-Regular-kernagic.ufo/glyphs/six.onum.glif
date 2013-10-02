@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="six.onum" format="1">
+  <advance width="522"></advance>
+  <outline>
+    <contour>
+      <point x="281" y="53" type="curve" smooth="yes"></point>
+      <point x="200" y="53"></point>
+      <point x="151" y="120"></point>
+      <point x="141" y="244" type="curve"></point>
+      <point x="184" y="304"></point>
+      <point x="234" y="328"></point>
+      <point x="274" y="328" type="curve" smooth="yes"></point>
+      <point x="353" y="328"></point>
+      <point x="392" y="276"></point>
+      <point x="392" y="193" type="curve" smooth="yes"></point>
+      <point x="392" y="109"></point>
+      <point x="344" y="53"></point>
+    </contour>
+    <contour>
+      <point x="458" y="582" type="line"></point>
+      <point x="422" y="621"></point>
+      <point x="373" y="650"></point>
+      <point x="304" y="650" type="curve" smooth="yes"></point>
+      <point x="177" y="650"></point>
+      <point x="61" y="551"></point>
+      <point x="61" y="295" type="curve" smooth="yes"></point>
+      <point x="61" y="90"></point>
+      <point x="156" y="-12"></point>
+      <point x="282" y="-12" type="curve" smooth="yes"></point>
+      <point x="384" y="-12"></point>
+      <point x="470" y="71"></point>
+      <point x="470" y="193" type="curve" smooth="yes"></point>
+      <point x="470" y="324"></point>
+      <point x="399" y="390"></point>
+      <point x="288" y="390" type="curve" smooth="yes"></point>
+      <point x="236" y="390"></point>
+      <point x="179" y="359"></point>
+      <point x="139" y="310" type="curve"></point>
+      <point x="143" y="512"></point>
+      <point x="218" y="581"></point>
+      <point x="308" y="581" type="curve" smooth="yes"></point>
+      <point x="347" y="581"></point>
+      <point x="387" y="562"></point>
+      <point x="412" y="531" type="curve"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

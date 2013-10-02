@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Iogonek" format="1">
+  <advance width="323"></advance>
+  <unicode hex="012E"></unicode>
+  <outline>
+    <contour>
+      <point x="117" y="0" type="line"></point>
+      <point x="137" y="0" type="line"></point>
+      <point x="105" y="-29"></point>
+      <point x="70" y="-68"></point>
+      <point x="70" y="-125" type="curve" smooth="yes"></point>
+      <point x="70" y="-182"></point>
+      <point x="113" y="-212"></point>
+      <point x="166" y="-212" type="curve" smooth="yes"></point>
+      <point x="192" y="-212"></point>
+      <point x="226" y="-199"></point>
+      <point x="246" y="-184" type="curve"></point>
+      <point x="223" y="-139" type="line"></point>
+      <point x="211" y="-148"></point>
+      <point x="198" y="-153"></point>
+      <point x="182" y="-153" type="curve" smooth="yes"></point>
+      <point x="159" y="-153"></point>
+      <point x="135" y="-138"></point>
+      <point x="135" y="-107" type="curve" smooth="yes"></point>
+      <point x="135" y="-66"></point>
+      <point x="159" y="-32"></point>
+      <point x="200" y="0" type="curve"></point>
+      <point x="200" y="656" type="line"></point>
+      <point x="117" y="656" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

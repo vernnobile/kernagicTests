@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="four.onum" format="1">
+  <advance width="497"></advance>
+  <outline>
+    <contour>
+      <point x="123" y="160" type="line"></point>
+      <point x="272" y="385" type="line"></point>
+      <point x="290" y="417"></point>
+      <point x="308" y="451"></point>
+      <point x="324" y="483" type="curve"></point>
+      <point x="328" y="483" type="line"></point>
+      <point x="326" y="449"></point>
+      <point x="323" y="397"></point>
+      <point x="323" y="363" type="curve" smooth="yes"></point>
+      <point x="323" y="160" type="line"></point>
+    </contour>
+    <contour>
+      <point x="488" y="160" type="line"></point>
+      <point x="401" y="160" type="line"></point>
+      <point x="401" y="574" type="line"></point>
+      <point x="309" y="574" type="line"></point>
+      <point x="36" y="149" type="line"></point>
+      <point x="36" y="94" type="line"></point>
+      <point x="323" y="94" type="line"></point>
+      <point x="323" y="-74" type="line"></point>
+      <point x="401" y="-74" type="line"></point>
+      <point x="401" y="94" type="line"></point>
+      <point x="488" y="94" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

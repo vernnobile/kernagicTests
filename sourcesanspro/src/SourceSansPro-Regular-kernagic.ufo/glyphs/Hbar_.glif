@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Hbar" format="1">
+  <advance width="622"></advance>
+  <unicode hex="0126"></unicode>
+  <outline>
+    <contour>
+      <point x="464" y="381" type="line"></point>
+      <point x="159" y="381" type="line"></point>
+      <point x="159" y="492" type="line"></point>
+      <point x="464" y="492" type="line"></point>
+    </contour>
+    <contour>
+      <point x="620" y="539" type="line"></point>
+      <point x="548" y="539" type="line"></point>
+      <point x="548" y="656" type="line"></point>
+      <point x="464" y="656" type="line"></point>
+      <point x="464" y="539" type="line"></point>
+      <point x="159" y="539" type="line"></point>
+      <point x="159" y="656" type="line"></point>
+      <point x="76" y="656" type="line"></point>
+      <point x="76" y="539" type="line"></point>
+      <point x="-1" y="534" type="line"></point>
+      <point x="-1" y="492" type="line"></point>
+      <point x="76" y="492" type="line"></point>
+      <point x="76" y="0" type="line"></point>
+      <point x="159" y="0" type="line"></point>
+      <point x="159" y="309" type="line"></point>
+      <point x="464" y="309" type="line"></point>
+      <point x="464" y="0" type="line"></point>
+      <point x="548" y="0" type="line"></point>
+      <point x="548" y="492" type="line"></point>
+      <point x="620" y="492" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

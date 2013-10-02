@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="A.sups" format="1">
+  <advance width="472"></advance>
+  <outline>
+    <contour>
+      <point x="172" y="443" type="line"></point>
+      <point x="191" y="505" type="line" smooth="yes"></point>
+      <point x="206" y="552"></point>
+      <point x="220" y="599"></point>
+      <point x="234" y="648" type="curve"></point>
+      <point x="236" y="648" type="line"></point>
+      <point x="250" y="601"></point>
+      <point x="264" y="553"></point>
+      <point x="279" y="505" type="curve" smooth="yes"></point>
+      <point x="298" y="443" type="line"></point>
+    </contour>
+    <contour>
+      <point x="352" y="266" type="line"></point>
+      <point x="419" y="266" type="line"></point>
+      <point x="272" y="698" type="line"></point>
+      <point x="200" y="698" type="line"></point>
+      <point x="53" y="266" type="line"></point>
+      <point x="117" y="266" type="line"></point>
+      <point x="157" y="394" type="line"></point>
+      <point x="313" y="394" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

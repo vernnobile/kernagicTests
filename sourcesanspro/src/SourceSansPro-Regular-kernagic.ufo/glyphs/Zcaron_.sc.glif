@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Zcaron.sc" format="1">
+  <advance width="497"></advance>
+  <outline>
+    <contour>
+      <point x="47" y="0" type="line"></point>
+      <point x="435" y="0" type="line"></point>
+      <point x="435" y="69" type="line"></point>
+      <point x="148" y="69" type="line"></point>
+      <point x="431" y="469" type="line"></point>
+      <point x="431" y="518" type="line"></point>
+      <point x="72" y="518" type="line"></point>
+      <point x="72" y="450" type="line"></point>
+      <point x="330" y="450" type="line"></point>
+      <point x="47" y="49" type="line"></point>
+    </contour>
+    <contour>
+      <point x="321" y="702" type="line"></point>
+      <point x="254" y="634" type="line"></point>
+      <point x="250" y="634" type="line"></point>
+      <point x="183" y="702" type="line"></point>
+      <point x="117" y="702" type="line"></point>
+      <point x="213" y="591" type="line"></point>
+      <point x="292" y="591" type="line"></point>
+      <point x="388" y="702" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

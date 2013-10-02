@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Iogonek.a" format="1">
+  <advance width="422"></advance>
+  <outline>
+    <contour>
+      <point x="81" y="0" type="line"></point>
+      <point x="185" y="0" type="line"></point>
+      <point x="153" y="-26"></point>
+      <point x="117" y="-71"></point>
+      <point x="117" y="-125" type="curve" smooth="yes"></point>
+      <point x="117" y="-182"></point>
+      <point x="160" y="-212"></point>
+      <point x="212" y="-212" type="curve" smooth="yes"></point>
+      <point x="239" y="-212"></point>
+      <point x="273" y="-199"></point>
+      <point x="292" y="-184" type="curve"></point>
+      <point x="269" y="-139" type="line"></point>
+      <point x="257" y="-148"></point>
+      <point x="245" y="-153"></point>
+      <point x="229" y="-153" type="curve" smooth="yes"></point>
+      <point x="205" y="-153"></point>
+      <point x="181" y="-138"></point>
+      <point x="181" y="-107" type="curve" smooth="yes"></point>
+      <point x="181" y="-69"></point>
+      <point x="205" y="-31"></point>
+      <point x="244" y="0" type="curve"></point>
+      <point x="331" y="0" type="line"></point>
+      <point x="331" y="71" type="line"></point>
+      <point x="248" y="71" type="line"></point>
+      <point x="248" y="586" type="line"></point>
+      <point x="331" y="586" type="line"></point>
+      <point x="331" y="656" type="line"></point>
+      <point x="81" y="656" type="line"></point>
+      <point x="81" y="586" type="line"></point>
+      <point x="165" y="586" type="line"></point>
+      <point x="165" y="71" type="line"></point>
+      <point x="81" y="71" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

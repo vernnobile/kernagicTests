@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="ldot.a" format="1">
+  <advance width="422"></advance>
+  <outline>
+    <contour>
+      <point x="79" y="0" type="line"></point>
+      <point x="161" y="0" type="line"></point>
+      <point x="161" y="712" type="line"></point>
+      <point x="79" y="712" type="line"></point>
+    </contour>
+    <contour>
+      <point x="241" y="325" type="curve" smooth="yes"></point>
+      <point x="241" y="288"></point>
+      <point x="268" y="263"></point>
+      <point x="301" y="263" type="curve" smooth="yes"></point>
+      <point x="334" y="263"></point>
+      <point x="360" y="288"></point>
+      <point x="360" y="325" type="curve" smooth="yes"></point>
+      <point x="360" y="363"></point>
+      <point x="334" y="388"></point>
+      <point x="301" y="388" type="curve" smooth="yes"></point>
+      <point x="268" y="388"></point>
+      <point x="241" y="363"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

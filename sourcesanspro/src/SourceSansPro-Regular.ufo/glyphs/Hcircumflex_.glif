@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcircumflex" format="1">
+  <advance width="652"/>
+  <unicode hex="0124"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="173" y="0" type="line"/>
+      <point x="173" y="309" type="line"/>
+      <point x="478" y="309" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="562" y="656" type="line"/>
+      <point x="478" y="656" type="line"/>
+      <point x="478" y="381" type="line"/>
+      <point x="173" y="381" type="line"/>
+      <point x="173" y="656" type="line"/>
+      <point x="90" y="656" type="line"/>
+    </contour>
+    <contour>
+      <point x="257" y="706" type="line"/>
+      <point x="323" y="774" type="line"/>
+      <point x="327" y="774" type="line"/>
+      <point x="394" y="706" type="line"/>
+      <point x="461" y="706" type="line"/>
+      <point x="365" y="818" type="line"/>
+      <point x="286" y="818" type="line"/>
+      <point x="190" y="706" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

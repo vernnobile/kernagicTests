@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="quotedblright" format="1">
+  <advance width="422"></advance>
+  <unicode hex="201D"></unicode>
+  <outline>
+    <contour>
+      <point x="107" y="431" type="line"></point>
+      <point x="176" y="471"></point>
+      <point x="214" y="528"></point>
+      <point x="214" y="608" type="curve" smooth="yes"></point>
+      <point x="214" y="666"></point>
+      <point x="190" y="699"></point>
+      <point x="151" y="699" type="curve" smooth="yes"></point>
+      <point x="120" y="699"></point>
+      <point x="98" y="678"></point>
+      <point x="98" y="643" type="curve" smooth="yes"></point>
+      <point x="98" y="611"></point>
+      <point x="123" y="593"></point>
+      <point x="151" y="593" type="curve" smooth="yes"></point>
+      <point x="154" y="593"></point>
+      <point x="156" y="593"></point>
+      <point x="159" y="594" type="curve"></point>
+      <point x="159" y="536"></point>
+      <point x="134" y="502"></point>
+      <point x="84" y="469" type="curve"></point>
+    </contour>
+    <contour>
+      <point x="284" y="431" type="line"></point>
+      <point x="353" y="471"></point>
+      <point x="390" y="528"></point>
+      <point x="390" y="608" type="curve" smooth="yes"></point>
+      <point x="390" y="666"></point>
+      <point x="367" y="699"></point>
+      <point x="327" y="699" type="curve" smooth="yes"></point>
+      <point x="296" y="699"></point>
+      <point x="274" y="678"></point>
+      <point x="274" y="643" type="curve" smooth="yes"></point>
+      <point x="274" y="611"></point>
+      <point x="299" y="593"></point>
+      <point x="327" y="593" type="curve" smooth="yes"></point>
+      <point x="330" y="593"></point>
+      <point x="333" y="593"></point>
+      <point x="336" y="594" type="curve"></point>
+      <point x="336" y="536"></point>
+      <point x="310" y="502"></point>
+      <point x="260" y="469" type="curve"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

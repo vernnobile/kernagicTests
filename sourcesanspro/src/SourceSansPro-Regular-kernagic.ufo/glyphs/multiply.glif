@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="multiply" format="1">
+  <advance width="497"></advance>
+  <unicode hex="00D7"></unicode>
+  <outline>
+    <contour>
+      <point x="88" y="126" type="line"></point>
+      <point x="243" y="286" type="line"></point>
+      <point x="397" y="126" type="line"></point>
+      <point x="441" y="171" type="line"></point>
+      <point x="286" y="330" type="line"></point>
+      <point x="441" y="488" type="line"></point>
+      <point x="397" y="533" type="line"></point>
+      <point x="243" y="374" type="line"></point>
+      <point x="88" y="533" type="line"></point>
+      <point x="44" y="488" type="line"></point>
+      <point x="199" y="330" type="line"></point>
+      <point x="44" y="171" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Zcaron" format="1">
+  <advance width="522"></advance>
+  <unicode hex="017D"></unicode>
+  <outline>
+    <contour>
+      <point x="33" y="0" type="line"></point>
+      <point x="485" y="0" type="line"></point>
+      <point x="485" y="71" type="line"></point>
+      <point x="136" y="71" type="line"></point>
+      <point x="482" y="607" type="line"></point>
+      <point x="482" y="656" type="line"></point>
+      <point x="64" y="656" type="line"></point>
+      <point x="64" y="586" type="line"></point>
+      <point x="378" y="586" type="line"></point>
+      <point x="33" y="50" type="line"></point>
+    </contour>
+    <contour>
+      <point x="338" y="818" type="line"></point>
+      <point x="271" y="750" type="line"></point>
+      <point x="267" y="750" type="line"></point>
+      <point x="200" y="818" type="line"></point>
+      <point x="133" y="818" type="line"></point>
+      <point x="229" y="706" type="line"></point>
+      <point x="309" y="706" type="line"></point>
+      <point x="405" y="818" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

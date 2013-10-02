@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="zero" format="1">
+  <advance width="547"></advance>
+  <unicode hex="0030"></unicode>
+  <outline>
+    <contour>
+      <point x="269" y="-12" type="curve" smooth="yes"></point>
+      <point x="396" y="-12"></point>
+      <point x="473" y="107"></point>
+      <point x="473" y="321" type="curve" smooth="yes"></point>
+      <point x="473" y="535"></point>
+      <point x="396" y="650"></point>
+      <point x="269" y="650" type="curve" smooth="yes"></point>
+      <point x="141" y="650"></point>
+      <point x="64" y="535"></point>
+      <point x="64" y="321" type="curve" smooth="yes"></point>
+      <point x="64" y="107"></point>
+      <point x="141" y="-12"></point>
+    </contour>
+    <contour>
+      <point x="269" y="54" type="curve" smooth="yes"></point>
+      <point x="194" y="54"></point>
+      <point x="144" y="134"></point>
+      <point x="144" y="321" type="curve" smooth="yes"></point>
+      <point x="144" y="508"></point>
+      <point x="194" y="584"></point>
+      <point x="269" y="584" type="curve" smooth="yes"></point>
+      <point x="343" y="584"></point>
+      <point x="393" y="508"></point>
+      <point x="393" y="321" type="curve" smooth="yes"></point>
+      <point x="393" y="134"></point>
+      <point x="343" y="54"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

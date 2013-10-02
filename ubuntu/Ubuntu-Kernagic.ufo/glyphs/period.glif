@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="period" format="1">
-  <advance width="327"></advance>
+  <advance width="328"></advance>
   <unicode hex="002E"></unicode>
   <outline>
     <contour>
-      <point x="158" y="121" type="curve" smooth="yes"></point>
-      <point x="197" y="121"></point>
-      <point x="225" y="91.8126"></point>
-      <point x="225" y="54" type="curve" smooth="yes"></point>
-      <point x="225" y="16.1958"></point>
-      <point x="197" y="-13"></point>
-      <point x="158" y="-13" type="curve" smooth="yes"></point>
-      <point x="118" y="-13"></point>
-      <point x="91" y="16.1874"></point>
-      <point x="91" y="54" type="curve" smooth="yes"></point>
-      <point x="91" y="91.8042"></point>
-      <point x="118" y="121"></point>
+      <point x="164" y="121" type="curve" smooth="yes"></point>
+      <point x="203" y="121"></point>
+      <point x="231" y="91.8126"></point>
+      <point x="231" y="54" type="curve" smooth="yes"></point>
+      <point x="231" y="16.1958"></point>
+      <point x="203" y="-13"></point>
+      <point x="164" y="-13" type="curve" smooth="yes"></point>
+      <point x="124" y="-13"></point>
+      <point x="97" y="16.1874"></point>
+      <point x="97" y="54" type="curve" smooth="yes"></point>
+      <point x="97" y="91.8042"></point>
+      <point x="124" y="121"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

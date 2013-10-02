@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="411"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="60" y="653" type="qcurve" smooth="yes"/>
+      <point x="60" y="676"/>
+      <point x="87" y="704"/>
+      <point x="109" y="704" type="qcurve" smooth="yes"/>
+      <point x="131" y="704"/>
+      <point x="158" y="676"/>
+      <point x="158" y="653" type="qcurve" smooth="yes"/>
+      <point x="158" y="632"/>
+      <point x="131" y="604"/>
+      <point x="109" y="604" type="qcurve" smooth="yes"/>
+      <point x="87" y="604"/>
+      <point x="60" y="632"/>
+    </contour>
+    <contour>
+      <point x="252" y="653" type="qcurve" smooth="yes"/>
+      <point x="252" y="676"/>
+      <point x="279" y="704"/>
+      <point x="301" y="704" type="qcurve" smooth="yes"/>
+      <point x="324" y="704"/>
+      <point x="351" y="676"/>
+      <point x="351" y="653" type="qcurve" smooth="yes"/>
+      <point x="351" y="632"/>
+      <point x="324" y="604"/>
+      <point x="301" y="604" type="qcurve" smooth="yes"/>
+      <point x="279" y="604"/>
+      <point x="252" y="632"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

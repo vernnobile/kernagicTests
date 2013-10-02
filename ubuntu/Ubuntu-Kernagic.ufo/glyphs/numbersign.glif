@@ -1,45 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="numbersign" format="1">
-  <advance width="568"></advance>
+  <advance width="577"></advance>
   <unicode hex="0023"></unicode>
   <outline>
     <contour>
-      <point x="237" y="510" type="line"></point>
-      <point x="399" y="510" type="line"></point>
-      <point x="434" y="693" type="line"></point>
-      <point x="518" y="693" type="line"></point>
-      <point x="483" y="510" type="line"></point>
-      <point x="571" y="510" type="line"></point>
-      <point x="571" y="436" type="line"></point>
-      <point x="468" y="436" type="line"></point>
-      <point x="434" y="257" type="line"></point>
-      <point x="571" y="257" type="line"></point>
-      <point x="571" y="183" type="line"></point>
-      <point x="420" y="183" type="line"></point>
-      <point x="385" y="0" type="line"></point>
-      <point x="301" y="0" type="line"></point>
-      <point x="336" y="183" type="line"></point>
-      <point x="174" y="183" type="line"></point>
-      <point x="139" y="0" type="line"></point>
-      <point x="55" y="0" type="line"></point>
-      <point x="90" y="183" type="line"></point>
-      <point x="3" y="183" type="line"></point>
-      <point x="3" y="257" type="line"></point>
-      <point x="104" y="257" type="line"></point>
-      <point x="138" y="436" type="line"></point>
-      <point x="3" y="436" type="line"></point>
-      <point x="3" y="510" type="line"></point>
-      <point x="153" y="510" type="line"></point>
-      <point x="188" y="693" type="line"></point>
-      <point x="272" y="693" type="line"></point>
+      <point x="242" y="510" type="line"></point>
+      <point x="404" y="510" type="line"></point>
+      <point x="439" y="693" type="line"></point>
+      <point x="523" y="693" type="line"></point>
+      <point x="488" y="510" type="line"></point>
+      <point x="576" y="510" type="line"></point>
+      <point x="576" y="436" type="line"></point>
+      <point x="473" y="436" type="line"></point>
+      <point x="439" y="257" type="line"></point>
+      <point x="576" y="257" type="line"></point>
+      <point x="576" y="183" type="line"></point>
+      <point x="425" y="183" type="line"></point>
+      <point x="390" y="0" type="line"></point>
+      <point x="306" y="0" type="line"></point>
+      <point x="341" y="183" type="line"></point>
+      <point x="179" y="183" type="line"></point>
+      <point x="144" y="0" type="line"></point>
+      <point x="60" y="0" type="line"></point>
+      <point x="95" y="183" type="line"></point>
+      <point x="8" y="183" type="line"></point>
+      <point x="8" y="257" type="line"></point>
+      <point x="109" y="257" type="line"></point>
+      <point x="143" y="436" type="line"></point>
+      <point x="8" y="436" type="line"></point>
+      <point x="8" y="510" type="line"></point>
+      <point x="158" y="510" type="line"></point>
+      <point x="193" y="693" type="line"></point>
+      <point x="277" y="693" type="line"></point>
     </contour>
     <contour>
-      <point x="188" y="257" type="line"></point>
-      <point x="350" y="257" type="line"></point>
-      <point x="385" y="436" type="line"></point>
-      <point x="223" y="436" type="line"></point>
+      <point x="193" y="257" type="line"></point>
+      <point x="355" y="257" type="line"></point>
+      <point x="390" y="436" type="line"></point>
+      <point x="228" y="436" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Thorn" format="1">
+  <advance width="572"></advance>
+  <unicode hex="00DE"></unicode>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"></point>
+      <point x="159" y="0" type="line"></point>
+      <point x="159" y="150" type="line"></point>
+      <point x="277" y="150" type="line" smooth="yes"></point>
+      <point x="421" y="150"></point>
+      <point x="519" y="214"></point>
+      <point x="519" y="353" type="curve" smooth="yes"></point>
+      <point x="519" y="496"></point>
+      <point x="422" y="546"></point>
+      <point x="277" y="546" type="curve" smooth="yes"></point>
+      <point x="159" y="546" type="line"></point>
+      <point x="159" y="656" type="line"></point>
+      <point x="76" y="656" type="line"></point>
+    </contour>
+    <contour>
+      <point x="159" y="218" type="line"></point>
+      <point x="159" y="478" type="line"></point>
+      <point x="267" y="478" type="line" smooth="yes"></point>
+      <point x="380" y="478"></point>
+      <point x="436" y="447"></point>
+      <point x="436" y="353" type="curve" smooth="yes"></point>
+      <point x="436" y="259"></point>
+      <point x="381" y="218"></point>
+      <point x="267" y="218" type="curve" smooth="yes"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

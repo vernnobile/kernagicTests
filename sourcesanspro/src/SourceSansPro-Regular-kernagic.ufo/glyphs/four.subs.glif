@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="four.subs" format="1">
+  <advance width="398"></advance>
+  <unicode hex="2084"></unicode>
+  <outline>
+    <contour>
+      <point x="111" y="-58" type="line"></point>
+      <point x="172" y="40" type="line"></point>
+      <point x="222" y="121" type="line"></point>
+      <point x="226" y="121" type="line"></point>
+      <point x="222" y="13" type="line"></point>
+      <point x="222" y="-58" type="line"></point>
+    </contour>
+    <contour>
+      <point x="338" y="-58" type="line"></point>
+      <point x="280" y="-58" type="line"></point>
+      <point x="280" y="182" type="line"></point>
+      <point x="208" y="182" type="line"></point>
+      <point x="44" y="-71" type="line"></point>
+      <point x="44" y="-104" type="line"></point>
+      <point x="222" y="-104" type="line"></point>
+      <point x="222" y="-208" type="line"></point>
+      <point x="280" y="-208" type="line"></point>
+      <point x="280" y="-104" type="line"></point>
+      <point x="338" y="-104" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

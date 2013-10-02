@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="daggerdbl" format="1">
+  <advance width="497"></advance>
+  <unicode hex="2021"></unicode>
+  <outline>
+    <contour>
+      <point x="70" y="75" type="line"></point>
+      <point x="213" y="80" type="line"></point>
+      <point x="208" y="-80" type="line"></point>
+      <point x="278" y="-80" type="line"></point>
+      <point x="273" y="80" type="line"></point>
+      <point x="416" y="75" type="line"></point>
+      <point x="416" y="146" type="line"></point>
+      <point x="273" y="139" type="line"></point>
+      <point x="278" y="316" type="line"></point>
+      <point x="273" y="493" type="line"></point>
+      <point x="416" y="486" type="line"></point>
+      <point x="416" y="557" type="line"></point>
+      <point x="273" y="552" type="line"></point>
+      <point x="278" y="712" type="line"></point>
+      <point x="208" y="712" type="line"></point>
+      <point x="213" y="552" type="line"></point>
+      <point x="70" y="557" type="line"></point>
+      <point x="70" y="486" type="line"></point>
+      <point x="213" y="493" type="line"></point>
+      <point x="208" y="316" type="line"></point>
+      <point x="213" y="139" type="line"></point>
+      <point x="70" y="146" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="lslash.a" format="1">
+  <advance width="373"></advance>
+  <outline>
+    <contour>
+      <point x="283" y="489" type="line"></point>
+      <point x="208" y="441" type="line"></point>
+      <point x="208" y="712" type="line"></point>
+      <point x="126" y="712" type="line"></point>
+      <point x="126" y="399" type="line"></point>
+      <point x="67" y="361" type="line"></point>
+      <point x="67" y="291" type="line"></point>
+      <point x="126" y="329" type="line"></point>
+      <point x="126" y="0" type="line"></point>
+      <point x="208" y="0" type="line"></point>
+      <point x="208" y="371" type="line"></point>
+      <point x="283" y="419" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

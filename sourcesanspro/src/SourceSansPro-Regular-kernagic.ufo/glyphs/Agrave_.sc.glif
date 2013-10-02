@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Agrave.sc" format="1">
+  <advance width="522"></advance>
+  <outline>
+    <contour>
+      <point x="312" y="591" type="line"></point>
+      <point x="224" y="702" type="line"></point>
+      <point x="130" y="702" type="line"></point>
+      <point x="243" y="591" type="line"></point>
+    </contour>
+    <contour>
+      <point x="183" y="208" type="line"></point>
+      <point x="207" y="282" type="line" smooth="yes"></point>
+      <point x="226" y="339"></point>
+      <point x="241" y="393"></point>
+      <point x="259" y="451" type="curve"></point>
+      <point x="263" y="451" type="line"></point>
+      <point x="281" y="394"></point>
+      <point x="296" y="339"></point>
+      <point x="315" y="282" type="curve" smooth="yes"></point>
+      <point x="339" y="208" type="line"></point>
+    </contour>
+    <contour>
+      <point x="407" y="0" type="line"></point>
+      <point x="495" y="0" type="line"></point>
+      <point x="309" y="518" type="line"></point>
+      <point x="215" y="518" type="line"></point>
+      <point x="30" y="0" type="line"></point>
+      <point x="114" y="0" type="line"></point>
+      <point x="162" y="146" type="line"></point>
+      <point x="359" y="146" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

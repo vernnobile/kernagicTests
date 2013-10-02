@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni231F" format="1">
+  <advance width="398"></advance>
+  <unicode hex="231F"></unicode>
+  <outline>
+    <contour>
+      <point x="299" y="638" type="line"></point>
+      <point x="237" y="638" type="line"></point>
+      <point x="237" y="-5" type="line"></point>
+      <point x="121" y="-5" type="line"></point>
+      <point x="121" y="-52" type="line"></point>
+      <point x="299" y="-52" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

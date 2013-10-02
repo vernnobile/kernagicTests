@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2015" format="1">
+  <advance width="800"/>
+  <unicode hex="2015"/>
+  <outline>
+    <contour>
+      <point x="41" y="223" type="line"/>
+      <point x="759" y="223" type="line"/>
+      <point x="759" y="280" type="line"/>
+      <point x="41" y="280" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

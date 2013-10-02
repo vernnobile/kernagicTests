@@ -1,40 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="t" format="1">
-  <advance width="415"></advance>
+  <advance width="407"></advance>
   <unicode hex="0074"></unicode>
   <outline>
     <contour>
-      <point x="377" y="17" type="line"></point>
-      <point x="349" y="3.08254"></point>
-      <point x="295" y="-11"></point>
-      <point x="248" y="-11" type="curve" smooth="yes"></point>
-      <point x="147" y="-11"></point>
-      <point x="93" y="27.5955"></point>
-      <point x="75" y="109.5" type="curve" smooth="yes"></point>
-      <point x="69" y="135.833"></point>
-      <point x="67" y="166.333"></point>
-      <point x="67" y="201" type="curve" smooth="yes"></point>
-      <point x="67" y="665" type="line"></point>
-      <point x="160" y="681" type="line"></point>
-      <point x="160" y="520" type="line"></point>
-      <point x="357" y="520" type="line"></point>
-      <point x="357" y="442" type="line"></point>
-      <point x="160" y="442" type="line"></point>
-      <point x="160" y="202" type="line" smooth="yes"></point>
-      <point x="160" y="121.002"></point>
-      <point x="177" y="71"></point>
-      <point x="256" y="71" type="curve" smooth="yes"></point>
-      <point x="284" y="71"></point>
-      <point x="306" y="74.1667"></point>
-      <point x="323" y="80.5" type="curve" smooth="yes"></point>
-      <point x="340" y="86.8333"></point>
-      <point x="352" y="91.3333"></point>
-      <point x="359" y="94" type="curve"></point>
+      <point x="382" y="17" type="line"></point>
+      <point x="354" y="3.08254"></point>
+      <point x="300" y="-11"></point>
+      <point x="253" y="-11" type="curve" smooth="yes"></point>
+      <point x="152" y="-11"></point>
+      <point x="98" y="27.5955"></point>
+      <point x="80" y="109.5" type="curve" smooth="yes"></point>
+      <point x="74" y="135.833"></point>
+      <point x="72" y="166.333"></point>
+      <point x="72" y="201" type="curve" smooth="yes"></point>
+      <point x="72" y="665" type="line"></point>
+      <point x="165" y="681" type="line"></point>
+      <point x="165" y="520" type="line"></point>
+      <point x="362" y="520" type="line"></point>
+      <point x="362" y="442" type="line"></point>
+      <point x="165" y="442" type="line"></point>
+      <point x="165" y="202" type="line" smooth="yes"></point>
+      <point x="165" y="121.002"></point>
+      <point x="182" y="71"></point>
+      <point x="261" y="71" type="curve" smooth="yes"></point>
+      <point x="289" y="71"></point>
+      <point x="311" y="74.1667"></point>
+      <point x="328" y="80.5" type="curve" smooth="yes"></point>
+      <point x="345" y="86.8333"></point>
+      <point x="357" y="91.3333"></point>
+      <point x="364" y="94" type="curve"></point>
     </contour>
   </outline>
-<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>233</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>233</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>233</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>233</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>233</integer></dict>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>212</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>212</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>212</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>212</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>212</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>212</integer></dict>
 </dict></lib>
 </glyph>

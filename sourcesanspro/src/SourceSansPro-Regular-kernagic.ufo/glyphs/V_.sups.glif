@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="V.sups" format="1">
+  <advance width="398"></advance>
+  <outline>
+    <contour>
+      <point x="164" y="266" type="line"></point>
+      <point x="236" y="266" type="line"></point>
+      <point x="374" y="698" type="line"></point>
+      <point x="310" y="698" type="line"></point>
+      <point x="243" y="471" type="line" smooth="yes"></point>
+      <point x="228" y="421"></point>
+      <point x="219" y="379"></point>
+      <point x="203" y="329" type="curve"></point>
+      <point x="200" y="329" type="line"></point>
+      <point x="184" y="379"></point>
+      <point x="174" y="421"></point>
+      <point x="159" y="471" type="curve" smooth="yes"></point>
+      <point x="90" y="698" type="line"></point>
+      <point x="24" y="698" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="parenright.sups" format="1">
+  <advance width="298"></advance>
+  <unicode hex="207E"></unicode>
+  <outline>
+    <contour>
+      <point x="90" y="383" type="curve"></point>
+      <point x="137" y="361" type="line"></point>
+      <point x="192" y="442"></point>
+      <point x="223" y="522"></point>
+      <point x="223" y="635" type="curve" smooth="yes"></point>
+      <point x="223" y="747"></point>
+      <point x="192" y="826"></point>
+      <point x="137" y="907" type="curve"></point>
+      <point x="90" y="885" type="line"></point>
+      <point x="141" y="807"></point>
+      <point x="161" y="723"></point>
+      <point x="161" y="635" type="curve" smooth="yes"></point>
+      <point x="161" y="546"></point>
+      <point x="141" y="463"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

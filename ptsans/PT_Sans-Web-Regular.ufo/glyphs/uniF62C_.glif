@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF62C" format="1">
+  <advance width="194"/>
+  <unicode hex="F62C"/>
+  <outline>
+    <component base="quoteleft" yOffset="-174"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

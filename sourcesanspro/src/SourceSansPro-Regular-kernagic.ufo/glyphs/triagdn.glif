@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="triagdn" format="1">
+  <advance width="522"></advance>
+  <unicode hex="25BC"></unicode>
+  <outline>
+    <contour>
+      <point x="262" y="30" type="line"></point>
+      <point x="266" y="30" type="line"></point>
+      <point x="526" y="523" type="line"></point>
+      <point x="526" y="525" type="line"></point>
+      <point x="1" y="525" type="line"></point>
+      <point x="1" y="523" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

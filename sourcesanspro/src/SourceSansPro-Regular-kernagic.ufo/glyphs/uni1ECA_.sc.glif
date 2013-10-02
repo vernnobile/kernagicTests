@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni1ECA.sc" format="1">
+  <advance width="298"></advance>
+  <outline>
+    <contour>
+      <point x="109" y="0" type="line"></point>
+      <point x="192" y="0" type="line"></point>
+      <point x="192" y="518" type="line"></point>
+      <point x="109" y="518" type="line"></point>
+    </contour>
+    <contour>
+      <point x="150" y="-206" type="curve" smooth="yes"></point>
+      <point x="182" y="-206"></point>
+      <point x="205" y="-184"></point>
+      <point x="205" y="-152" type="curve" smooth="yes"></point>
+      <point x="205" y="-121"></point>
+      <point x="182" y="-99"></point>
+      <point x="150" y="-99" type="curve" smooth="yes"></point>
+      <point x="119" y="-99"></point>
+      <point x="96" y="-121"></point>
+      <point x="96" y="-152" type="curve" smooth="yes"></point>
+      <point x="96" y="-184"></point>
+      <point x="119" y="-206"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

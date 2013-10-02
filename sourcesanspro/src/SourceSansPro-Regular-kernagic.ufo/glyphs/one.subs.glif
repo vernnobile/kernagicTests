@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="one.subs" format="1">
+  <advance width="348"></advance>
+  <unicode hex="2081"></unicode>
+  <outline>
+    <contour>
+      <point x="181" y="-208" type="line"></point>
+      <point x="245" y="-208" type="line"></point>
+      <point x="245" y="182" type="line"></point>
+      <point x="193" y="182" type="line"></point>
+      <point x="166" y="162"></point>
+      <point x="140" y="150"></point>
+      <point x="96" y="142" type="curve"></point>
+      <point x="96" y="100" type="line"></point>
+      <point x="181" y="100" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

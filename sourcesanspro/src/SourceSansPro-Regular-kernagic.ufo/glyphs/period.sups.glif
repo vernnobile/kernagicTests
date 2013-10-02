@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="period.sups" format="1">
+  <advance width="298"></advance>
+  <outline>
+    <contour>
+      <point x="104" y="479" type="curve" smooth="yes"></point>
+      <point x="104" y="451"></point>
+      <point x="123" y="432"></point>
+      <point x="150" y="432" type="curve" smooth="yes"></point>
+      <point x="176" y="432"></point>
+      <point x="195" y="451"></point>
+      <point x="195" y="479" type="curve" smooth="yes"></point>
+      <point x="195" y="508"></point>
+      <point x="176" y="527"></point>
+      <point x="150" y="527" type="curve" smooth="yes"></point>
+      <point x="123" y="527"></point>
+      <point x="104" y="508"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

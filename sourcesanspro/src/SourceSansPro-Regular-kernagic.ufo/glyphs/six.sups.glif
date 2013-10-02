@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="six.sups" format="1">
+  <advance width="398"></advance>
+  <unicode hex="2076"></unicode>
+  <outline>
+    <contour>
+      <point x="200" y="479" type="curve" smooth="yes"></point>
+      <point x="152" y="479"></point>
+      <point x="117" y="518"></point>
+      <point x="111" y="595" type="curve"></point>
+      <point x="141" y="627"></point>
+      <point x="167" y="638"></point>
+      <point x="196" y="638" type="curve" smooth="yes"></point>
+      <point x="245" y="638"></point>
+      <point x="271" y="605"></point>
+      <point x="271" y="559" type="curve" smooth="yes"></point>
+      <point x="271" y="512"></point>
+      <point x="242" y="479"></point>
+    </contour>
+    <contour>
+      <point x="315" y="812" type="line"></point>
+      <point x="293" y="828"></point>
+      <point x="265" y="842"></point>
+      <point x="220" y="842" type="curve" smooth="yes"></point>
+      <point x="124" y="842"></point>
+      <point x="50" y="772"></point>
+      <point x="50" y="625" type="curve" smooth="yes"></point>
+      <point x="50" y="502"></point>
+      <point x="109" y="428"></point>
+      <point x="201" y="428" type="curve" smooth="yes"></point>
+      <point x="275" y="428"></point>
+      <point x="331" y="485"></point>
+      <point x="331" y="560" type="curve" smooth="yes"></point>
+      <point x="331" y="634"></point>
+      <point x="287" y="685"></point>
+      <point x="209" y="685" type="curve" smooth="yes"></point>
+      <point x="172" y="685"></point>
+      <point x="139" y="671"></point>
+      <point x="111" y="645" type="curve"></point>
+      <point x="118" y="744"></point>
+      <point x="164" y="791"></point>
+      <point x="222" y="791" type="curve" smooth="yes"></point>
+      <point x="249" y="791"></point>
+      <point x="270" y="780"></point>
+      <point x="289" y="767" type="curve"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

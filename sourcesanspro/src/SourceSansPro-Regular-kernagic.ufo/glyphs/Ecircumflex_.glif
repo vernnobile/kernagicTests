@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Ecircumflex" format="1">
+  <advance width="522"></advance>
+  <unicode hex="00CA"></unicode>
+  <outline>
+    <contour>
+      <point x="73" y="0" type="line"></point>
+      <point x="461" y="0" type="line"></point>
+      <point x="461" y="71" type="line"></point>
+      <point x="156" y="71" type="line"></point>
+      <point x="156" y="309" type="line"></point>
+      <point x="405" y="309" type="line"></point>
+      <point x="405" y="380" type="line"></point>
+      <point x="156" y="380" type="line"></point>
+      <point x="156" y="586" type="line"></point>
+      <point x="451" y="586" type="line"></point>
+      <point x="451" y="656" type="line"></point>
+      <point x="73" y="656" type="line"></point>
+    </contour>
+    <contour>
+      <point x="198" y="706" type="line"></point>
+      <point x="265" y="774" type="line"></point>
+      <point x="269" y="774" type="line"></point>
+      <point x="336" y="706" type="line"></point>
+      <point x="403" y="706" type="line"></point>
+      <point x="307" y="818" type="line"></point>
+      <point x="228" y="818" type="line"></point>
+      <point x="132" y="706" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

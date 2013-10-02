@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF40B" format="1">
+  <advance width="246"/>
+  <unicode hex="F40B"/>
+  <outline>
+    <contour>
+      <point x="60" y="797" type="qcurve" smooth="yes"/>
+      <point x="60" y="818"/>
+      <point x="93" y="849"/>
+      <point x="122" y="849" type="qcurve" smooth="yes"/>
+      <point x="151" y="849"/>
+      <point x="186" y="818"/>
+      <point x="186" y="797" type="qcurve" smooth="yes"/>
+      <point x="186" y="774"/>
+      <point x="151" y="744"/>
+      <point x="122" y="744" type="qcurve" smooth="yes"/>
+      <point x="93" y="744"/>
+      <point x="60" y="774"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

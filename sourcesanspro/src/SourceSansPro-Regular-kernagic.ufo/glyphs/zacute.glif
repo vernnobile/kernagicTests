@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="zacute" format="1">
+  <advance width="472"></advance>
+  <unicode hex="017A"></unicode>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"></point>
+      <point x="418" y="0" type="line"></point>
+      <point x="418" y="67" type="line"></point>
+      <point x="154" y="67" type="line"></point>
+      <point x="410" y="442" type="line"></point>
+      <point x="410" y="486" type="line"></point>
+      <point x="78" y="486" type="line"></point>
+      <point x="78" y="419" type="line"></point>
+      <point x="306" y="419" type="line"></point>
+      <point x="50" y="44" type="line"></point>
+    </contour>
+    <contour>
+      <point x="359" y="714" type="line"></point>
+      <point x="273" y="714" type="line"></point>
+      <point x="182" y="573" type="line"></point>
+      <point x="246" y="573" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

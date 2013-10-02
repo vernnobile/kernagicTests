@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="gravecomb" format="1">
-  <advance width="772"></advance>
+  <advance width="823"></advance>
   <unicode hex="0300"></unicode>
   <outline>
     <contour>
-      <point x="496" y="1058" type="line"></point>
-      <point x="590" y="1058" type="line"></point>
-      <point x="414" y="1470" type="line"></point>
-      <point x="226" y="1470" type="line"></point>
+      <point x="522" y="1058" type="line"></point>
+      <point x="616" y="1058" type="line"></point>
+      <point x="440" y="1470" type="line"></point>
+      <point x="252" y="1470" type="line"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

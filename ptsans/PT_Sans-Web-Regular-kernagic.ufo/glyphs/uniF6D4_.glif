@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF6D4" format="1">
+  <advance width="430"/>
+  <unicode hex="F6D4"/>
+  <outline>
+    <contour>
+      <point x="128" y="702" type="line"/>
+      <point x="138" y="656"/>
+      <point x="187" y="620"/>
+      <point x="219" y="620" type="qcurve" smooth="yes"/>
+      <point x="251" y="620"/>
+      <point x="301" y="658"/>
+      <point x="310" y="701" type="qcurve"/>
+      <point x="370" y="682" type="line"/>
+      <point x="361" y="624"/>
+      <point x="276" y="562"/>
+      <point x="217" y="562" type="qcurve" smooth="yes"/>
+      <point x="190" y="562"/>
+      <point x="137" y="576"/>
+      <point x="116.0" y="590.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="95" y="604"/>
+      <point x="65" y="648"/>
+      <point x="60" y="678" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

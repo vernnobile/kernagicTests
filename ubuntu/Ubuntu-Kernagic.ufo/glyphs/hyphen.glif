@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="hyphen" format="1">
-  <advance width="415"></advance>
+  <advance width="420"></advance>
   <unicode hex="002D"></unicode>
   <outline>
     <contour>
-      <point x="79" y="343" type="line"></point>
-      <point x="326" y="343" type="line"></point>
-      <point x="326" y="256" type="line"></point>
-      <point x="79" y="256" type="line"></point>
+      <point x="84" y="343" type="line"></point>
+      <point x="331" y="343" type="line"></point>
+      <point x="331" y="256" type="line"></point>
+      <point x="84" y="256" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
